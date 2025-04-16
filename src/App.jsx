@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import quizData from './data/quizData.json';
 
 const TartufiQuiz = ({ quizData }) => {
-  const [allQuizData, setAllQuizData] = useState({});
+ 
   const [testQuestions, setTestQuestions] = useState([]);
   const [userAnswers, setUserAnswers] = useState({});
   const [showResults, setShowResults] = useState(false);
@@ -13,9 +13,9 @@ const TartufiQuiz = ({ quizData }) => {
   
   useEffect(() => {
     try {
-      setAllQuizData(quizData);
-      generateRandomQuestions();
       setLoading(false);
+      generateRandomQuestions();
+      
     } catch (error) {
       console.error("Errore nell'inizializzazione dei dati del quiz:", error);
       setError("Si è verificato un errore nel caricamento del quiz. Riprova più tardi.");
@@ -26,18 +26,23 @@ const TartufiQuiz = ({ quizData }) => {
   const generateRandomQuestions = () => {
     try {
       const allQuestions = [];
-      Object.keys(allQuizData).forEach(section => {
-        Object.keys(allQuizData[section].questions).forEach(questionId => {
+      Object.keys(quizData).forEach(section => {
+        Object.keys(quizData[section].questions).forEach(questionId => {
           allQuestions.push({
             section,
             questionId: parseInt(questionId),
-            ...allQuizData[section].questions[questionId]
+            ...quizData[section].questions[questionId]
           });
         });
       });
       
-      const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
-      const selectedQuestions = shuffled.slice(0, 30);
+      // Mescola con Fisher‑Yates per un vero shuffle
+      for (let i = allQuestions.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [allQuestions[i], allQuestions[j]] = [allQuestions[j], allQuestions[i]];
+      }
+	  // Prendi le prime 30
+      const selectedQuestions = allQuestions.slice(0, 30);
       
       setTestQuestions(selectedQuestions);
       setUserAnswers({});
@@ -141,8 +146,6 @@ const TartufiQuiz = ({ quizData }) => {
             <button
               onClick={() => {
                 generateRandomQuestions();
-                setShowResults(false);
-                setUserAnswers({});
               }}
               className="px-4 py-2 bg-white text-indigo-600 rounded font-semibold hover:bg-indigo-50 transition-colors border border-indigo-600"
             >
@@ -267,8 +270,6 @@ const TartufiQuiz = ({ quizData }) => {
             <button
               onClick={() => {
                 generateRandomQuestions();
-                setShowResults(false);
-                setUserAnswers({});
                 window.scrollTo(0, 0);
               }}
               className="px-6 py-2 bg-white text-emerald-600 rounded-lg font-semibold hover:bg-emerald-50 transition-colors border border-emerald-600"

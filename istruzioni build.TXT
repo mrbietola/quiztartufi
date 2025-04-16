@@ -1,0 +1,57 @@
+# 1. Crea un nuovo progetto Vite con React
+npm create vite@latest quiz-app -- --template react
+
+# 2. Entra nella directory del progetto
+cd quiz-app
+
+# 3. Installa le dipendenze di base
+npm install
+
+# 4. Installa Tailwind e il plugin Vite
+npm install tailwindcss @tailwindcss/vite
+
+# 5. Configura il plugin Vite - Modifica vite.config.js:
+"""
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
+
+export default defineConfig({
+  base: '/quiz-app/',
+  plugins: [
+    react(),
+    tailwindcss(),
+  ],
+})
+"""
+
+# 6. Importa Tailwind nel tuo CSS (src/index.css):
+"""
+@import "tailwindcss";
+"""
+
+# 7. Installa gh-pages per il deploy
+npm install gh-pages --save-dev
+
+# 8. Modifica package.json aggiungendo gli script per il deploy:
+"""
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
+"""
+
+# 9. Inizializza Git
+git init
+
+# 10. Crea il repository su GitHub e collega il repository locale
+git remote add origin https://github.com/username/quiz-app.git
+
+# 11. Primo commit e push
+git add .
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+
+# 12. Deploy su GitHub Pages
+npm run deploy

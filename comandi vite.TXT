@@ -1,0 +1,8 @@
+# Avvia il server di sviluppo con hot-reload
+npm run dev
+
+# Crea la build di produzione nella cartella dist
+npm run build
+
+# Fai preview della build di produzione in locale
+npm run preview
