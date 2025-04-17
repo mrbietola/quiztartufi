@@ -55,6 +55,16 @@ const TartufiQuiz = ({ quizData }) => {
     }
   };
   
+   const getImagePath = (imageName) => {
+    try {
+      // Prima prova a importare da src/assets
+      return new URL(`./assets/images/${imageName}`, import.meta.url).href;
+    } catch (error) {
+      // Se non trova l'immagine in assets, usa il percorso public
+      return `/images/${imageName}`;
+    }
+  };
+  
   const handleAnswerChange = (section, questionId, answer) => {
     setUserAnswers(prev => ({
       ...prev,
@@ -194,6 +204,19 @@ const TartufiQuiz = ({ quizData }) => {
                     <span className="text-sm text-indigo-600 ml-2">[{question.section}]</span> 
                     <span className="ml-2 text-gray-800">{question.text}</span>
                   </div>
+				  {question.image && (
+					<div className="my-4">
+						<img
+							src={getImagePath(question.image)}
+							alt={`Immagine per la domanda ${questionNumber}`}
+							className="max-w-full h-auto rounded-lg shadow-sm"
+							onError={(e) => {
+								console.error(`Errore nel caricamento dell'immagine: ${question.image}`);
+								e.target.style.display = 'none';
+							}}
+						/>
+					</div>
+				  )}
                   
                   <div className="space-y-3 ml-4">
                     {Object.keys(question.options).map(optionKey => (

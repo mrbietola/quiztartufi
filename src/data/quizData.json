@@ -1234,7 +1234,8 @@
           "b": "farnia (Quercus robur L.)",
           "c": "tiglio (Tilia spp.)"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c",
+		"image": "c_36.png"
       },
       "37": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1243,7 +1244,8 @@
           "b": "nocciolo (Corylus avellana L.)",
           "c": "pioppo nero (Populus nigra L.)"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a",
+		"image": "c_37.png"
       },
       "38": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1252,7 +1254,8 @@
           "b": "carpino nero (Ostrya carpinifolia)",
           "c": "ontano verde (Alnus viridis)"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b",
+		"image": "c_38.png"
       },
       "39": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1261,7 +1264,8 @@
           "b": "carpino bianco (Carpinus betulus L.)",
           "c": "carpino nero (Ostrya carpinifolia Scop.)"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c",
+		"image": "c_39.png"
       },
       "40": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1270,7 +1274,8 @@
           "b": "rovere (Quercus petraea)",
           "c": "leccio (Quercus ilex)"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a",
+		"image": "c_40.png"
       },
       "41": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1279,7 +1284,8 @@
           "b": "cerro (Quercus cerris)",
           "c": "leccio (Quercus ilex)"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b",
+		"image": "c_41.png"
       },
       "42": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1288,7 +1294,8 @@
           "b": "roverella (Quercus pubescens Willd.)",
           "c": "leccio (Quercus ilex L. )"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b",
+		"image": "c_42.png"
       },
       "43": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1297,7 +1304,8 @@
           "b": "leccio (Quercus ilex L.)",
           "c": "cerro (Quercus cerris L.)"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a",
+		"image": "c_43.png"
       },
       "44": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1306,7 +1314,8 @@
           "b": "tiglio (Tilia spp.)",
           "c": "nocciolo (Corylus avellana L.)"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c",
+		"image": "c_44.png"
       },
       "45": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1315,7 +1324,8 @@
           "b": "tiglio (Tilia spp.)",
           "c": "pioppo bianco (Populus alba)"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a",
+		"image": "c_45.png"
       },
       "46": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1324,7 +1334,8 @@
           "b": "tiglio (Tilia spp.)",
           "c": "nocciolo (Corylus avellana)"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a",
+		"image": "c_46.png"
       },
       "47": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1333,7 +1344,8 @@
           "b": "pioppo bianco (Populus alba L.)",
           "c": "roverella (Quercus pubescens Willd)"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b",
+		"image": "c_47.png"
       },
       "48": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1342,7 +1354,8 @@
           "b": "salice bianco (Salix alba L.)",
           "c": "leccio (Quercus ilex)"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b",
+		"image": "c_48.png"
       },
       "49": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1351,7 +1364,8 @@
           "b": "pioppo bianco (Populus alba L.)",
           "c": "salice bianco (Salix alba L.)"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c",
+		"image": "c_49.png"
       },
       "50": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1360,7 +1374,8 @@
           "b": "roverella (Quercus pubescens Willd.)",
           "c": "pioppo nero (Populus nigra L.)"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c",
+		"image": "c_50.png"
       },
       "51": {
         "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
@@ -1369,7 +1384,8 @@
           "b": "roverella (Quercus pubescens Willd.)",
           "c": "salice bianco (Salix alba L.)"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a",
+		"image": "c_51.png"
       }
     }
   },
