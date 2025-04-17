@@ -2075,340 +2075,277 @@
     }
   }, 
   "F": {
-    "title": "TARTUFAIE COLTIVATE, TARTUFAIE CONTROLLATE E TESSERINO D'IDONEITA'",
+    "title": "TARTUFAIE COLTIVATE, CONTROLLATE E TESSERINO D'IDONEITA' (L.R. 36/2023 e DPGR 2/R/2025)",
     "questions": {
       "1": {
-        "text": "Che cosa si intende per \"tartufaia controllata\" ai sensi dell'art. 4 della L.R. 50/95?",
+        "text": "Cosa si intende per \"tartufaia naturale controllata\" secondo la L.R. 36/2023 (Art. 2, c. 1, lett. d)?",
         "options": {
-          "a": "una tartufaia naturale migliorata con opportune cure colturali ed incrementata con la messa a dimora di piante micorrizate",
-          "b": "una tartufaia recintata da rete metalllica",
-          "c": "una tartufaia artificiale sottoposta a continui controlli selvicolturali"
+          "a": "Un'area boschiva recintata dove si trovano tartufi",
+          "b": "Una tartufaia naturale gestita tramite un piano specifico con tecniche colturali di mantenimento/miglioramento",
+          "c": "Qualsiasi terreno agricolo dove sono state piantate piante micorrizate"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       "2": {
-        "text": "Che cosa si intende per \"tartufaia controllata\" ai sensi dell'art. 4 della L.R. 50/95?",
+        "text": "Qual è la principale differenza tra una tartufaia naturale controllata e una tartufaia coltivata (L.R. 36/2023, Art. 2)?",
         "options": {
-          "a": "una tartufaia impiantata esclusivamente con piante sterilizzate e non simbionti",
-          "b": "una tartufaia in cui vengono rigorosamente controllati i prelievi di tartufo per scopi scientifici e di ricerca",
-          "c": "una tartufaia naturale migliorata con opportune cure colturali ed incrementata con la messa a dimora di piante micorrizate"
+          "a": "La controllata è in bosco, la coltivata è in campo aperto",
+          "b": "La controllata migliora un ambiente naturale esistente, la coltivata è impiantata ex-novo in terreno agricolo con piante micorrizate",
+          "c": "Nella controllata si raccolgono solo tartufi bianchi, nella coltivata solo neri"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "b"
       },
       "3": {
-        "text": "Che cosa si intende per \"tartufaia coltivata\", secondo la normativa regionale?",
+        "text": "Secondo la L.R. 36/2023 (Art. 2, c. 1, lett. e), quante piante tartufigene per ettaro, minimo, deve avere una tartufaia coltivata?",
         "options": {
-          "a": "una tartufaia situata in terreni coltivati",
-          "b": "una tartufaia piantata ex novo con piante tartufigene preventivamente micorrizate",
-          "c": "una tartufaia che periodicamente viene consociata con colture agrarie"
+          "a": "100 piante/ettaro",
+          "b": "200 piante/ettaro",
+          "c": "Non c'è un numero minimo definito"
         },
         "correctAnswer": "b"
       },
       "4": {
-        "text": "Che cosa si intende per \"tartufaia coltivata\", secondo la normativa regionale?",
+        "text": "Le tartufaie coltivate sono considerate boschi ai sensi della Legge forestale della Toscana (L.R. 39/2000)? (L.R. 36/2023, Art. 2, c. 1, lett. e)",
         "options": {
-          "a": "una tartufaia sottoposta a continui interventi di aratura, erpicatura, concimazione e diserbo chimico allo scopo di incrementare la produzione del tartufo",
-          "b": "una tartufaia naturale migliorata e coltivata da un coltivatore diretto",
-          "c": "una tartufaia piantata ex novo con piante tartufigene preventivamente micorrizate"
+          "a": "Sì, sempre",
+          "b": "No, non sono considerate boschi",
+          "c": "Solo se superano i 5 ettari"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "b"
       },
       "5": {
-        "text": "Che cosa si intende per \"tartufaia coltivata\" di Tuber melanosporum Vitt.?",
+        "text": "Le piante utilizzate per le tartufaie (controllate o coltivate) devono avere una certificazione? (DPGR 2/R/2025, Art. 2)",
         "options": {
-          "a": "una tartufaia piantata ex novo con piante tartufigene preventivamente micorrizate",
-          "b": "una tartufaia naturale incrementata con piante tartufigene",
-          "c": "una tartufaia dove è il conduttore può raccogliere il tartufo senza tesserino e per 11 mesi all'anno"
+          "a": "No, è sufficiente che siano specie simbionti",
+          "b": "Sì, devono essere certificate secondo la normativa di settore riguardo specie forestale e micorrizazione",
+          "c": "Sì, ma solo per le tartufaie coltivate"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       "6": {
-        "text": "Nelle tartufaie coltivate le piante sono micorrizate:",
+        "text": "Chi rilascia il riconoscimento per una tartufaia naturale controllata o coltivata? (L.R. 36/2023, Art. 4, c. 1, lett. c)",
         "options": {
-          "a": "artificialmente",
-          "b": "naturalmente",
-          "c": "non sono micorizzate"
-        },
-        "correctAnswer": "a"
-      },
-      "7": {
-        "text": "Quante piante tartufigene deve contenere una “tartufaia coltivata” nel rispetto della LR 50/95?",
-        "options": {
-          "a": "100 o più piante/Ha",
-          "b": "meno di 100 piante/Ha",
-          "c": "meno di 50 piante/Ha"
-        },
-        "correctAnswer": "a"
-      },
-      "8": {
-        "text": "Quante piante deve contenere una “tartufaia coltivata” nel rispetto della LR 50/95?",
-        "options": {
-          "a": "sono sufficienti 30 piante/Ha purchè siano tutte micorrizzate",
-          "b": "meno di 100 piante/Ha di cui almeno 50 micorrizzate",
-          "c": "100 o più piante/Ha di cui almeno 100 micorrizzate"
+          "a": "La Regione Toscana",
+          "b": "L'Associazione Tartufai locale",
+          "c": "Il Comune dove ricadono i terreni"
         },
         "correctAnswer": "c"
       },
-      "9": {
-        "text": "Che cosa si intende per pianta tartufigena preventivamente micorrizata?",
+      "7": {
+        "text": "Quale documento tecnico principale deve essere allegato alla richiesta di riconoscimento di una tartufaia naturale controllata? (DPGR 2/R/2025, Art. 10, c. 2)",
         "options": {
-          "a": "una pianta che produce tartufi e che precedentemente viene concimata",
-          "b": "una piantina prodotta in vivaio, inoculata con una determinata specie di tartufo",
-          "c": "una pianta posta in una tartufaia coltivata"
+          "a": "Una mappa catastale semplice",
+          "b": "Il certificato di proprietà dei terreni",
+          "c": "Una perizia asseverata (con caratteristiche ecologiche, interventi, piano di gestione)"
+        },
+        "correctAnswer": "c"
+      },
+      "8": {
+        "text": "Quale documento tecnico principale deve essere allegato alla richiesta di riconoscimento di una tartufaia coltivata? (DPGR 2/R/2025, Art. 11, c. 2)",
+        "options": {
+          "a": "L'analisi chimica del terreno",
+          "b": "Una perizia asseverata (con attitudine, sesto impianto, tecniche gestione, piano di gestione)",
+          "c": "La fattura di acquisto delle piante"
+        },
+        "correctAnswer": "b"
+      },
+       "9": {
+        "text": "Qual è la durata del riconoscimento di una tartufaia naturale controllata? (L.R. 36/2023, Art. 11, c. 7)",
+        "options": {
+          "a": "3 anni, rinnovabili",
+          "b": "5 anni, rinnovabili",
+          "c": "10 anni, non rinnovabili"
         },
         "correctAnswer": "b"
       },
       "10": {
-        "text": "Che cosa si intende per pianta tartufigena preventivamente micorrizata?",
+        "text": "La cerca e la raccolta all'interno di una tartufaia naturale controllata o coltivata riconosciuta sono riservate? (L.R. 36/2023, Art. 7, c. 3)",
         "options": {
-          "a": "una piantina prodotta in vivaio, inoculata con una determinata specie di tartufo",
-          "b": "una pianta che produce tartufi e che viene potata tutti gli anni",
-          "c": "una pianta nata spontaneamente in prossimità di una tartufaia naturale"
+          "a": "No, sono libere negli orari consentiti",
+          "b": "Sì, sono riservate agli aventi titolo (proprietario/conduttore e autorizzati)",
+          "c": "Sì, ma solo durante il periodo di validità dell'ora legale"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       "11": {
-        "text": "Che cosa si intende per pianta tartufigena preventivamente micorrizata?",
+        "text": "Il titolare di una tartufaia riconosciuta (controllata o coltivata) deve avere il tesserino di abilitazione per cercarvi e raccogliervi? (L.R. 36/2023, Art. 11 c.9, Art. 12 c.5)",
         "options": {
-          "a": "una pianta che produce tartufi e che periodicamente viene capitozzata",
-          "b": "una pianta sterilizzata e messa a dimora senza altri interveniti artificiali",
-          "c": "una piantina prodotta in vivaio, inoculata con una determinata specie di tartufo"
+          "a": "No, in quanto titolare è esentato",
+          "b": "Sì, deve essere in possesso del tesserino e in regola con il versamento annuale",
+          "c": "Sì, ma non deve pagare il versamento annuale"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "b"
       },
       "12": {
-        "text": "Chi può richiedere il riconoscimento del diritto di raccolta riservata per una tartufaia controllata/coltivata, secondo la norma regionale di settore?",
+        "text": "Il titolare di una tartufaia coltivata può autorizzare i propri dipendenti alla raccolta riservata? (L.R. 36/2023, Art. 12, c. 5)",
         "options": {
-          "a": "chiunque esercita l'attività di tartufaio da almeno tre anni",
-          "b": "chi ne abbia la proprietà od altro diritto di legittimazione alla conduzione dell'area",
-          "c": "chiunque sia iscritto ad una Associazione di tartufai"
+          "a": "No, solo il titolare può raccogliere",
+          "b": "Sì, purché i dipendenti siano in possesso dell'attestato di idoneità e in regola col versamento",
+          "c": "Sì, senza alcuna condizione aggiuntiva per i dipendenti"
         },
         "correctAnswer": "b"
       },
       "13": {
-        "text": "Da quale soggetto istituzionale viene svolto il servizio pubblico di controllo delle piantine tartufigene a favore degli operatori agricoli, ed il rilascio del relativo attestato?",
+        "text": "Cosa succede se il titolare di una tartufaia naturale controllata non rispetta le tecniche colturali indicate nel piano? (L.R. 36/2023, Art. 13, c. 1)",
         "options": {
-          "a": "Dalle cooperative di conservazione e commercializzazione",
-          "b": "Dal Comune di residenza",
-          "c": "Dalla competente struttura della Giunta regionale"
+          "a": "Riceve una sanzione pecuniaria",
+          "b": "Il riconoscimento viene revocato dal Comune",
+          "c": "Viene sospesa la raccolta per un anno"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "b"
       },
-      "14": {
-        "text": "Cosa è concesso al proprietario o gestore della tartufaia controllata, secondo la normativa regionale di settore?",
+       "14": {
+        "text": "Chi rilascia il tesserino di abilitazione per la cerca e raccolta? (L.R. 36/2023, Art. 9, c. 1 e Art. 4, c. 1, lett. a)",
         "options": {
-          "a": "Raccogliere i tartufi senza l'ausilio del cane a ciò addestrato",
-          "b": "Raccogliere il tartufo bianco (Tuber magnatum Pico)",
-          "c": "Raccogliere i tartufi pur non avendo pagato la tassa per la ricerca e raccolta tartufi"
+          "a": "La Regione Toscana",
+          "b": "La ASL - Ispettorato Micologico",
+          "c": "Il Comune di residenza, previo accertamento idoneità e pagamento importo"
         },
         "correctAnswer": "c"
       },
       "15": {
-        "text": "Secondo la legge regionale 50/95, quali fra le seguenti operazioni colturali NON sono considerate pratiche di miglioramento di tartufaie naturali?",
-        "options": {
-          "a": "concimazioni",
-          "b": "irrigazioni e pacciamature",
-          "c": "opere di regimazione delle acque superficiali"
-        },
-        "correctAnswer": "a"
-      },
-      "16": {
-        "text": "Quale delle seguenti operazioni colturali può essere effettuata ai sensi della L.R. 50/95 per migliorare una tartufaia naturale?",
-        "options": {
-          "a": "concimazione azotata",
-          "b": "creazione di fossette di scolo per la regimazione delle acque",
-          "c": "capitozzatura (drastica potatura) delle specie arboree simbionti"
-        },
-        "correctAnswer": "b"
-      },
-      "17": {
-        "text": "Per realizzare le tartufaie “controllate”, è necessario l'inserimento di piantine tartufigene preventivamente micorrizate?",
-        "options": {
-          "a": "si, in numero inferiore a 30 piante ad ettaro",
-          "b": "si, in numero uguale o maggiore a 30 piante ad ettaro, quando non siano presenti elementi per una eventuale deroga",
-          "c": "no"
-        },
-        "correctAnswer": "b"
-      },
-      "18": {
-        "text": "Il tesserino di abilitazione per esercitare la ricerca e la raccolta dei tartufi ha validità:",
-        "options": {
-          "a": "1 anno",
-          "b": "5 anni",
-          "c": "3 anni"
-        },
-        "correctAnswer": "b"
-      },
-      "19": {
-        "text": "L'importo relativo all' abilitazione annuale alla raccolta del tartufo deve essere pagato:",
-        "options": {
-          "a": "alla Regione",
-          "b": "alla Provincia",
-          "c": "al Comune di residenza"
-        },
-        "correctAnswer": "a"
-      },
-      "20": {
-        "text": "Entro quale giorno dell'anno deve essere pagato obbligatoriamente l'importo annuale relativo all' abilitazione di cui all'art.23 della L.R. 50/95 ?",
-        "options": {
-          "a": "il 10 di gennaio",
-          "b": "il 31 di dicembre",
-          "c": "entro il giorno in cui il raccoglitore prevede di effettuare la ricerca e raccolta dei tartufi"
-        },
-        "correctAnswer": "c"
-      },
-      "21": {
-        "text": "Indicare quale delle seguenti affermazioni risulta FALSA in base alla L.R. 50/95:",
-        "options": {
-          "a": "le tabelle di delimitazione delle tartufaie \"coltivate e “controllate\" devono indicare il pagamento della tassa di registro",
-          "b": "le tabelle di delimitazione delle tartufaie “coltivate e “controllate” devono essere poste ad almeno 2,50 metri di altezza dal suolo",
-          "c": "le tabelle di delimitazione delle tartufaie \"coltivate e \"controllate\" devono avere una dimensione di cm 20 x 30 con scritta nera su fondo bianco"
-        },
-        "correctAnswer": "a"
-      },
-      "22": {
-        "text": "Indicare quale delle seguenti affermazioni risulta VERA in base alla L.R. 50/95:",
-        "options": {
-          "a": "le tabelle di delimitazione delle tartufaie “coltivate e “controllate\" devono avere una dimensione di cm 30 x 50 con scritta nera su fondo bianco",
-          "b": "le tabelle di delimitazione delle tartufaie \"coltivate e \"controllate\" devono avere una dimensione di cm 20 x 30 con scritta nera su fondo bianco",
-          "c": "le tabelle di delimitazione delle tartufaie “coltivate e “controllate\" devono avere una dimensione di cm 20 x 30 con scritta rossa su fondo bianco"
-        },
-        "correctAnswer": "b"
-      },
-      "23": {
-        "text": "Le tabelle di delimitazione delle tartufaie “controllate” e “coltivate” devono essere poste:",
-        "options": {
-          "a": "ad 1.50 m di altezza dal suolo",
-          "b": "ad almeno 2.50 m di altezza dal suolo ed in modo tale che da ogni cartello sia visibile il precedente ed il successivo",
-          "c": "solo in prossimità degli accessi alla tartufaia"
-        },
-        "correctAnswer": "b"
-      },
-      "24": {
-        "text": "I Consorzi Volontari per la difesa del tartufo, ai fini di una gestione organica delle aree tartufigene, possono includere nei perimetri delle tartufaie “controllate” aree nelle quali non sono stati effettuati interventi di miglioramento:",
-        "options": {
-          "a": "per una superficie massima di 20 ettari",
-          "b": "per una superficie non superiore ad ¼ dell'area effettivamente oggetto di miglioramento",
-          "c": "per una superficie uguale all'area effettivamente oggetto di miglioramento"
-        },
-        "correctAnswer": "b"
-      },
-      "25": {
-        "text": "Secondo la L.R. 50/95, il tesserino di idoneità alla ricerca a alla raccolta dei tartufi ha validità:",
-        "options": {
-          "a": "su tutto il territorio dell'Unione Europea",
-          "b": "su tutto il territorio Regionale",
-          "c": "su tutto il territorio Nazionale"
-        },
-        "correctAnswer": "c"
-      },
-      "26": {
-        "text": "Quale fra le seguenti zone geografiche di provenienza, tutela e valorizzazione del tartufo NON è individuata dalla normativa regionale che disciplina in materia di tartufi:",
-        "options": {
-          "a": "tartufo toscano bianco della Valtiberina",
-          "b": "tartufo toscano bianco delle Crete Senesi",
-          "c": "tartufo marzuolo del Mugello"
-        },
-        "correctAnswer": "c"
-      },
-      "27": {
-        "text": "Qual è l'età minima per raccogliere i tartufi, con il tesserino di abilitazione, ai sensi della normativa regionale?",
+        "text": "Qual è l'età minima per ottenere il tesserino? (L.R. 36/2023, Art. 9, c. 3)",
         "options": {
           "a": "14 anni",
           "b": "16 anni",
           "c": "18 anni"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
-      "28": {
-        "text": "A chi si deve presentare la domanda per ottenere il diritto di raccolta riservata di tartufi:",
+      "16": {
+        "text": "Qual è la validità temporale del tesserino di abilitazione? (L.R. 36/2023, Art. 9, c. 5)",
         "options": {
-          "a": "al Comune competente per territorio",
-          "b": "alla Regione Toscana",
-          "c": "alla Provincia"
+          "a": "Annuale",
+          "b": "5 anni",
+          "c": "10 anni dalla data del rilascio"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "c"
+      },
+      "17": {
+        "text": "Cosa è necessario fare per mantenere valido il tesserino negli anni successivi al rilascio (entro la scadenza decennale)? (L.R. 36/2023, Art. 9, c. 5)",
+        "options": {
+          "a": "Nulla, la validità è decennale senza condizioni",
+          "b": "Effettuare il versamento annuale prima di iniziare l'attività per l'anno solare",
+          "c": "Frequentare un corso di aggiornamento ogni 2 anni"
+        },
+        "correctAnswer": "b"
+      },
+       "18": {
+        "text": "A quanto ammonta l'importo annuale da versare alla Regione Toscana per esercitare la cerca e raccolta? (L.R. 36/2023, Art. 9, c. 1)",
+        "options": {
+          "a": "Euro 50,00",
+          "b": "Euro 92,96",
+          "c": "Euro 100,00"
+        },
+        "correctAnswer": "b"
+      },
+      "19": {
+        "text": "Se un anno non si esercita l'attività, si deve comunque pagare l'importo annuale? (L.R. 36/2023, Art. 9, c. 6)",
+        "options": {
+          "a": "Sì, per mantenere valido il tesserino",
+          "b": "No, il pagamento non è dovuto in caso di non esercizio",
+          "c": "Sì, ma solo la metà dell'importo"
+        },
+        "correctAnswer": "b"
+      },
+      "20": {
+        "text": "Come si ottiene l'idoneità alla cerca e raccolta necessaria per il primo rilascio del tesserino? (L.R. 36/2023, Art. 10, c. 1)",
+        "options": {
+          "a": "Facendo richiesta diretta al Comune",
+          "b": "Frequentando un percorso formativo (min. 30 ore) e superando un esame finale",
+          "c": "Dimostrando di aver raccolto tartufi per almeno 5 anni"
+        },
+        "correctAnswer": "b"
+      },
+      "21": {
+        "text": "Per rinnovare il tesserino alla scadenza decennale, cosa è necessario fare? (L.R. 36/2023, Art. 9, c. 7 e Art. 10, c. 2)",
+        "options": {
+          "a": "Solo pagare l'importo annuale",
+          "b": "Superare nuovamente l'esame di idoneità",
+          "c": "Richiedere il rinnovo previa frequenza di un corso di aggiornamento (min. 8 ore) nell'anno precedente"
+        },
+        "correctAnswer": "c"
+      },
+      "22": {
+        "text": "Chi tiene i percorsi formativi per l'idoneità e l'aggiornamento? (L.R. 36/2023, Art. 10, c. 3)",
+        "options": {
+          "a": "Solo le Associazioni di tartufai",
+          "b": "Solo la Regione Toscana",
+          "c": "Gli ispettorati micologici ASL (che possono avvalersi di personale esperto) e le Associazioni (Art. 15)"
+        },
+        "correctAnswer": "c"
+      },
+      "23": {
+        "text": "Quale conoscenza NON è specificamente richiesta per l'esame di idoneità? (L.R. 36/2023, Art. 10, c. 5)",
+        "options": {
+          "a": "Ecologia dei tartufi e principi di tartuficoltura",
+          "b": "Tecniche avanzate di addestramento cani",
+          "c": "Normativa tartufi, legislazione alimentare, micologia, botanica, selvicoltura"
+        },
+        "correctAnswer": "b"
+      },
+      "24": {
+        "text": "Su quale territorio ha validità il tesserino rilasciato dalla Toscana? (L.R. 36/2023, Art. 9, c. 4)",
+        "options": {
+          "a": "Solo nella provincia di rilascio",
+          "b": "Su tutto il territorio regionale toscano",
+          "c": "Su tutto il territorio nazionale"
+        },
+        "correctAnswer": "c"
+      },
+       "25": {
+        "text": "Quali documenti deve avere con sé il tartufaio durante la cerca e raccolta? (L.R. 36/2023, Art. 7, c. 4)",
+        "options": {
+          "a": "Solo il tesserino di abilitazione",
+          "b": "Il tesserino di abilitazione e la ricevuta del versamento annuale (se dovuto)",
+          "c": "Documento di identità e codice fiscale"
+        },
+        "correctAnswer": "b"
+      },
+      "26": {
+        "text": "Quali sono le dimensioni delle tabelle per delimitare le tartufaie? (DPGR 2/R/2025, Art. 14, c. 1)",
+        "options": {
+          "a": "15 cm x 25 cm",
+          "b": "20 cm x 30 cm",
+          "c": "30 cm x 40 cm"
+        },
+        "correctAnswer": "b"
+      },
+      "27": {
+        "text": "A quale altezza minima devono essere poste le tabelle di delimitazione? (DPGR 2/R/2025, Art. 14, c. 1)",
+        "options": {
+          "a": "1.50 metri",
+          "b": "1.80 metri",
+          "c": "2.50 metri"
+        },
+        "correctAnswer": "b"
+      },
+       "28": {
+        "text": "Come devono essere scritte le tabelle di delimitazione? (DPGR 2/R/2025, Art. 14, c. 3)",
+        "options": {
+          "a": "In corsivo rosso su fondo giallo",
+          "b": "In stampatello nero su fondo bianco, ben leggibili",
+          "c": "Con caratteri a scelta, purché visibili"
+        },
+        "correctAnswer": "b"
       },
       "29": {
-        "text": "Che durata ha l'attestato di raccolta riservata di tartufi nelle tartufaie controllate?",
+        "text": "Cosa deve essere riportato su ogni tabella di delimitazione? (DPGR 2/R/2025, Art. 14, c. 3)",
         "options": {
-          "a": "5 anni",
-          "b": "10 anni",
-          "c": "non ha scadenza"
-        },
-        "correctAnswer": "a"
-      },
-      "30": {
-        "text": "Cosa prevede la legge regionale 50/95, nel caso in cui un proprietario o gestore di una tartufaia controllata non la gestisca secondo quanto previsto dal piano di coltura e conservazione per i cinque anni di durata dell'attestazione di raccolta riservata?",
-        "options": {
-          "a": "l'ingresso di raccoglitori non autorizzati",
-          "b": "la revoca dell'attestazione di raccolta riservata da parte del Comune",
-          "c": "un aumento dei danni da parte della fauna selvatica"
+          "a": "Solo il nome del proprietario",
+          "b": "Il numero di riconoscimento rilasciato dal comune e la dicitura appropriata ('Raccolta riservata' o 'Area addestramento')",
+          "c": "La data di scadenza del riconoscimento"
         },
         "correctAnswer": "b"
       },
-      "31": {
-        "text": "Un proprietario di tartufaia naturale che voglia riservarsi la raccolta di tartufi, che modalità può seguire nell'ambito della l.r. 50/95?",
+       "30": {
+        "text": "È permesso collocare le tabelle su alberi vivi? (DPGR 2/R/2025, Art. 14, c. 1)",
         "options": {
-          "a": "trasformarla in una tartufaia controllata",
-          "b": "recintarla con rete metallica",
-          "c": "recintarla con filo spinato"
-        },
-        "correctAnswer": "a"
-      },
-      "32": {
-        "text": "Quali documenti deve portare con sé il raccoglitore durante la ricerca e raccolta dei tartufi per essere in regola con la normativa regionale?",
-        "options": {
-          "a": "soltanto il tesserino",
-          "b": "il tesserino e la ricevuta di pagamento",
-          "c": "soltanto la ricevuta di pagamento"
+          "a": "No, solo su pali o sostegni morti",
+          "b": "Sì, ma solo con fascette che non danneggino la pianta",
+          "c": "Sì, usando chiodi o viti"
         },
         "correctAnswer": "b"
-      },
-      "33": {
-        "text": "In quale caso la norma regionale prevede che si possa raccogliere tartufi senza l'obbligo del tesserino di idoneità?",
-        "options": {
-          "a": "in nessun caso",
-          "b": "per coloro che esercitano la raccolta nei terreni demaniali",
-          "c": "per coloro che esercitano la raccolta su aree a raccolta riservata di loro proprietà o da essi condotte"
-        },
-        "correctAnswer": "c"
-      },
-      "34": {
-        "text": "Da chi viene rilasciato il tesserino che abilita alla ricerca ed alla raccolta dei tartufi?",
-        "options": {
-          "a": "Dalla Regione Toscana",
-          "b": "Dal Comune di residenza",
-          "c": "Dall' Azienda Sanitaria Locale di riferimento"
-        },
-        "correctAnswer": "b"
-      },
-      "35": {
-        "text": "Secondo la L.R. 50/95, quale di questi esperti non fa parte della commissione d'esame d'idoneità per la raccolta dei tartufi?",
-        "options": {
-          "a": "esperto del Corpo Forestale dello Stato",
-          "b": "esperto della Azienda Sanitaria Locale",
-          "c": "esperto dell'associazione dei raccoglitori riconosciuta"
-        },
-        "correctAnswer": "b"
-      },
-      "36": {
-        "text": "Secondo la L.R. 50/95, un aspirante raccoglitore come può ottenere l'abilitazione alla raccolta dei tartufi?",
-        "options": {
-          "a": "pagando un importo annuale che abilita alla raccolta",
-          "b": "seguendo un corso di abilitazione specifico",
-          "c": "sostenendo un esame davanti ad un apposita commissione regionale"
-        },
-        "correctAnswer": "c"
-      },
-      "37": {
-        "text": "A quanto ammonta l'importo relativo all'abilitazione alla ricerca e alla raccolta del tartufo, da pagare per il ritiro del tesserino, secondo la normativa regionale attuale?",
-        "options": {
-          "a": "Euro 16,00",
-          "b": "Euro 100,00",
-          "c": "Euro 92, 96"
-        },
-        "correctAnswer": "c"
       }
     }
   },
