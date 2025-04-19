@@ -2350,460 +2350,388 @@
     }
   },
   "G": {
-    "title": "TECNICHE DI RICERCA E RACCOLTA DEI TARTUFI",
+    "title": "TECNICHE DI RICERCA E RACCOLTA DEI TARTUFI (L.R. 36/2023)",
     "questions": {
       "1": {
-        "text": "La L.R. 50/95 stabilisce precise norme di ricerca e raccolta dei tartufi: quali tra le seguenti operazioni NON è consentita?",
+        "text": "Quale delle seguenti operazioni NON è consentita durante la cerca e raccolta secondo la L.R. 36/2023 (Art. 7, c. 10)?",
         "options": {
-          "a": "ricoprire con il terreno di scavo le buche aperte per l'estrazione",
-          "b": "lavorare andantemente il terreno per facilitare la ricerca",
-          "c": "ricercare i tartufi con l'ausilio del cane a ciò addestrato"
+          "a": "Ricoprire le buche con il terreno di scavo",
+          "b": "Effettuare la zappatura o la rastrellatura del terreno",
+          "c": "Usare il cane per la ricerca"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "2": {
-        "text": "La L.R. 50/95 e successive modificazioni, stabilisce precise norme di ricerca e raccolta dei tartufi: quali tra le seguenti operazioni è consentita?",
+        "text": "Qual è la procedura corretta subito dopo aver estratto il tartufo secondo la L.R. 36/2023 (Art. 7, c. 9)?",
         "options": {
-          "a": "ricoprire con il terreno di scavo le buche aperte per l'estrazione",
-          "b": "lavorare andantemente il terreno per facilitare la ricerca",
-          "c": "allargare la buca alla ricerca di altri esemplari di tartufo"
+          "a": "Riempire subito la buca con il medesimo terreno di scavo",
+          "b": "Lasciare la buca aperta per favorire la dispersione delle spore",
+          "c": "Allargare la buca per cercare altri tartufi"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "3": {
-        "text": "La L.R. 50/95, stabilisce precise norme di ricerca e raccolta dei tartufi: quali tra le seguenti operazioni è consentita?",
+        "text": "Quale strumento è specificamente menzionato e consentito per lo scavo dalla L.R. 36/2023 (Art. 7, c. 7)?",
         "options": {
-          "a": "la ricerca e la raccolta del tartufo in orari diversi delle ore indicate all'art 13 della legge 50/95",
-          "b": "lavorare andantemente il terreno per facilitare la ricerca per scopi scientifici",
-          "c": "aprire le buche, dove indicato dal cane, con il vanghetto"
+          "a": "Piccone",
+          "b": "Rastrello",
+          "c": "Vanghetto o vanghella (con dimensioni specifiche)"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "4": {
-        "text": "Se durante la raccolta un tartufaio trovasse un tartufo avariato, quale sarebbe il corretto comportamento da tenere?",
+        "text": "Se durante la raccolta si trova un tartufo avariato (marcio), qual è il comportamento più rispettoso dell'ambiente?",
         "options": {
-          "a": "portarlo comunque via",
-          "b": "interrarlo nella stessa tartufaia o in un'altra che mostra stanchezza produttiva",
-          "c": "cercare di venderlo ad un prezzo più basso del prezzo medio di mercato"
+          "a": "Portarlo via e gettarlo",
+          "b": "Reinterrarlo delicatamente nello stesso punto o nelle vicinanze per favorire il ciclo naturale",
+          "c": "Lasciarlo in superficie"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "5": {
-        "text": "Se durante la raccolta un tartufo trovasse un tartufo immaturo, quale sarebbe il corretto comportamento da tenere?",
+        "text": "Se si individua un tartufo chiaramente immaturo, cosa bisogna fare secondo i principi della L.R. 36/2023 che ne vieta la raccolta?",
         "options": {
-          "a": "portarlo via e farlo maturare prima di venderlo",
-          "b": "lasciarlo nella buca di scavo",
-          "c": "cercare di venderlo ad un prezzo più basso del prezzo medio di mercato"
+          "a": "Raccoglierlo e provare a farlo maturare",
+          "b": "Lasciarlo indisturbato nel terreno, ricoprendolo se scoperto",
+          "c": "Segnalarlo ad altri cercatori"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "6": {
-        "text": "Se durante la raccolta di un tartufo maturo, questo si rompe in pezzi, posso portarlo via per venderlo ?",
+        "text": "Se un tartufo maturo si rompe accidentalmente durante l'estrazione, i pezzi possono essere raccolti?",
         "options": {
-          "a": "si posso portarlo comunque via",
-          "b": "no, va rinterrato nella stessa tartufaia o in un'altra che mostra stanchezza produttiva",
-          "c": "no, i pezzi vanno lasciati nella buca di scavo"
+          "a": "Sì, in quanto parte di un tartufo maturo regolarmente trovato",
+          "b": "No, vanno lasciati nel terreno",
+          "c": "Solo se superano una certa dimensione"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "7": {
-        "text": "Perchè il tartufaio deve evitare di lasciare le buche aperte, dopo aver cercato i tartufi?",
+        "text": "Perché è fondamentale, per la tutela dell'ecosistema tartufigeno, evitare di lasciare le buche aperte?",
         "options": {
-          "a": "Perchè così facendo segnala agli altri tartufai una zona di raccolta",
-          "b": "Perchè il profumo della terra smossa distrae i cani degli altri cavatori",
-          "c": "Perchè lasciando il terreno esposto all'aria, dissecca le micorrize ed il micelio dei tartufi"
+          "a": "Per non far vedere dove si è trovato il tartufo",
+          "b": "Per evitare che il terreno si secchi troppo rapidamente",
+          "c": "Per proteggere il micelio e le micorrize dall'essiccamento e dai danni atmosferici"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "8": {
-        "text": "Perchè il tartufaio non deve allargare le buche aperte, dopo aver cercato i tartufi?",
+        "text": "Perché è importante limitare lo scavo al minimo indispensabile e non allargare troppo la buca?",
         "options": {
-          "a": "Perchè così facendo rende più evidente una zona di raccolta",
-          "b": "Perchè può danneggiare la tartufaia ed il micelio dei tartufi",
-          "c": "Perchè più grande è la buca e più difficile diventa ricoprirla in maniera corretta"
+          "a": "Per fare meno fatica a ricoprire",
+          "b": "Per ridurre il rischio di danneggiare il micelio circostante o altri tartufi non ancora maturi",
+          "c": "Perché è vietato dalla legge fare buche più larghe di 10 cm"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "9": {
-        "text": "Il tartufaio può, in alcuni casi, lasciare la buca aperta dopo aver raccolto il tartufo?",
+        "text": "È permesso, in qualche circostanza, lasciare la buca aperta dopo la raccolta?",
         "options": {
-          "a": "si quando il terreno è umido",
-          "b": "no",
-          "c": "si se in presenza di terreno ricco di scheletro"
+          "a": "Sì, se il terreno è molto bagnato per farlo asciugare",
+          "b": "No, la L.R. 36/2023 (Art. 7, c. 9) impone di riempirla subito",
+          "c": "Sì, se si è in proprietà privata"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "10": {
-        "text": "La ricerca del tartufo deve essere effettuata:",
+        "text": "La ricerca del tartufo in Toscana deve essere effettuata obbligatoriamente con l'ausilio del cane?",
         "options": {
-          "a": "con l'ausilio del cane a ciò addestrato",
-          "b": "zappando la tartufaia dove si ritiene ci siano i tartufi",
-          "c": "con l'ausilio di qualunque cane anche se non propriamente addestrato alla ricerca"
+          "a": "Sì, l'Art. 7 della L.R. 36/2023 prevede l'uso massimo di due cani",
+          "b": "No, è possibile anche senza cane se si conosce bene la zona",
+          "c": "Sì, ma solo per il tartufo bianco pregiato"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "11": {
-        "text": "La ricerca del tartufo può essere effettuata:",
+        "text": "Quale delle seguenti pratiche è vietata espressamente dalla L.R. 36/2023 (Art. 7, c. 10)?",
         "options": {
-          "a": "preferibilmente nelle ore notturne per non essere visti da altri tartufai",
-          "b": "con il vanghetto, senza l'ausilio del cane se tartufaio particolarmente esperto",
-          "c": "secondo quanto previsto all'art.12 della legge regionale toscana l.r.50/95 e s.m.i"
+          "a": "La raccolta durante le ore notturne",
+          "b": "Portare con sé un solo cane",
+          "c": "Usare un vanghetto con lama inferiore a 5 cm"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "a" 
       },
-      "12": {
-        "text": "La ricerca del tartufo NON deve essere effettuata:",
+       "12": {
+        "text": "È consentito l'uso di maiali per la ricerca dei tartufi in base alla L.R. 36/2023?",
         "options": {
-          "a": "con l'ausilio del cane a ciò addestrato",
-          "b": "zappando la tartufaia dove si ritiene ci siano i tartufi",
-          "c": "secondo quanto previsto all'art. 12 della legge regionale toscana.50/95e s.m.i"
+          "a": "Sì, se specificamente addestrati",
+          "b": "No, l'Art. 7 comma 7 prevede l'uso del cane",
+          "c": "Solo nelle tartufaie coltivate"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
-      "13": {
-        "text": "Quale strumento deve essere usato per la raccolta del tartufo?",
+       "13": {
+        "text": "È permesso usare rastrelli o zappe per cercare tartufi?",
         "options": {
-          "a": "il vanghetto",
-          "b": "la zappa",
-          "c": "la vanga"
+          "a": "Sì, se usati con delicatezza",
+          "b": "No, l'Art. 7 comma 10 vieta la zappatura e la rastrellatura",
+          "c": "Solo per il tartufo scorzone"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "b" 
       },
-      "14": {
-        "text": "Quale strumento deve essere usato per la raccolta del tartufo?",
+       "14": {
+        "text": "Qual è il comportamento corretto per l'estrazione del tartufo?",
         "options": {
-          "a": "vanghella",
-          "b": "zappetto",
-          "c": "zappino"
+          "a": "Scavare rapidamente tutto intorno al punto indicato",
+          "b": "Limitare lo scavo al punto indicato dal cane, estraendo delicatamente il tartufo per non danneggiarlo",
+          "c": "Allargare la buca per verificare subito la presenza di altri tartufi"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "b" 
       },
       "15": {
-        "text": "Quali sono le operazioni da effettuare in seguito all'estrazione del tartufo?",
+        "text": "In quali mesi dell'anno è SEMPRE vietata la raccolta di TUTTE le specie di tartufo in Toscana (Art. 8, c. 2)?",
         "options": {
-          "a": "allargare con il vanghetto la buca per vedere se intorno sono presenti altri tartufi",
-          "b": "ricoprire accuratamente la buca con il medesimo terreno di scavo",
-          "c": "lasciare aperta la buca per ricordarsi dove già è stato raccolto il tartufo"
+          "a": "Aprile e Ottobre",
+          "b": "Maggio e Settembre",
+          "c": "Luglio e Agosto"
+        },
+        "correctAnswer": "b" 
+      },
+       "16": {
+        "text": "È consentita la raccolta nelle aree rimboschite da meno di 15 anni? (Art. 7, c. 10, lett. f)",
+        "options": {
+          "a": "Sì, se si è proprietari del terreno",
+          "b": "No, è vietata",
+          "c": "Sì, ma solo per i funghi, non per i tartufi"
         },
         "correctAnswer": "b"
       },
-      "16": {
-        "text": "Quali sono le operazioni da effettuare in seguito all'estrazione del tartufo?",
+       "17": {
+        "text": "Per quale motivo principale la Giunta Regionale può vietare temporaneamente la raccolta in determinate zone? (Art. 8, c. 4)",
         "options": {
-          "a": "allargare con la vanga la buca per vedere se intorno sono presenti altri tartufi",
-          "b": "realizzare piccole buche intorno alla buca principale e poi ricoprire accuratamente tutte le buche",
-          "c": "ricoprire accuratamente la buca con il medesimo terreno di scavo"
+          "a": "Per eccessiva presenza di cercatori",
+          "b": "Per motivi di ordine pubblico",
+          "c": "Per evitare danni alla struttura fisica e chimica del terreno o al patrimonio boschivo"
         },
-        "correctAnswer": "c"
-      },
-      "17": {
-        "text": "Quali sono le operazioni corrette per l'estrazione del tartufo?",
-        "options": {
-          "a": "zappare l'area circostante alla ricerca di una maggiore quantità di tartufi",
-          "b": "limitarsi allo scavo, il più piccolo possibile nel punto indicato dal cane allo scopo di non danneggiare la tartufaia, così che il prossimo anno potrò trovare un tartufo nello stesso posto",
-          "c": "allargare abbondantemente la buca per non danneggiare il tartufo ed eventualmente verificare la presenza di altri tartufi anche se immaturi"
-        },
-        "correctAnswer": "b"
+        "correctAnswer": "c" 
       },
       "18": {
-        "text": "Quale di queste operazioni è consentita secondo la L.R. 50/95 e successive modificazioni?",
+        "text": "Dove è vietata la raccolta dal 1° al 30 Giugno di ogni anno? (Art. 8, c. 5)",
         "options": {
-          "a": "raccogliere i tartufi fuori dai periodi previsti dal calendario",
-          "b": "raccogliere i tartufi ancora immaturi",
-          "c": "raccogliere i tartufi di peso inferiore ai 10 grammi"
+          "a": "Nelle tartufaie coltivate",
+          "b": "In tutte le aree boschive",
+          "c": "Nelle oasi di protezione, zone ripopolamento e cattura, centri produzione fauna selvatica"
         },
         "correctAnswer": "c"
       },
       "19": {
-        "text": "In quale mese dell'anno è vietata la raccolta dei tartufi?",
+        "text": "La cerca e la raccolta sono consentite durante tutto l'anno?",
         "options": {
-          "a": "in nessuno, si possono raccogliere tartufi durante tutto l'anno",
-          "b": "in maggio",
-          "c": "in gennaio"
+          "a": "Sì, per almeno una specie",
+          "b": "No, ci sono periodi specifici per ogni specie e mesi di divieto totale (maggio, settembre)",
+          "c": "Sì, tranne la domenica"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "20": {
-        "text": "In quale caso NON è consentita la raccolta dei tartufi sul territorio regionale?",
+        "text": "Qual è una possibile conseguenza negativa del raccogliere tartufi quando il terreno è gelato?",
         "options": {
-          "a": "nell'ambito degli orari previsti dalla legislazione regionale",
-          "b": "nelle aree rimboschite prima che siano trascorsi 15 anni dal rimboschimento",
-          "c": "nel mese di agosto"
+          "a": "Il tartufo perde sapore",
+          "b": "Il cane non riesce a sentirne l'odore",
+          "c": "Si può danneggiare gravemente il micelio e la struttura del suolo"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "c" 
       },
       "21": {
-        "text": "Per quali motivi la Giunta regionale può vietare per determinati periodi e determinate zone la raccolta dei tartufi?",
+        "text": "Perché il calendario regionale di raccolta limita i periodi rispetto alla potenziale presenza naturale dei tartufi?",
         "options": {
-          "a": "per limitare l'offerta di tartufi sul mercato",
-          "b": "per motivi di ordine sanitario, su proposta dell'Azienda Sanitaria competente per territorio",
-          "c": "per evitare danni alla struttura fisica e chimica del terreno tartufigeno, nonché al patrimonio boschivo"
+          "a": "Per evitare la raccolta eccessiva e tutelare la riproduzione del fungo (spore)",
+          "b": "Per accordarsi con i calendari delle regioni vicine",
+          "c": "Per facilitare i controlli da parte delle autorità"
         },
-        "correctAnswer": "c"
-      },
-      "22": {
-        "text": "Dal 1° maggio al 30 giugno di ogni anno, in quale delle seguenti zone è vietata la raccolta dei tartufi nel territorio regionale?",
-        "options": {
-          "a": "è vietato ovunque",
-          "b": "nelle oasi di protezione, nelle zone di ripopolamento e cattura e nei centri pubblici e privati di produzione della fauna selvatica",
-          "c": "nelle tartufaie coltivate e controllate"
-        },
-        "correctAnswer": "b"
-      },
-      "23": {
-        "text": "Con quale di questi animali, purché addestrato, è consentita la raccolta dei tartufi?",
-        "options": {
-          "a": "cane",
-          "b": "volpe",
-          "c": "maiale"
-        },
-        "correctAnswer": "a"
-      },
-      "24": {
-        "text": "In quali periodi dell'anno è consentito ricercare e raccogliere tartufi?",
-        "options": {
-          "a": "nei periodi indicati dalla normativa",
-          "b": "da ottobre a dicembre",
-          "c": "durante tutto l'anno"
-        },
-        "correctAnswer": "a"
-      },
-      "25": {
-        "text": "La normativa regionale consente la raccolta del tartufo col maiale?",
-        "options": {
-          "a": "sì, purché appositamente addestrato",
-          "b": "no",
-          "c": "sì, purché di peso non superiore al quintale."
-        },
-        "correctAnswer": "b"
-      },
-      "26": {
-        "text": "Nella raccolta dei tartufi possono essere impiegati i rastrelli, secondo la normativa regionale?",
-        "options": {
-          "a": "solo se i tartufi sono maturi",
-          "b": "no",
-          "c": "solo se i tartufi sono immaturi"
-        },
-        "correctAnswer": "b"
-      },
-      "27": {
-        "text": "Perchè il calendario regionale di raccolta delle nove specie di tartufi risulta più ridotto rispetto al periodo durante il quale si possono sviluppare naturalmente i tartufi?",
-        "options": {
-          "a": "Per tutelare i tartufi primaticci e quelli tardivi e assicurare così la produzione di tartufi per gli anni successivi",
-          "b": "Per favorire l'alimentazione della fauna selvatica",
-          "c": "Per facilitare il compito degli organi di vigilanza"
-        },
-        "correctAnswer": "a"
-      },
-      "28": {
-        "text": "Quali, tra i seguenti comportamenti del raccoglitore di tartufi, può avere effetti negativi sugli ambienti naturali di produzione?",
-        "options": {
-          "a": "raccogliere tartufi con la luna calante",
-          "b": "raccogliere tartufi nei periodi previsti dal calendario regionale",
-          "c": "raccogliere tartufi quando il terreno è gelato"
-        },
-        "correctAnswer": "c"
-      },
-      "29": {
-        "text": "Quali delle seguenti operazioni è consentita ai sensi della l.r. 50/95?",
-        "options": {
-          "a": "l'utilizzo del vanghetto per l'apertura delle buche dalle quali estrarre il tartufo",
-          "b": "la raccolta dei tartufi immaturi e fuori dai periodi previsti dal calendario",
-          "c": "la ricerca con l'ausilio di maiali"
-        },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       }
     }
   },
   "H": {
-    "title": "SANZIONI",
+    "title": "SANZIONI (L.R. 36/2023)",
     "questions": {
       "1": {
-        "text": "Chi è considerato recidivo secondo la legge legge regionale 50/95?",
+        "text": "Secondo l'Art. 18 della L.R. 36/2023, chi è considerato recidivo?",
         "options": {
-          "a": "colui che dopo aver commesso una delle infrazioni indicate dall'art. 21 della L.R. 50/95, ne commette un'altra nei 5 anni successivi",
-          "b": "colui che dopo aver commesso una delle infrazioni indicate dall'art. 21 della L.R. 50/95, ne commette un'altra nei 10 anni successivi",
-          "c": "solo colui colui che dopo aver commesso una delle infrazioni indicate dall'art. 21 della L.R. 50/95, comette la stessa infrazione nei 5 anni successivi"
+          "a": "Chi commette la stessa infrazione entro 2 anni",
+          "b": "Chi, dopo una delle infrazioni indicate, ne commette un'altra (anche diversa) nei 5 anni successivi",
+          "c": "Chi commette 3 infrazioni in un anno solare"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       "2": {
-        "text": "Quale è i tempo minimo che deve intercorrere da una sanzione ad un altra affinché non sia considerata recidiva secondo la legge 50/95?",
+        "text": "Qual è il periodo di tempo considerato per la recidiva secondo l'Art. 18, comma 3?",
         "options": {
-          "a": "3 anni",
-          "b": "5 anni",
-          "c": "1 anno"
+          "a": "2 anni successivi alla prima infrazione",
+          "b": "5 anni successivi alla prima infrazione",
+          "c": "10 anni successivi alla prima infrazione"
         },
         "correctAnswer": "b"
       },
       "3": {
-        "text": "I tartufi raccolti in violazione alla legge regionale toscana:",
+        "text": "Cosa succede ai tartufi raccolti in violazione della L.R. 36/2023? (Art. 18, c. 5)",
         "options": {
-          "a": "devono essere distrutti",
-          "b": "devono essere sequestrati",
-          "c": "devono essere resi immangiabili"
+          "a": "Vengono donati al raccoglitore",
+          "b": "Sono soggetti a sequestro e confisca",
+          "c": "Devono essere immediatamente reinterrati"
         },
         "correctAnswer": "b"
       },
       "4": {
-        "text": "Secondo la legge regionale toscana cosa comporta per la vendita al mercato pubblico di tartufi senza l'osservanza delle norme prescritte dalla presente legge?",
+        "text": "Qual è la sanzione amministrativa pecuniaria prevista per la cerca/raccolta SENZA tesserino? (Art. 18, c. 1, lett. a)",
         "options": {
-          "a": "Una sanzione amministrativa",
-          "b": "Una sanzione penale",
-          "c": "Una sanzione sanitaria"
+          "a": "Da €500 a €5.000",
+          "b": "Da €300 a €3.000",
+          "c": "Da €100 a €1.000"
         },
         "correctAnswer": "a"
       },
       "5": {
-        "text": "In quale caso, ai sensi della L.R. 50/95 è previsto il ritiro del tesserino per 1 anno?",
+        "text": "Qual è la sanzione per la cerca/raccolta con tesserino valido MA senza aver pagato l'importo annuale? (Art. 18, c. 1, lett. a)",
         "options": {
-          "a": "in nessun caso",
-          "b": "in caso di terza violazione contestata",
-          "c": "in caso di mancato pagamento della sanzione applicata"
+          "a": "Nessuna, basta pagare entro 30 giorni",
+          "b": "Da €500 a €5.000",
+          "c": "Solo il sequestro del prodotto"
         },
         "correctAnswer": "b"
       },
       "6": {
-        "text": "Per quanti anni può essere ritirato il tesserino ai sensi dell'art 22 della L.R. 50/95 ?",
+        "text": "Qual è la sanzione per la cerca/raccolta fuori dagli orari o dal calendario stabiliti? (Art. 18, c. 1, lett. a bis)",
         "options": {
-          "a": "per 1 anno in caso di tre violazioni ripetute nei 5 anni",
-          "b": "per 2 anni in caso di tre violazioni ripetute in 2 anni",
-          "c": "per 5 anni in caso di tre violazioni ripetute in 1 anno"
+          "a": "Da €500 a €5.000",
+          "b": "Da €300 a €3.000",
+          "c": "Da €100 a €1.000"
         },
         "correctAnswer": "a"
       },
       "7": {
-        "text": "Trascorso il periodo del ritiro del patentino il tartufaio deve?",
+        "text": "Qual è la sanzione per la raccolta di tartufi immaturi? (Art. 18, c. 1, lett. c)",
         "options": {
-          "a": "sostenere l'esame presso l'ufficio regionale territoriale",
-          "b": "recarsi in comune e richiedere la restituzione del proprio tesserino",
-          "c": "pagare una tassa doppia rispetto a quella annuale prima di poter effettuare la ricerca e raccolta dei tartufi"
+          "a": "Solo il sequestro dei tartufi",
+          "b": "Da €300 a €3.000",
+          "c": "Da €500 a €5.000 (e possibile sospensione tesserino)"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "c"
       },
       "8": {
-        "text": "Qual'è l'entità della sanzione prevista per chi, pur essendo munito del tesserino, non ha provveduto al pagamento dell'importo relativo all'abilitazione di cui all'art.23 della L.R. 50/95?",
+        "text": "Qual è la sanzione per la cerca/raccolta senza ausilio del cane o con attrezzo non idoneo? (Art. 18, c. 1, lett. d)",
         "options": {
-          "a": "da € 50,00 a € 300,00 ed il sequestro del prodotto",
-          "b": "da € 100,00 a € 600,00 ed il sequestro del prodotto",
-          "c": "il pagamento del doppio dell'importo relativo all'abilitazione entro 1 mese dalla contestazione"
+          "a": "Nessuna sanzione, solo un richiamo",
+          "b": "Da €500 a €5.000 (e possibile sospensione tesserino)",
+          "c": "Da €300 a €3.000"
         },
         "correctAnswer": "b"
       },
       "9": {
-        "text": "Cosa è previsto per chi esercita la ricerca del tartufo munito del tesserino, in assenza del pagamento dell'importo relativo all'abilitazione di cui all'art.23 della L.R. 50/95?",
+        "text": "Qual è la sanzione per chi non riempie le buche dopo lo scavo? (Art. 18, c. 1, lett. f)",
         "options": {
-          "a": "solo una sanzione perché si è in possesso del tesserino",
-          "b": "una sanzione ed il sequestro del prodotto",
-          "c": "solo il sequestro del prodotto se si effettua il pagamento entro le 24 ore successive alla contestazione della violazione"
+          "a": "Da €100 a €1.000",
+          "b": "Da €500 a €5.000",
+          "c": "Solo sequestro dell'attrezzo"
         },
         "correctAnswer": "b"
       },
       "10": {
-        "text": "Per chi esercita la ricerca o la raccolta senza l'ausilio del cane appositamente addestrato o senza idoneo attrezzo, secondo l'art. 21 della L.R. 50/95, è prevista:",
+        "text": "Qual è la sanzione per la cerca/raccolta in aree dove è vietata (es. pioppete in attualità di coltivazione, terreni di pertinenza)? (Art. 18, c. 1, lett. g)",
         "options": {
-          "a": "una sanzione da € 150,00 a € 900,00 ed il sequestro del prodotto",
-          "b": "una sanzione da € 50,00 a € 300,00 ed il sequestro del prodotto",
-          "c": "una sanzione da € 50,00 a € 300,00 ed il ritiro del tesserino per 6 mesi"
+          "a": "Da €500 a €5.000",
+          "b": "Da €300 a €3.000",
+          "c": "Da €1.000 a €10.000"
         },
         "correctAnswer": "a"
       },
       "11": {
-        "text": "Per chi esercita la ricerca o la raccolta senza l'ausilio del cane appositamente addestrato o senza idoneo attrezzo, secondo l'art. 21 della L.R. 50/95, è prevista:",
+        "text": "Qual è la sanzione per l'utilizzo di piante micorrizate senza certificazione? (Art. 18, c. 1, lett. i)",
         "options": {
-          "a": "solo una sanzione",
-          "b": "una sanzione il sequestro del prodotto",
-          "c": "una sanzione, il sequestro del prodotto ed il sequestro del cane o del vanghetto"
+          "a": "Da €100 a €1.000",
+          "b": "Da €500 a €5.000",
+          "c": "Nessuna, se le piante sono comunque della specie corretta"
         },
         "correctAnswer": "b"
       },
       "12": {
-        "text": "Per chi esercita la ricerca o la raccolta senza l'ausilio del cane appositamente addestrato o senza idoneo attrezzo, secondo l'art. 21 della L.R. 50/95, è prevista:",
+        "text": "Quale sanzione accessoria è prevista per le violazioni di cui all'Art. 18, c. 1, lett. a), b), c) e d)? (Art. 18, c. 2)",
         "options": {
-          "a": "una sanzione da € 150,00 a € 900,00",
-          "b": "una sanzione da € 150,00 a € 900,00 ed il sequestro del prodotto",
-          "c": "una sanzione da € 150,00 a € 900,00 ed il sequestro del prodotto il sequestro del cane o del vanghetto"
+          "a": "Confisca del cane",
+          "b": "Sospensione del tesserino di abilitazione per un anno",
+          "c": "Obbligo di frequentare un corso di aggiornamento"
         },
         "correctAnswer": "b"
       },
       "13": {
-        "text": "Per chi esercita la vendita al mercato pubblico di tartufi senza l'osservanza delle norme prescritte dalla L.R. 50/95, è prevista:",
+        "text": "Qual è la sanzione per l'apposizione di tabelle (tartufaie o aree add.) senza attestato di riconoscimento? (Art. 18, c. 4, lett. a)",
         "options": {
-          "a": "il sequestro del prodotto ed il ritiro del tesserino per 1 anno",
-          "b": "una sanzione da € 150,00 a € 900,00 ed il sequestro del prodotto",
-          "c": "una sanzione da € 300,00 a € 1.800,00 ed il sequestro del prodotto"
+          "a": "Da €100 a €1.000",
+          "b": "Da €500 a €5.000",
+          "c": "Da €300 a €3.000"
         },
         "correctAnswer": "c"
       },
       "14": {
-        "text": "Per chi esercita la vendita al mercato pubblico di tartufi senza l'osservanza delle norme prescritte dalla L.R. 50/95, è prevista:",
+        "text": "Qual è la sanzione per l'utilizzo di tabelle difformi da quelle previste dal regolamento? (Art. 18, c. 4, lett. b)",
         "options": {
-          "a": "il sequestro del prodotto, il sequestro della licenza di vendita per 1 mese",
-          "b": "il sequestro del prodotto",
-          "c": "una sanzione ed il sequestro del prodotto"
+          "a": "Solo l'obbligo di sostituzione",
+          "b": "Da €300 a €3.000",
+          "c": "Da €500 a €5.000"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "b"
       },
       "15": {
-        "text": "Per chi esercita la vendita al mercato pubblico di tartufi senza l'osservanza delle norme prescritte dalla L.R. 50/95, è prevista:",
+        "text": "Qual è la sanzione per la cerca/raccolta in tartufaia controllata o coltivata senza autorizzazione del titolare? (Art. 18, c. 4, lett. c)",
         "options": {
-          "a": "una sanzione da 300,00 a 1500,00 il sequestro del prodotto e una denuncia penale per frode in commercio",
-          "b": "una sanzione da € 300,00 a € 1500,00 ed il sequestro del prodotto",
-          "c": "una sanzione da € 300,00 a € 1.800,00 ed il sequestro del prodotto"
+          "a": "Da €100 a €1.000",
+          "b": "Da €500 a €5.000",
+          "c": "Da €300 a €3.000"
         },
         "correctAnswer": "c"
       },
       "16": {
-        "text": "Per chi esercita la ricerca e la raccolta dei tartufi in periodi di divieto o in ore non consentite dalla legislazione regionale vigente è prevista:",
+        "text": "Qual è la sanzione per la raccolta e asportazione di tartufi dalle aree di addestramento cani? (Art. 18, c. 4, lett. d)",
         "options": {
-          "a": "una sanzione da € 100,00 a € 600,00 ed il sequestro del prodotto",
-          "b": "una sanzione da € 150,00 a € 900,00 ed il sequestro del prodotto",
-          "c": "il ritiro del tesserino per 1 anno"
+          "a": "Nessuna, è consentita la raccolta",
+          "b": "Da €300 a €3.000",
+          "c": "Solo il sequestro del prodotto"
         },
         "correctAnswer": "b"
       },
-      "17": {
-        "text": "Per chi esercita la raccolta dei tartufi nei terreni di “Raccolta di tartufo riservata” senza la necessaria autorizzazione da parte del proprietario o conducente del terreno, è prevista:",
+       "17": {
+        "text": "Chi è competente per l'irrogazione delle sanzioni amministrative? (Art. 19, c. 1)",
         "options": {
-          "a": "il sequestro del prodotto e il ritiro del tesserino per 1 anno",
-          "b": "una sanzione da € 50,00 a € 300,00 ed il sequestro del prodotto",
-          "c": "una sanzione da € 300,00 a € 1.800,00 ed il sequestro del prodotto"
+          "a": "Il Comune",
+          "b": "La Provincia",
+          "c": "La Regione Toscana"
         },
         "correctAnswer": "c"
       },
-      "18": {
-        "text": "Per chi raccoglie tartufi immaturi, è previsto:",
+       "18": {
+        "text": "Gli agenti accertatori possono procedere al sequestro dei tartufi raccolti in violazione? (Art. 19, c. 3)",
         "options": {
-          "a": "il sequestro del prodotto",
-          "b": "una sanzione da € 150,00 a € 900,00 più € 100,00 per ogni tartufo raccolto immaturo, più il sequestro del prodotto",
-          "c": "una sanzione di € 50,00 per ogni tartufo immaturo raccolto, più il sequestro del prodotto"
+          "a": "No, devono chiamare la Guardia di Finanza",
+          "b": "Sì",
+          "c": "Solo se il valore supera i 100 euro"
         },
         "correctAnswer": "b"
       },
       "19": {
-        "text": "Per chi effettua la ricerca e la raccolta del tartufo senza aver conseguito il tesserino, è prevista:",
+        "text": "Cosa può decidere la Regione per i tartufi confiscati, se le condizioni lo consentono? (Art. 19, c. 4)",
         "options": {
-          "a": "il sequestro del prodotto",
-          "b": "una sanzione da € 300,00 a € 1.800,00 ed il sequestro del prodotto",
-          "c": "una sanzione da € 150,00 a € 900,00 ed il sequestro del prodotto"
+          "a": "Solo la distruzione",
+          "b": "La destinazione in beneficenza",
+          "c": "La vendita all'asta"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "b"
       },
       "20": {
-        "text": "E' sanzionabile il proprietario o conduttore del fondo tabellato (raccolta riservata di tartufi) che non osservi le disposizioni di revoca del diritto di raccolta riservata di tartufi da parte del Comune?",
+        "text": "Dove vengono annotate le infrazioni accertate con provvedimento definitivo? (Art. 19, c. 5)",
         "options": {
-          "a": "no",
-          "b": "si",
-          "c": "solo se non ha pagato la tassa di registro"
+          "a": "Su un registro regionale pubblico",
+          "b": "Sul tesserino di abilitazione, a cura del comune che lo ha rilasciato",
+          "c": "Nella fedina penale del trasgressore"
         },
         "correctAnswer": "b"
       },
       "21": {
-        "text": "E' sanzionabile chi esercita la raccolta del tartufo munito del solo tesserino di abilitazione?",
+        "text": "Dopo quante violazioni contestate il tesserino di abilitazione viene ritirato per un anno? (Art. 19, c. 6)",
         "options": {
-          "a": "no, in nessun caso",
-          "b": "no, purché eserciti con cane appositamente addestrato e con idoneo attrezzo",
-          "c": "sì, se non ha pagato l'importo annuale relativo all'abilitazione"
+          "a": "Alla prima",
+          "b": "Alla seconda",
+          "c": "Alla terza"
         },
         "correctAnswer": "c"
       }
