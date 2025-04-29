@@ -11,6 +11,13 @@ const TartufiQuiz = ({ quizData }) => {
   const [currentPage, setCurrentPage] = useState(1);
   const questionsPerPage = 10;
   
+  const resetCurrentTest = () => {
+  setUserAnswers({});
+  setShowResults(false);
+  setCurrentPage(1);
+  window.scrollTo(0, 0);
+};
+  
   useEffect(() => {
     try {
       setLoading(false);
@@ -281,7 +288,7 @@ const TartufiQuiz = ({ quizData }) => {
           </button>
         </div>
         
-        <div className="mt-8 text-center">
+        <div className="mt-8 text-center space-x-4">
           {!showResults ? (
             <button
               onClick={() => setShowResults(true)}
@@ -290,6 +297,7 @@ const TartufiQuiz = ({ quizData }) => {
               Verifica Risposte
             </button>
           ) : (
+		  <>
             <button
               onClick={() => {
                 generateRandomQuestions();
@@ -299,6 +307,13 @@ const TartufiQuiz = ({ quizData }) => {
             >
               Nuovo Test
             </button>
+			<button
+				onClick={resetCurrentTest}
+				className="px-6 py-2 bg-white dark:bg-gray-800 text-blue-600 dark:text-blue-400 rounded-lg font-semibold hover:bg-blue-50 dark:hover:bg-gray-700 transition-colors border border-blue-600 dark:border-blue-500"
+			>
+        Rifai il Test
+      </button>
+	  </>
           )}
         </div>
         
