@@ -146,18 +146,18 @@ const TartufiQuiz = ({ quizData }) => {
   return (
     <div className="container mx-auto px-4 md:px-8 lg:px-16 xl:px-20 w-full">
       <div className="w-full">
-        <h1 className="text-3xl font-bold text-center mb-6 text-indigo-900">Esame Tartufi</h1>
+        <h1 className="text-3xl font-bold text-center mb-6 text-indigo-900 dark:text-indigo-200">Esame Tartufi</h1>
         
         <div className="mb-8">
-          <h2 className="text-lg font-semibold mb-2 text-indigo-800">Test - 30 domande casuali</h2>
-          <p className="mb-4 text-gray-700">Per superare l'esame devi commettere massimo 5 errori su 30 domande.</p>
+          <h2 className="text-lg font-semibold mb-2 text-indigo-800 dark:text-indigo-300">Test - 30 domande casuali</h2>
+          <p className="mb-4 text-gray-700 dark:text-gray-300">Per superare l'esame devi commettere massimo 5 errori su 30 domande.</p>
           
           <div className="text-center mb-4">
             <button
               onClick={() => {
                 generateRandomQuestions();
               }}
-              className="px-4 py-2 bg-white text-indigo-600 rounded font-semibold hover:bg-indigo-50 transition-colors border border-indigo-600"
+              className="px-4 py-2 bg-white dark:bg-gray-800 text-indigo-600 dark:text-indigo-300 rounded font-semibold hover:bg-indigo-50 dark:hover:bg-gray-700 transition-colors border border-indigo-600 dark:border-indigo-400"
             >
               Genera nuovo test
             </button>
@@ -170,8 +170,8 @@ const TartufiQuiz = ({ quizData }) => {
                 onClick={() => handlePageChange(page)}
                 className={`w-8 h-8 rounded-full transition-colors focus:outline-none flex items-center justify-center ${
                   currentPage === page 
-                    ? 'bg-indigo-100 text-indigo-700 font-semibold' 
-                    : 'bg-white hover:bg-gray-50 text-gray-600'
+                    ? 'bg-indigo-100 dark:bg-indigo-900 text-indigo-700 dark:text-indigo-200 font-semibold' 
+                    : 'bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 text-gray-600 dark:text-gray-300'
                 }`}
               >
                 {page}
@@ -179,7 +179,7 @@ const TartufiQuiz = ({ quizData }) => {
             ))}
           </div>
           
-          <div className="text-sm text-gray-600 text-center">
+          <div className="text-sm text-gray-600 dark:text-gray-400 text-center">
             Visualizzando domande {(currentPage - 1) * questionsPerPage + 1} - {Math.min(currentPage * questionsPerPage, testQuestions.length)} di {testQuestions.length}
           </div>
         </div>
@@ -194,15 +194,15 @@ const TartufiQuiz = ({ quizData }) => {
                 <div 
                   key={`${question.section}-${question.questionId}`} 
                   className={`p-6 rounded-lg shadow-sm ${
-                    answerStatus === 'correct' ? 'bg-emerald-50 border border-emerald-200' : 
-                    answerStatus === 'incorrect' ? 'bg-rose-50 border border-rose-200' : 
-                    'bg-white border border-gray-200'
+                    answerStatus === 'correct' ? 'bg-emerald-50 dark:bg-emerald-900/30  border border-emerald-200 dark:border-emerald-700' : 
+                    answerStatus === 'incorrect' ? 'bg-rose-50 dark:bg-rose-900/30 border border-rose-200 dark:border-rose-700' : 
+                    'bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700'
                   }`}
                 >
                   <div className="font-medium mb-3">
-                    <span className="font-bold text-indigo-900">{questionNumber}.</span> 
-                    <span className="text-sm text-indigo-600 ml-2">[{question.section}]</span> 
-                    <span className="ml-2 text-gray-800">{question.text}</span>
+                    <span className="font-bold text-indigo-900 dark:text-indigo-200">{questionNumber}.</span> 
+                    <span className="text-sm text-indigo-600 dark:text-indigo-400 ml-2">[{question.section}]</span> 
+                    <span className="ml-2 text-gray-800 dark:text-gray-200">{question.text}</span>
                   </div>
 				  {question.image && (
 					<div className="my-4">
@@ -234,8 +234,8 @@ const TartufiQuiz = ({ quizData }) => {
                         <label 
                           htmlFor={`test-${question.section}-${question.questionId}-${optionKey}`}
                           className={`
-                            ${showResults && optionKey === question.correctAnswer ? 'text-emerald-700 font-medium' : ''}
-                            ${showResults && userAnswers[`${question.section}-${question.questionId}`] === optionKey && optionKey !== question.correctAnswer ? 'text-rose-700 line-through' : ''}
+                            ${showResults && optionKey === question.correctAnswer ? 'text-emerald-700 dark:text-emerald-400 font-medium' : ''}
+                            ${showResults && userAnswers[`${question.section}-${question.questionId}`] === optionKey && optionKey !== question.correctAnswer ? 'text-rose-700 dark:text-rose-400 line-through' : ''}
                           `}
                         >
                           {optionKey}) {question.options[optionKey]}
@@ -247,13 +247,13 @@ const TartufiQuiz = ({ quizData }) => {
                   {showResults && (
                     <div className="mt-3 text-sm">
                       {answerStatus === 'unanswered' && (
-                        <p className="text-amber-600">Non hai risposto a questa domanda. La risposta corretta è: {question.correctAnswer}</p>
+                        <p className="text-amber-600 dark:text-amber-400">Non hai risposto a questa domanda. La risposta corretta è: {question.correctAnswer}</p>
                       )}
                       {answerStatus === 'incorrect' && (
-                        <p className="text-rose-600">Risposta errata. La risposta corretta è: {question.correctAnswer}</p>
+                        <p className="text-rose-600 dark:text-rose-400">Risposta errata. La risposta corretta è: {question.correctAnswer}</p>
                       )}
                       {answerStatus === 'correct' && (
-                        <p className="text-emerald-600">Risposta corretta!</p>
+                        <p className="text-emerald-600 dark:text-emerald-400">Risposta corretta!</p>
                       )}
                     </div>
                   )}
@@ -267,7 +267,7 @@ const TartufiQuiz = ({ quizData }) => {
           <button
             onClick={() => handlePageChange(currentPage - 1)}
             disabled={currentPage === 1}
-            className="px-4 py-2 bg-gray-100 text-gray-700 rounded hover:bg-gray-200 disabled:opacity-50 disabled:hover:bg-gray-100 transition-colors"
+            className="px-4 py-2 bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 rounded hover:bg-gray-200 dark:hover:bg-gray-700 disabled:opacity-50 disabled:hover:bg-gray-100 dark:disabled:hover:bg-gray-800 transition-colors"
           >
             Pagina precedente
           </button>
@@ -275,7 +275,7 @@ const TartufiQuiz = ({ quizData }) => {
           <button
             onClick={() => handlePageChange(currentPage + 1)}
             disabled={currentPage === Math.ceil(testQuestions.length / questionsPerPage)}
-            className="px-4 py-2 bg-gray-100 text-gray-700 rounded hover:bg-gray-200 disabled:opacity-50 disabled:hover:bg-gray-100 transition-colors"
+            className="px-4 py-2 bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 rounded hover:bg-gray-200 disabled:opacity-50 disabled:hover:bg-gray-100 dark:hover:bg-gray-700 dark:disabled:hover:bg-gray-800transition-colors"
           >
             Pagina successiva
           </button>
@@ -285,7 +285,7 @@ const TartufiQuiz = ({ quizData }) => {
           {!showResults ? (
             <button
               onClick={() => setShowResults(true)}
-              className="px-6 py-2 bg-white text-indigo-600 rounded-lg font-semibold hover:bg-indigo-50 transition-colors border border-indigo-600"
+              className="px-6 py-2 bg-white dark:bg-gray-800 text-indigo-600 dark:text-indigo-400 rounded-lg font-semibold hover:bg-indigo-50 transition-colors border border-indigo-600 dark:border-indigo-500"
             >
               Verifica Risposte
             </button>
@@ -295,7 +295,7 @@ const TartufiQuiz = ({ quizData }) => {
                 generateRandomQuestions();
                 window.scrollTo(0, 0);
               }}
-              className="px-6 py-2 bg-white text-emerald-600 rounded-lg font-semibold hover:bg-emerald-50 transition-colors border border-emerald-600"
+              className="px-6 py-2 bg-white dark:bg-gray-800 text-emerald-600 dark:text-emerald-400 rounded-lg font-semibold hover:bg-emerald-50 dark:hover:bg-gray-700  transition-colors border border-emerald-600 dark:border-emerald-500"
             >
               Nuovo Test
             </button>
@@ -303,42 +303,42 @@ const TartufiQuiz = ({ quizData }) => {
         </div>
         
         {showResults && (
-          <div className="mt-8 p-6 bg-indigo-50 rounded-lg border border-indigo-100 shadow-sm">
-            <h2 className="text-2xl font-bold text-center mb-6 text-indigo-900">Risultati</h2>
+          <div className="mt-8 p-6 bg-indigo-50 dark:bg-indigo-900/30 rounded-lg border border-indigo-100 dark:border-indigo-700 shadow-sm">
+            <h2 className="text-2xl font-bold text-center mb-6 text-indigo-900 dark:text-indigo-200">Risultati</h2>
             
             <div className="text-center">
-              <p className="text-lg text-gray-800">
-                Hai risposto correttamente a <span className="font-bold text-indigo-700">{score.correctAnswers}</span> domande su <span className="font-bold">{score.totalQuestions}</span>.
+              <p className="text-lg text-gray-800 dark:text-gray-200">
+                Hai risposto correttamente a <span className="font-bold text-indigo-700 dark:text-indigo-400">{score.correctAnswers}</span> domande su <span className="font-bold">{score.totalQuestions}</span>.
               </p>
-              <p className="text-lg mt-2 text-gray-800">
-                Risposte errate: <span className="font-bold text-rose-600">{score.wrongAnswers}</span>
+              <p className="text-lg mt-2 text-gray-800 dark:text-gray-200">
+                Risposte errate: <span className="font-bold text-rose-600 dark:text-rose-400">{score.wrongAnswers}</span>
               </p>
-              <p className="text-lg mt-2 text-gray-800">
-                Domande senza risposta: <span className="font-bold text-amber-600">{score.unanswered}</span>
+              <p className="text-lg mt-2 text-gray-800 dark:text-gray-200">
+                Domande senza risposta: <span className="font-bold text-amber-600 dark:text-amber-400">{score.unanswered}</span>
               </p>
-              <p className="text-lg mt-2 text-gray-800">
-                Punteggio: <span className="font-bold text-indigo-700">{score.percentage.toFixed(1)}%</span>
+              <p className="text-lg mt-2 text-gray-800 dark:text-gray-200">
+                Punteggio: <span className="font-bold text-indigo-700 dark:text-indigo-400">{score.percentage.toFixed(1)}%</span>
               </p>
               
-              <div className="w-full bg-gray-200 rounded-full h-4 mt-6">
+              <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-4 mt-6">
                 <div 
                   className={`h-4 rounded-full transition-all ${score.testPassed ? 'bg-emerald-600' : 'bg-rose-600'}`}
                   style={{ width: `${score.percentage}%` }}
                 ></div>
               </div>
               
-              <div className="mt-6 p-4 rounded-lg font-bold text-lg inline-block border-2 border-indigo-100">
+              <div className="mt-6 p-4 rounded-lg font-bold text-lg inline-block border-2 border-indigo-100 dark:border-indigo-700">
                 {score.testPassed ? (
-                  <div className="text-emerald-600">
+                  <div className="text-emerald-600 dark:text-emerald-400">
                     ESAME SUPERATO! 
-                    <div className="text-sm font-normal mt-1 text-gray-700">
+                    <div className="text-sm font-normal mt-1 text-gray-700 dark:text-gray-300">
                       Hai fatto {score.wrongAnswers + score.unanswered} errori totali (massimo consentito: 5)
                     </div>
                   </div>
                 ) : (
-                  <div className="text-rose-600">
+                  <div className="text-rose-600 dark:text-rose-400">
                     ESAME NON SUPERATO
-                    <div className="text-sm font-normal mt-1 text-gray-700">
+                    <div className="text-sm font-normal mt-1 text-gray-700 dark:text-gray-300">
                       Hai fatto {score.wrongAnswers + score.unanswered} errori totali (massimo consentito: 5)
                     </div>
                   </div>
@@ -347,17 +347,17 @@ const TartufiQuiz = ({ quizData }) => {
               
               <div className="mt-6 text-center">
                 {score.percentage === 100 ? (
-                  <p className="text-emerald-600 font-semibold">Perfetto! Complimenti!</p>
+                  <p className="text-emerald-600 dark:text-emerald-400 font-semibold">Perfetto! Complimenti!</p>
                 ) : score.percentage >= 90 ? (
-                  <p className="text-emerald-600 font-semibold">Ottimo risultato!</p>
+                  <p className="text-emerald-600 dark:text-emerald-400 font-semibold">Ottimo risultato!</p>
                 ) : score.percentage >= 80 ? (
-                  <p className="text-emerald-600">Molto bene!</p>
+                  <p className="text-emerald-600 dark:text-emerald-400">Molto bene!</p>
                 ) : score.percentage >= 70 ? (
-                  <p className="text-emerald-600">Buon risultato!</p>
+                  <p className="text-emerald-600 dark:text-emerald-400">Buon risultato!</p>
                 ) : score.testPassed ? (
-                  <p className="text-indigo-600">Hai superato l'esame, ma puoi fare meglio!</p>
+                  <p className="text-indigo-600 dark:text-indigo-400">Hai superato l'esame, ma puoi fare meglio!</p>
                 ) : (
-                  <p className="text-rose-600">Continua a studiare e riprova!</p>
+                  <p className="text-rose-600 dark:text-rose-400">Continua a studiare e riprova!</p>
                 )}
               </div>
             </div>
@@ -370,7 +370,7 @@ const TartufiQuiz = ({ quizData }) => {
 
 const App = () => {
   return (
-    <div className="min-h-screen w-full bg-gray-50">
+    <div className="min-h-screen w-full bg-gray-50 dark:bg-gray-900">
       <TartufiQuiz quizData={quizData} />
     </div>
   );
