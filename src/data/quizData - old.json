@@ -1,0 +1,2952 @@
+{
+  "A": {
+    "title": "NOZIONI DI MICOLOGIA",
+    "questions": {
+      "1": {
+        "text": "Nella classificazione degli organismi viventi, in quale Regno vengono inseriti i tartufi?",
+        "options": {
+          "a": "nel Regno degli Animali",
+          "b": "nel Regno dei Vegetali",
+          "c": "nel Regno dei Funghi"
+        },
+        "correctAnswer": "c"
+      },
+      "2": {
+        "text": "Che cosa sono i tartufi ?",
+        "options": {
+          "a": "Tuberi",
+          "b": "Funghi",
+          "c": "Alghe ipogee"
+        },
+        "correctAnswer": "b"
+      },
+      "3": {
+        "text": "I tartufi sono:",
+        "options": {
+          "a": "Funghi Ipogei",
+          "b": "Tuberi ipogei",
+          "c": "Tuberi epigei"
+        },
+        "correctAnswer": "a"
+      },
+      "4": {
+        "text": "Cos'è il tartufo ?",
+        "options": {
+          "a": "E' un fungo che si sviluppa sotto terra.",
+          "b": "E' un tubero, come la patata.",
+          "c": "E' un seme."
+        },
+        "correctAnswer": "a"
+      },
+      "5": {
+        "text": "Perchè i funghi vengono definiti organismi eterotrofi?",
+        "options": {
+          "a": "perché sono in grado di crearsi le sostanze necessarie al proprio nutrimento",
+          "b": "perché sono diffusi praticamente dappertutto",
+          "c": "perché hanno bisogno di assorbire dall'esterno le sostanze nutritive"
+        },
+        "correctAnswer": "c"
+      },
+      "6": {
+        "text": "I tartufi sono organismi autotrofi?",
+        "options": {
+          "a": "solo i tartufi neri con verruche ben evidenti",
+          "b": "no",
+          "c": "si tutti, perché crescono sotto terra"
+        },
+        "correctAnswer": "b"
+      },
+      "7": {
+        "text": "I tartufi possono essere coltivati in assenza di piante simbionti?",
+        "options": {
+          "a": "si perchè sono funghi autotrofi",
+          "b": "no",
+          "c": "si, ma solo quelli che maturano in estate"
+        },
+        "correctAnswer": "b"
+      },
+      "8": {
+        "text": "Cosa sono le ife?",
+        "options": {
+          "a": "strutture allungate e filamentose che costituiscono il micelio dei funghi",
+          "b": "strutture indispensabili nel processo di sintesi della clorofilla",
+          "c": "strutture filiformi che unendosi formano le radici fini"
+        },
+        "correctAnswer": "a"
+      },
+      "9": {
+        "text": "Le ife sono strutture filamentose indispensabili ai funghi per svolgere il processo della fotosintesi clorofilliana?",
+        "options": {
+          "a": "vero",
+          "b": "falso",
+          "c": "vero, ma solo per i funghi ipogei che possono ricevere la luce del sole"
+        },
+        "correctAnswer": "b"
+      },
+      "10": {
+        "text": "Può nascere un tartufo in assenza di ife?",
+        "options": {
+          "a": "no",
+          "b": "si",
+          "c": "si, ma solo se nasce vicino ad una pianta superiore"
+        },
+        "correctAnswer": "a"
+      },
+      "11": {
+        "text": "Quale delle seguenti affermazioni è falsa?",
+        "options": {
+          "a": "i funghi hanno una parete cellulare composta principalmente da chitina",
+          "b": "i funghi sono organismi eterotrofi",
+          "c": "i funghi contengono clorofilla"
+        },
+        "correctAnswer": "c"
+      },
+      "12": {
+        "text": "Quale delle seguenti affermazioni è vera?",
+        "options": {
+          "a": "i funghi hanno una parete cellulare composta principalmente da chitina",
+          "b": "i funghi sono organismi autotrofi",
+          "c": "i funghi presentano, come le piante, il pigmento della clorofilla"
+        },
+        "correctAnswer": "a"
+      },
+      "13": {
+        "text": "Quale delle seguenti affermazioni è vera",
+        "options": {
+          "a": "i funghi hanno una parete cellulare composta principalmente da amido",
+          "b": "i funghi sono organismi eterotrofi",
+          "c": "i funghi presentano, come le piante, il pigmento della clorofilla"
+        },
+        "correctAnswer": "b"
+      },
+      "14": {
+        "text": "A quale sottodivisione di funghi appartengono i tartufi?",
+        "options": {
+          "a": "Ascomycotina",
+          "b": "Deuteromycotina",
+          "c": "Mastigomycotina"
+        },
+        "correctAnswer": "a"
+      },
+      "15": {
+        "text": "Nella classificazione dei Funghi, a quale genere appartengono i tartufi?",
+        "options": {
+          "a": "Genere Tuber",
+          "b": "Genere Russula",
+          "c": "Genere Clavaria"
+        },
+        "correctAnswer": "a"
+      },
+      "16": {
+        "text": "Può un tartufo appartenere al genere Russula?",
+        "options": {
+          "a": "No",
+          "b": "Si",
+          "c": "Si, ma solo i tartufi estivi in quanto sono entrambi funghi che maturano nello stesso periodo"
+        },
+        "correctAnswer": "a"
+      },
+      "17": {
+        "text": "I tartufi appartengono al Genere Boletus?",
+        "options": {
+          "a": "Si, ma solo il tartufo bianco pregiato ed il tartufo nero pregiato perché il genere Boletus è riservato ai funghi migliori",
+          "b": "No",
+          "c": "Si"
+        },
+        "correctAnswer": "b"
+      },
+      "18": {
+        "text": "Tutti i funghi ipogei sono tartufi?",
+        "options": {
+          "a": "No, solo quelli appartenenti al Genere Terfezia",
+          "b": "Si, tutti",
+          "c": "No, solo quelli appartenenti al Genere Tuber"
+        },
+        "correctAnswer": "c"
+      },
+      "19": {
+        "text": "Tutti i tartufi sono funghi?",
+        "options": {
+          "a": "No,",
+          "b": "Si, tutti",
+          "c": "No, solo quelli epigei"
+        },
+        "correctAnswer": "b"
+      },
+      "20": {
+        "text": "Tutti i tartufi sono ipogei?",
+        "options": {
+          "a": "No, solo quelli appartenenti al Genere Russula",
+          "b": "Si, tutti",
+          "c": "No, solo quelli appartenenti al Genere Boletus"
+        },
+        "correctAnswer": "b"
+      },
+      "21": {
+        "text": "Come si chiamano gli organi dei tartufi deputati alla riproduzione sessuata?",
+        "options": {
+          "a": "Ectoendomicorrize",
+          "b": "Ascospore",
+          "c": "Cistidi"
+        },
+        "correctAnswer": "b"
+      },
+      "22": {
+        "text": "Il polline è un organo di riproduzione del tartufo?",
+        "options": {
+          "a": "Sì, sempre",
+          "b": "No, mai",
+          "c": "Si, ma solo in una determinata fase del ciclo riproduttivo del tartufo"
+        },
+        "correctAnswer": "b"
+      },
+      "23": {
+        "text": "Dove vengono prodotte le spore del tartufo?",
+        "options": {
+          "a": "All'interno delle ife",
+          "b": "All'interno del seme della pianta micorrizzata",
+          "c": "All'interno di strutture chiamate \"aschi\""
+        },
+        "correctAnswer": "c"
+      },
+      "24": {
+        "text": "Che tipo di spore hanno i tartufi?",
+        "options": {
+          "a": "Clamidospore",
+          "b": "Basidiospore",
+          "c": "Ascospore"
+        },
+        "correctAnswer": "c"
+      },
+      "25": {
+        "text": "Quale rapporto si instaura tra il tartufo e la pianta superiore con cui entra in contatto?",
+        "options": {
+          "a": "Saprofitico",
+          "b": "Parassitico",
+          "c": "Simbiontico o micorrizico"
+        },
+        "correctAnswer": "c"
+      },
+      "26": {
+        "text": "Il tartufo è un parassita delle piante superiori?",
+        "options": {
+          "a": "Si",
+          "b": "No",
+          "c": "Si, ma solo se le piante sono deperienti"
+        },
+        "correctAnswer": "b"
+      },
+      "27": {
+        "text": "Se un tartufo instaura con la pianta superiore un rapporto di tipo “parassita”, le sue caratteristiche organolettiche sono migliori di un tartufo che instaura un rapporto di tipo \"simbionte\"?",
+        "options": {
+          "a": "si perché assorbe sostanze nutritive senza cedere nulla in cambio",
+          "b": "si perché cresce più rapidamente senza essere attaccato dai parassiti",
+          "c": "non esistono tartufi parassiti"
+        },
+        "correctAnswer": "c"
+      },
+      "28": {
+        "text": "Cosa si intende per simbiosi micorrizica?",
+        "options": {
+          "a": "un'associazione che si realizza tra un fungo e una pianta superiore",
+          "b": "un'associazione che si realizza tra le radici di due piante contigue",
+          "c": "un'associazione che si realizza tra due funghi, che traggono entrambi vantaggio dalla simbiosi"
+        },
+        "correctAnswer": "a"
+      },
+      "29": {
+        "text": "Quale organo del tartufo instaura il rapporto di simbiosi?",
+        "options": {
+          "a": "la parte interna del carpoforo (gleba)",
+          "b": "le ife",
+          "c": "la parte esterna del carpoforo (peridio)"
+        },
+        "correctAnswer": "b"
+      },
+      "30": {
+        "text": "Quando si può parlare di fungo simbionte?",
+        "options": {
+          "a": "quando un fungo si nutre di organismi in fase di decomposizione",
+          "b": "quando un fungo si nutre di organismi viventi, portandoli alla morte",
+          "c": "quando un fungo scambia sostanze nutritive con una pianta con cui è in stretto contatto"
+        },
+        "correctAnswer": "c"
+      },
+      "31": {
+        "text": "Cosa si intende per micorriza?",
+        "options": {
+          "a": "i filamenti (ife) del fungo che unendosi formano i tartufi",
+          "b": "un ingrossamento della radice formato dal micelio di un fungo che avvolge la medesima",
+          "c": "una struttura caratteristica delle piante che stabiliscono con i funghi rapporti di parassitismo"
+        },
+        "correctAnswer": "b"
+      },
+      "32": {
+        "text": "La micorrizzazione dei tartufi con la pianta superiore avviene :",
+        "options": {
+          "a": "a livello delle radici della pianta",
+          "b": "a livello del tronco della pianta in prossimità del colletto",
+          "c": "a livello delle foglie, dove le spore del tartufo sono portate dal vento ed in occasione della apertura delle gemme in primavera penetrano nella pianta, successivamente il micelio si accresce e va ad infettare le radici"
+        },
+        "correctAnswer": "a"
+      },
+      "33": {
+        "text": "Tutti i tartufi formano micorrizze?",
+        "options": {
+          "a": "si perché sono funghi micorrizzici",
+          "b": "no, nessuno",
+          "c": "no, solo quelli con peridio nero e rugoso perché necessitano di una maggiore quantità di sostanze nutritive"
+        },
+        "correctAnswer": "a"
+      },
+      "34": {
+        "text": "In quale parte della pianta si realizza il rapporto di simbiosi con i tartufi?",
+        "options": {
+          "a": "a livello del fusto",
+          "b": "a livello della corteccia",
+          "c": "a livello delle radici"
+        },
+        "correctAnswer": "c"
+      },
+      "35": {
+        "text": "Quale tipologia di micorriza viene realizzata tipicamente dai tartufi?",
+        "options": {
+          "a": "ectomicorriza",
+          "b": "endomicorriza",
+          "c": "ectoendomicorriza"
+        },
+        "correctAnswer": "a"
+      },
+      "36": {
+        "text": "Quello che comunemente definiamo come tartufo, come viene definito dai micologi?",
+        "options": {
+          "a": "carpoforo o corpo fruttifero",
+          "b": "picnidio",
+          "c": "peridio"
+        },
+        "correctAnswer": "a"
+      },
+      "37": {
+        "text": "Perchè, per i tartufi, è importante la micorrizzazione con le piante superiori?",
+        "options": {
+          "a": "perché senza la micorrizazione non si possono sviluppare i carpofori",
+          "b": "perché senza la micorrizzaione le radici non possono svilupparsi",
+          "c": "perché senza la micorrizzaione la pianta simbionte si ammala gravemente"
+        },
+        "correctAnswer": "a"
+      },
+      "38": {
+        "text": "Come è fatto un tartufo?",
+        "options": {
+          "a": "E' un corpo fruttifero globoso costituito da una parte esterna liscia o rugosa (scorza o peridio) e da una parte interna (polpa o gleba) percorsa da venature più o meno sottili",
+          "b": "E' un corpo fruttifero di forma globosa racchiuso da una buccia simile a quella dell'arancio che contiene una polpa succosa.",
+          "c": "E' un corpo fruttifero di forma globosa con una polpa molto dura e coriacea."
+        },
+        "correctAnswer": "a"
+      },
+      "39": {
+        "text": "Come si chiama lo strato esterno dei tartufi?",
+        "options": {
+          "a": "gleba",
+          "b": "ectoderma",
+          "c": "peridio"
+        },
+        "correctAnswer": "c"
+      },
+      "40": {
+        "text": "Come si chiama la polpa interna dei tartufi?",
+        "options": {
+          "a": "corpo fruttifero",
+          "b": "gleba",
+          "c": "endoderma"
+        },
+        "correctAnswer": "b"
+      },
+      "41": {
+        "text": "Come si presenta la polpa interna di un tartufo sano e maturo?",
+        "options": {
+          "a": "liscia e uniforme",
+          "b": "marmorizzata, con venature di dimensioni variabili",
+          "c": "verrucosa"
+        },
+        "correctAnswer": "b"
+      },
+      "42": {
+        "text": "Cos'è il peridio del tartufo?",
+        "options": {
+          "a": "E' lo strato interno del tartufo dove sono contenute le spore.",
+          "b": "E' lo strato esterno che riveste il carpoforo del tartufo.",
+          "c": "E' quella parte più colorata del tartufo."
+        },
+        "correctAnswer": "b"
+      },
+      "43": {
+        "text": "Come può essere il peridio del tartufo?",
+        "options": {
+          "a": "Di colore scuro e per lo più di aspetto feltroso simile al cotone.",
+          "b": "Di colore chiaro o scuro, liscio o verrucoso a seconda della specie.",
+          "c": "Sempre e solo con escrescenze piramidali (verruche)."
+        },
+        "correctAnswer": "b"
+      },
+      "44": {
+        "text": "Cos'è la gleba del tartufo?",
+        "options": {
+          "a": "E' la polpa interna del tartufo dove sono contenute le spore.",
+          "b": "E' lo strato esterno che riveste il carpoforo di tartufo.",
+          "c": "E' quella parte più colorata del tartufo."
+        },
+        "correctAnswer": "a"
+      },
+      "45": {
+        "text": "Come può essere la gleba del tartufo?",
+        "options": {
+          "a": "Di colore scuro o chiaro e per lo più di aspetto marezzato a seconda della specie",
+          "b": "Sempre e solo di colore chiaro a prescindere dalla specie",
+          "c": "Sempre e solo di colore scuro a prescindere dalla specie"
+        },
+        "correctAnswer": "a"
+      },
+      "46": {
+        "text": "Come si svolge il ciclo biologico del tartufo?",
+        "options": {
+          "a": "Per fasi successive: germinazione delle spore, formazione delle micorrize, creazione, sviluppo e maturazione dei carpofori.",
+          "b": "Per fasi alterne: germinazione delle spore, creazione sviluppo e maturazione dei carpofori, senza necessità della formazione delle micorrize.",
+          "c": "In una unica fase dove la spora, ingrossandosi, dà luogo ai carpofori che poi maturano"
+        },
+        "correctAnswer": "a"
+      },
+      "47": {
+        "text": "Cosa sono le micorrize?",
+        "options": {
+          "a": "Sono dei semplici apici radicali.",
+          "b": "Sono delle strutture radicali dovute gli apici radicali ingrossati dal micelio del tartufo.",
+          "c": "Sono delle malformazioni radicali che colpiscono le piante forestali."
+        },
+        "correctAnswer": "b"
+      },
+      "48": {
+        "text": "Che tipo di funghi sono i tartufi?",
+        "options": {
+          "a": "Funghi simbionti.",
+          "b": "Funghi parassiti.",
+          "c": "Funghi saprofiti."
+        },
+        "correctAnswer": "a"
+      },
+      "49": {
+        "text": "Da cosa è costituito il corpo fruttifero di un tartufo?",
+        "options": {
+          "a": "E' costituito solo da spore.",
+          "b": "E' costituito solo da micelio sterile.",
+          "c": "E' costituito da micelio sterile e una zona specializzata per la riproduzione detta Imenio che contiene le spore."
+        },
+        "correctAnswer": "c"
+      },
+      "50": {
+        "text": "Come si chiama la massa interna del corpo fruttifero di un tartufo?",
+        "options": {
+          "a": "Gleba.",
+          "b": "Peridio.",
+          "c": "Spora."
+        },
+        "correctAnswer": "a"
+      },
+      "51": {
+        "text": "Cosa è il micelio del tartufo?",
+        "options": {
+          "a": "Il micelio è l'apparato vegetativo del tartufo ed è formato da un intreccio di filamenti detti ife.",
+          "b": "E' l'organo deputato alla riproduzione sessuata del tartufo.",
+          "c": "E' la parte commestibile del tartufo."
+        },
+        "correctAnswer": "a"
+      },
+      "52": {
+        "text": "Cosa è il carpoforo del tartufo?",
+        "options": {
+          "a": "E' l'organo deputato alla riproduzione sessuata del tartufo.",
+          "b": "E' l'apparato vegetativo del tartufo ed è formato da un intreccio di filamenti detti ife.",
+          "c": "Il carpoforo è il frutto del tartufo. E' composto dal peridio e dalla gleba. Si sviluppa in seguito all'accrescimento dell'apparato vegetativo del tartufo, il quale si sviluppa dalla spora."
+        },
+        "correctAnswer": "c"
+      },
+      "53": {
+        "text": "Come si chiamano gli organi per la riproduzione sessuata del tartufo?",
+        "options": {
+          "a": "Ife",
+          "b": "Micelio",
+          "c": "Spore"
+        },
+        "correctAnswer": "c"
+      },
+      "54": {
+        "text": "Quali delle seguenti affermazioni è falsa?",
+        "options": {
+          "a": "Le spore sono organi responsabili degli aromi del tartufo",
+          "b": "Le spore sono organi deputati alla riproduzione sessuata",
+          "c": "Le spore sono organi deputati all'assorbimento di sostanze nutrienti dal terreno"
+        },
+        "correctAnswer": "c"
+      },
+      "55": {
+        "text": "La diffusione delle spore dei tartufi è affidata principalmente:",
+        "options": {
+          "a": "al vento",
+          "b": "al fuoco",
+          "c": "agli animali che mangiano i tartufi"
+        },
+        "correctAnswer": "c"
+      },
+      "56": {
+        "text": "Le spore di un tartufo che viene mangiato da un animale, dopo essere passate nell'apparato digerente, sono sempre vitali?",
+        "options": {
+          "a": "no perché i succhi gastrici le uccidono",
+          "b": "si",
+          "c": "no se i tartufi erano profumati e ben maturi"
+        },
+        "correctAnswer": "b"
+      },
+      "57": {
+        "text": "Che dimensioni hanno le spore del tartufo:",
+        "options": {
+          "a": "sono grandi almeno quanto il tartufo",
+          "b": "sono grandi quanto un chicco di grano",
+          "c": "sono più piccole di 0,1 mm"
+        },
+        "correctAnswer": "c"
+      },
+      "58": {
+        "text": "Dalla germinazione della spora otteniamo:",
+        "options": {
+          "a": "immediatamente il tartufo",
+          "b": "dei filamenti dette ife che si insediano nelle radici della pianta superiore",
+          "c": "delle piccole piantine che tramite la fotosintesi daranno origine al tartufo"
+        },
+        "correctAnswer": "b"
+      },
+      "59": {
+        "text": "Cosa si intende quando si afferma che il tartufo è un fungo “ipogeo”?",
+        "options": {
+          "a": "che il carpoforo si sviluppa sopra il terreno",
+          "b": "che il carpoforo si sviluppa sotto il terreno",
+          "c": "che il carpoforo ha la forma di ferro di cavallo"
+        },
+        "correctAnswer": "b"
+      }
+    }
+  },
+  "B": {
+    "title": "RICONOSCIMENTO DELLE VARIE SPECIE DI TARTUFI",
+    "questions": {
+      "1": {
+        "text": "Qual'è il nome latino del tartufo bianco pregiato?",
+        "options": {
+          "a": "Tuber borchii Vitt.",
+          "b": "Tuber albidum Pico",
+          "c": "Tuber magnatum Pico"
+        },
+        "correctAnswer": "c"
+      },
+      "2": {
+        "text": "Qual'è il nome latino del tartufo nero pregiato?",
+        "options": {
+          "a": "Tuber melanosporum Vitt.",
+          "b": "Tuber aestivum Vitt.",
+          "c": "Tuber mesentericum Vitt."
+        },
+        "correctAnswer": "a"
+      },
+      "3": {
+        "text": "Qual'è il nome latino del tartufo bianchetto o marzuolo?",
+        "options": {
+          "a": "Tuber borchii Vitt. o Tuber albidum Pico",
+          "b": "Tuber magnatum Pico",
+          "c": "Tuber aestivum Vitt."
+        },
+        "correctAnswer": "a"
+      },
+      "4": {
+        "text": "Qual'è il nome latino del tartufo scorzone?",
+        "options": {
+          "a": "Tuber brumale Vitt.",
+          "b": "Tuber uncinatum Chatin",
+          "c": "Tuber aestivum Vitt."
+        },
+        "correctAnswer": "c"
+      },
+      "5": {
+        "text": "Qual'è il nome latino del tartufo uncinato?",
+        "options": {
+          "a": "Tuber brumale var. moschatum De Ferry",
+          "b": "Tuber uncinatum Chatin",
+          "c": "Tuber mesentericum Vitt."
+        },
+        "correctAnswer": "b"
+      },
+      "6": {
+        "text": "Qual'è il nome latino del tartufo brumale o tartufo nero d'inverno?",
+        "options": {
+          "a": "Tuber melanosporum Vitt",
+          "b": "Tuber albidum Pico",
+          "c": "Tuber brumale Vitt."
+        },
+        "correctAnswer": "c"
+      },
+      "7": {
+        "text": "Qual'è il nome latino del tartufo moscato?",
+        "options": {
+          "a": "Tuber brumale var. moschatum De Ferry",
+          "b": "Tuber macrosporum Vitt.",
+          "c": "Tuber melanosporum Vitt."
+        },
+        "correctAnswer": "a"
+      },
+      "8": {
+        "text": "Quali elementi sono necessari per riconoscere un tartufo?",
+        "options": {
+          "a": "Colore e rugosità del peridio, colore e marezzature della gleba e soprattutto il profumo.",
+          "b": "Dimensioni e peso.",
+          "c": "La consistenza della polpa."
+        },
+        "correctAnswer": "a"
+      },
+      "9": {
+        "text": "Come si riconoscono i tartufi senza esaminarne le spore al microscopio?",
+        "options": {
+          "a": "Dal colore del peridio.",
+          "b": "Dalle venature della gleba.",
+          "c": "Dal colore e marezzatura della polpa (gleba), dal colore e rugosità della scorza ( peridio), e dal profumo, e, per esclusione anche dal periodo di raccolta."
+        },
+        "correctAnswer": "c"
+      },
+      "10": {
+        "text": "Come si presenta lo strato esterno del tartufo nero pregiato (Tuber melanosporum Vitt.)?",
+        "options": {
+          "a": "liscio e di colore nero con qualche striatura grigiastra",
+          "b": "verrucoso, formato da verruche piccole e poco pronunciate di colore nero",
+          "c": "rugoso, formato da verruche molto pronunciate di colore nero"
+        },
+        "correctAnswer": "c"
+      },
+      "11": {
+        "text": "Come si presenta lo strato esterno del tartufo bianco pregiato (Tuber magnatum Pico)?",
+        "options": {
+          "a": "liscio e di colore chiaro",
+          "b": "verrucoso, di colore chiaro formato da verruche piccole e poco pronunciate",
+          "c": "verrucoso, formato da verruche molto pronunciate di colore chiaro"
+        },
+        "correctAnswer": "a"
+      },
+      "12": {
+        "text": "Come si presenta lo strato esterno del tartufo moscato (Tuber brumale var. moschatum De Ferry)?",
+        "options": {
+          "a": "liscio e di colore nero con qualche striatura grigiastra",
+          "b": "rugoso, formato da piccole verruche poco pronunciate di colore chiaro",
+          "c": "verrucoso, formato da piccole verruche molto basse di colore nero"
+        },
+        "correctAnswer": "c"
+      },
+      "13": {
+        "text": "Come si presenta lo strato esterno del tartufo nero liscio (Tuber macrosporum Vitt.)?",
+        "options": {
+          "a": "liscio e di colore nero con qualche striatura grigiastra",
+          "b": "quasi liscio con verruche depresse di colore rossastro",
+          "c": "liscio e di colore crema formato da verruche molto pronunciate di colore nocciola"
+        },
+        "correctAnswer": "b"
+      },
+      "14": {
+        "text": "Come si presenta lo strato esterno del tartufo nero ordinario (Tuber mesentericum Vitt.)?",
+        "options": {
+          "a": "liscio e di colore nero con qualche striatura grigiastra",
+          "b": "quasi liscio, formato da verruche piccole e poco pronunciate di colore crema",
+          "c": "rugoso, formato da verruche pronunciate di colore nero"
+        },
+        "correctAnswer": "c"
+      },
+      "15": {
+        "text": "Come si presenta lo strato esterno del tartufo nero pregiato (Tuber melanosporum Vitt.)?",
+        "options": {
+          "a": "liscio e di colore nero con qualche striatura grigiastra",
+          "b": "verrucoso, formato da verruche piccole e poco pronunciate di colore nero",
+          "c": "rugoso, formato da verruche molto pronunciate di colore nero"
+        },
+        "correctAnswer": "c"
+      },
+      "16": {
+        "text": "Il tartufo d'estate o scorzone (Tuber aestivum Vitt.) ha uno strato periferico:",
+        "options": {
+          "a": "verrucoso, con verruche sporgenti, grandi e di colore nero",
+          "b": "rugoso con verruche minute di colore grigiastro",
+          "c": "liscio, con verruche depresse"
+        },
+        "correctAnswer": "a"
+      },
+      "17": {
+        "text": "Quale delle seguenti descrizioni del peridio del tartufo bianco NON è corretta?",
+        "options": {
+          "a": "il peridio del tartufo bianco (Tuber magnatum Pico) è verrucoso",
+          "b": "il peridio del tartufo bianco (Tuber magnatum Pico) è di colore giallo chiaro o verdastro",
+          "c": "il peridio del tartufo bianco (Tuber magnatum Pico) è liscio"
+        },
+        "correctAnswer": "a"
+      },
+      "18": {
+        "text": "Il tartufo uncinato (Tuber uncinatum Chatin) ha lo strato periferico:",
+        "options": {
+          "a": "grigio e con verruche molto appuntite",
+          "b": "liscio di colore nero",
+          "c": "verrucoso, formato da piccole verruche nere"
+        },
+        "correctAnswer": "c"
+      },
+      "19": {
+        "text": "Il peridio del tartufo marzuolo o bianchetto (Tuber borchii Vitt.) è:",
+        "options": {
+          "a": "liscio di colore nero con striature bianche",
+          "b": "liscio di colore chiaro, variabile dal bianco-ocra al rossiccio",
+          "c": "rugoso, con verruche evidenti di colore chiaro"
+        },
+        "correctAnswer": "b"
+      },
+      "20": {
+        "text": "Il tartufo marzuolo o bianchetto (Tuber borchii Vitt.) ha generalmente dimensioni:",
+        "options": {
+          "a": "abbastanza ridotte, da una nocciola a un uovo di gallina",
+          "b": "elevate, come una grossa patata",
+          "c": "molto elevate, superando spesso il Kg di peso"
+        },
+        "correctAnswer": "a"
+      },
+      "21": {
+        "text": "Il tartufo marzuolo o bianchetto (Tuber borchii Vitt.) ha la polpa interna:",
+        "options": {
+          "a": "chiara con venature rossastre fini e molto ramificate",
+          "b": "giallognola molto uniforme e compatta",
+          "c": "chiara tendente al fulvo con venature numerose e ramose"
+        },
+        "correctAnswer": "c"
+      },
+      "22": {
+        "text": "La gleba del tartufo bianco (Tuber magnatum Pico) si presenta:",
+        "options": {
+          "a": "chiara con venature bianche, larghe e poco numerose",
+          "b": "chiara con tonalità nocciola e venature sottili e numerose",
+          "c": "grigio brunastra con venature rosse piuttosto spesse e ramificate"
+        },
+        "correctAnswer": "b"
+      },
+      "23": {
+        "text": "Il tartufo uncinato (Tuber uncinatum Chatin) ha la polpa interna (gleba):",
+        "options": {
+          "a": "color cioccolato, con numerose venature ramificate chiare",
+          "b": "nero-violacea, con venature bianche e fini",
+          "c": "color verde scuro omogeneo"
+        },
+        "correctAnswer": "a"
+      },
+      "24": {
+        "text": "Il tartufo (Tuber melanosporum Vitt.) ha la polpa interna (gleba):",
+        "options": {
+          "a": "color cioccolato, con numerose venature ramificate chiare",
+          "b": "nero-violacea, con venature bianche e fini",
+          "c": "color cioccolato scuro omogeneo"
+        },
+        "correctAnswer": "b"
+      },
+      "25": {
+        "text": "Il tartufo (Tuber brumale var. moschatum) ha la polpa interna (gleba):",
+        "options": {
+          "a": "color cioccolato, con numerose venature ramificate chiare",
+          "b": "nero-violacea, con venature bianche e fini",
+          "c": "scura con larghe vene bianche"
+        },
+        "correctAnswer": "c"
+      },
+      "26": {
+        "text": "In base a quali caratteristiche è possibile distinguere il tartufo bianco pregiato (Tuber magnatum Pico) dal tartufo marzuolo (Tuber borchii Vittad.)?",
+        "options": {
+          "a": "non esistono differenze macroscopiche",
+          "b": "il tartufo bianco ha il peridio più fulvo del marzuolo, profuma di aglio e non di metano e si raccoglie in primavera e non in autunno",
+          "c": "il tartufo bianco ha il peridio più chiaro del marzuolo, profuma di metano e non di aglio e si raccoglie in autunno anziché in primavera"
+        },
+        "correctAnswer": "c"
+      },
+      "27": {
+        "text": "Quali elementi sono necessari per riconoscere un tartufo maturo senza ricorrere al microscopio?",
+        "options": {
+          "a": "peso e dimensioni",
+          "b": "consistenza e durabilità",
+          "c": "colore e rugosità del peridio, colore e venature della gleba, profumo"
+        },
+        "correctAnswer": "c"
+      },
+      "28": {
+        "text": "E' possibile riconoscere un tartufo maturo senza ricorrere al microscopio?",
+        "options": {
+          "a": "si dalle dimensioni tipiche della varietà",
+          "b": "no",
+          "c": "si dal colore e rugosità del peridio, colore e venature della gleba, profumo"
+        },
+        "correctAnswer": "c"
+      },
+      "29": {
+        "text": "Come ci si accorge che un tartufo è immaturo ?",
+        "options": {
+          "a": "perché si stacca difficilmente dalla radice con cui è micorrizzato",
+          "b": "perché emana un forte profumo di “ verde”",
+          "c": "per l'assenza totale del profumo tipico della varietà"
+        },
+        "correctAnswer": "c"
+      },
+      "30": {
+        "text": "In base a quali caratteristiche è possibile distinguere il tartufo marzuolo (Tuber borchii Vittad.) dal tartufo bianco pregiato (Tuber magnatum Pico):",
+        "options": {
+          "a": "non esistono differenze macroscopiche",
+          "b": "il tartufo marzuolo ha il peridio più fulvo del tartufo bianco, profuma di aglio e non di metano e si raccoglie in primavera e non in autunno",
+          "c": "il tartufo marzuolo ha il peridio più chiaro del tartufo bianco, profuma di metano e non di aglio e si raccoglie in autunno anziché in primavera"
+        },
+        "correctAnswer": "b"
+      },
+      "31": {
+        "text": "In base a quali caratteristiche è possibile distinguere il tartufo marzuolo (Tuber borchii Vittad.) dal tartufo bianchetto (Tuber albidum Pico):",
+        "options": {
+          "a": "non esistono differenze perché sono nomi che indicano lo stesso tartufo",
+          "b": "il tartufo marzuolo ha il peridio più fulvo del tartufo bianchetto, profuma di aglio e non di metano e si raccoglie in primavera e non in autunno",
+          "c": "il tartufo marzuolo ha il peridio più scuro e rugoso del tartufo bianchetto,"
+        },
+        "correctAnswer": "a"
+      },
+      "32": {
+        "text": "In base a quali caratteristiche è possibile distinguere il tartufo nero liscio (Tuber macrosporum Vitt.) dal tartufo nero ordinario (Tuber mesentericum Vitt):",
+        "options": {
+          "a": "non esistono differenze macroscopiche",
+          "b": "il tartufo nero liscio ha il peridio più chiaro e più liscio del tartufo nero ordinario",
+          "c": "il tartufo nero liscio ha la gleba di colore giallastro o grigio bruna mentre il nero ordinario ha la gleba bruna tendente al purpureo con venature larghe."
+        },
+        "correctAnswer": "b"
+      },
+      "33": {
+        "text": "In base a quali caratteristiche è possibile distinguere il tartufo nero d'inverno (Tuber brumale Vitt.) dal tartufo nero pregiato (Tuber melanosporum Vitt):",
+        "options": {
+          "a": "è impossibile ad occhio nudo in quanto la differenza è solo a livello di spore",
+          "b": "il tartufo nero d'inverno ha il peridio tendente al liscio e grigiastro, il tartufo nero pregiato ha il peridio nero con verruche poligonali e minute",
+          "c": "il tartufo nero d'inverno ha la gleba grigio nerastra debolmente violacea con venature bianche ben marcate mentre il tartufo nero pregiato ha la gleba nero-violacea con venature bianche e fini."
+        },
+        "correctAnswer": "c"
+      },
+      "34": {
+        "text": "In base a quali caratteristiche è possibile distinguere il tartufo moscato (Tuber brumale var. moschatum De Ferry) dal tartufo scorzone (Tuber aestivum Vitt)?",
+        "options": {
+          "a": "dal peridio liscio e giallo chiaro del moscato e scuro e rugoso dello scorzone",
+          "b": "dalla presenza di vermi delle mosche nel tartufo moscato, mentre i vermi non sono mai presenti nel tartufo scorzone",
+          "c": "la gleba del tartufo moscato e scura con larghe venature bianche, mentre la gleba del tartufo scorzone è giallastra bronzea con venature numerose e chiare"
+        },
+        "correctAnswer": "c"
+      },
+      "35": {
+        "text": "In base a quali caratteristiche è possibile distinguere il tartufo nero pregiato (Tuber melanosporum Vitt.) dal tartufo d'estate (Tuber aestivum Vitt)?",
+        "options": {
+          "a": "non esistono differenze visive, è possibile riconoscerli solo a livello di spore",
+          "b": "il tartufo nero pregiato ha il peridio più rugoso e più scuro del tartufo d'estate",
+          "c": "il tartufo nero pregiato ha la gleba di colore nero-violacea mentre il tartufo d'estate ha la gleba dal giallastra al bronzeo."
+        },
+        "correctAnswer": "c"
+      },
+      "36": {
+        "text": "Il tartufo nero pregiato (Tuber melanosporum Vitt.) ha la polpa interna:",
+        "options": {
+          "a": "grigio scura con venature nere evidenti",
+          "b": "color crema, con venature molto evidenti e ramificate di colore nero",
+          "c": "nero-violacea, con venature bianche e fini"
+        },
+        "correctAnswer": "c"
+      },
+      "37": {
+        "text": "Il tartufo nero liscio (Tuber macrosporum Vitt.) ha la polpa interna:",
+        "options": {
+          "a": "color bruno tendente al purpureo con numerose venature chiare",
+          "b": "color nero ben omogeneo",
+          "c": "colo grigio scuro, tendente al nero, senza venature visibili"
+        },
+        "correctAnswer": "a"
+      },
+      "38": {
+        "text": "Qual'è la caratteristica principale per riconoscere il tartufo nero liscio (Tuber macrosporum Vitt.) tra le seguenti?",
+        "options": {
+          "a": "peridio liscio, con verruche molto depresse e di colore bruno",
+          "b": "peridio verrucoso con verruche molto prominenti",
+          "c": "peridio liscio e di colore chiaro"
+        },
+        "correctAnswer": "a"
+      },
+      "39": {
+        "text": "In base a quali caratteristiche è possibile distinguere il tartufo nero pregiato (Tuber melanosporum Vitt.) dal tartufo scorzone (Tuber aestivum Vitt.)?",
+        "options": {
+          "a": "il tartufo nero pregiato ha il peridio verrucoso con verruche minute di colore scuro, la gleba nera violacea con venature fini ed emana un profumo aromatico quando è maturo",
+          "b": "il tartufo nero pregiato ha il peridio verrucoso con verruche prominenti di colore scuro, la gleba di colore dal giallo al bronzeo con venature fini e profuma debolmente di fungo quando è maturo",
+          "c": "non esistono caratteristiche macroscopiche che permettano il riconoscimento delle due specie"
+        },
+        "correctAnswer": "a"
+      },
+      "40": {
+        "text": "Come si presenta il tartufo nero d'inverno (Tuber brumale Vitt.) quando è maturo?",
+        "options": {
+          "a": "è un corpo fruttifero di forma simile al tubero della patata",
+          "b": "è un corpo fruttifero globoso con peridio verrucoso, di colore scuro e gleba grigia con venature bianche ben evidenti",
+          "c": "è un corpo fruttifero globoso con peridio quasi liscio, con verruche depresse di colore bruno e polpa bruna"
+        },
+        "correctAnswer": "b"
+      },
+      "41": {
+        "text": "Da chi può essere fatto l'esame microscopico delle spore per avere la certezza della specie tartufigena?",
+        "options": {
+          "a": "Da qualsiasi laboratorio di analisi",
+          "b": "Dai micologi della ASL competente per territorio",
+          "c": "Dal centro sperimentale di tartuficoltura di Sant'Angelo in Vado"
+        },
+        "correctAnswer": "c"
+      }
+    }
+  },
+  "C": {
+    "title": "NOZIONI DI BOTANICA E SELVICOLTURA",
+    "questions": {
+      "1": {
+        "text": "Che cosa si indica col termine latifoglie?",
+        "options": {
+          "a": "piante con foglie a forma di ago, generalmente sempreverdi",
+          "b": "piante con foglie a lamina larga, generalmente caduche",
+          "c": "piante che presentano foglie spesse e carnose"
+        },
+        "correctAnswer": "b"
+      },
+      "2": {
+        "text": "A quale regno appartengono le latifoglie?",
+        "options": {
+          "a": "Vegetali",
+          "b": "Animali",
+          "c": "Funghi"
+        },
+        "correctAnswer": "a"
+      },
+      "3": {
+        "text": "Può una latifoglia entrare in simbiosi con il tartufo nero pregiato (Tuber melanosporum Vitt.)?",
+        "options": {
+          "a": "si",
+          "b": "no",
+          "c": "no se le latifoglie sono a foglia caduca"
+        },
+        "correctAnswer": "a"
+      },
+      "4": {
+        "text": "Quale caratteristica NON è propria delle conifere?",
+        "options": {
+          "a": "foglie larghe e caduche",
+          "b": "foglie a forma di ago",
+          "c": "semi contenuti in un cono"
+        },
+        "correctAnswer": "a"
+      },
+      "5": {
+        "text": "Può una conifera contrarre la simbiosi micorrizica con il tartufo bianchetto (Tuber albidum Pico)?",
+        "options": {
+          "a": "si",
+          "b": "no",
+          "c": "si, ma solo nei boschi di alta montagna"
+        },
+        "correctAnswer": "a"
+      },
+      "6": {
+        "text": "Indicare, tra i seguenti gruppi di piante, quello con specie che appartengono alle latifoglie:",
+        "options": {
+          "a": "pioppo bianco, faggio, nocciolo, cerro, leccio",
+          "b": "pino marittimo, cipresso, thuja, chamaecyparis, cedro",
+          "c": "abete bianco, larice, tasso, sequoia"
+        },
+        "correctAnswer": "a"
+      },
+      "7": {
+        "text": "Quale delle seguenti specie è una latifoglia?",
+        "options": {
+          "a": "Quercus pubescens ( Roverella)",
+          "b": "Pinus Pinea ( Pino Domestico)",
+          "c": "Picea Excelsa ( Abete Rosso)"
+        },
+        "correctAnswer": "a"
+      },
+      "8": {
+        "text": "Quale fra le seguenti specie NON appartiene alle latifoglie?",
+        "options": {
+          "a": "tiglio (Tilia sp.)",
+          "b": "platano (Platanus sp.)",
+          "c": "cipresso (Cupressus sempervirens L.)"
+        },
+        "correctAnswer": "c"
+      },
+      "9": {
+        "text": "Quale tra le seguenti specie appartiene alle conifere?",
+        "options": {
+          "a": "abete bianco (Abies alba Mill.)",
+          "b": "pioppo bianco (Populus alba L.)",
+          "c": "cerro (Quercus cerris L.)"
+        },
+        "correctAnswer": "a"
+      },
+      "10": {
+        "text": "Quale delle seguenti specie è una conifera?",
+        "options": {
+          "a": "pioppo nero (Populus nigra L.)",
+          "b": "cerro (Quercus cerris L.)",
+          "c": "pino domestico (Pinus pinea L.)"
+        },
+        "correctAnswer": "c"
+      },
+      "11": {
+        "text": "Quale delle seguenti specie è una latifoglia?",
+        "options": {
+          "a": "abete rosso (Picea abies Karst)",
+          "b": "pino domestico (Pinus pinea L.)",
+          "c": "carpino nero (Ostrya carpinifolia Scop.)"
+        },
+        "correctAnswer": "c"
+      },
+      "12": {
+        "text": "Che cosa si intende per boschi artificiali?",
+        "options": {
+          "a": "boschi nati dopo un incendio",
+          "b": "boschi impiantati dall'uomo (rimboschimenti)",
+          "c": "boschi aventi la sola funzione estetico-ricreativa"
+        },
+        "correctAnswer": "b"
+      },
+      "13": {
+        "text": "Cosa si intende per fustaia?",
+        "options": {
+          "a": "bosco di alto fusto dove il rinnovamento degli alberi è affidato alla germogliazione dei semi prodotti dagli alberi stessi",
+          "b": "bosco che viene tagliato per far ricacciare dalla ceppaia i nuovi fusti (polloni)",
+          "c": "bosco costituito da alberi esotici"
+        },
+        "correctAnswer": "a"
+      },
+      "14": {
+        "text": "E' possibile effettuare la ricerca dei tartufi in una fustaia?",
+        "options": {
+          "a": "No perché vietato dalla legge regionale 50/95",
+          "b": "Si perché la fustaia è un bosco",
+          "c": "No perché le fustaie non producono tartufi"
+        },
+        "correctAnswer": "b"
+      },
+      "15": {
+        "text": "Come si distingue, visivamente, un bosco ceduo da una bosco di alto fusto (fustaia)?",
+        "options": {
+          "a": "non sono distinguibili visivamente",
+          "b": "un bosco ceduo è generalmente costituito da più fusti (polloni) che si sviluppano da ogni singola ceppaia",
+          "c": "un bosco ceduo è costituito da piante a fusto singolo"
+        },
+        "correctAnswer": "b"
+      },
+      "16": {
+        "text": "Che cosa si intende per bosco ceduo?",
+        "options": {
+          "a": "bosco che si rinnova tramite polloni della ceppaia",
+          "b": "bosco artificiale",
+          "c": "bosco che conserva la biodiversità"
+        },
+        "correctAnswer": "a"
+      },
+      "17": {
+        "text": "A prescindere dalle condizioni climatiche, in genere la produzione di tartufi è più continua nei boschi cedui o nelle fustaie?",
+        "options": {
+          "a": "Non c'è differenza, perché non c'è legame tra la pianta e il tartufo",
+          "b": "Nei boschi cedui, dove il periodo che intercorre tra un taglio e il successivo è breve",
+          "c": "Nelle fustaie, dove il genere viene fatto un solo taglio per utilizzare il bosco quando è maturo"
+        },
+        "correctAnswer": "c"
+      },
+      "18": {
+        "text": "Il Pino Domestico (Pinus Pinea L.), allo stato naturale, con quale specie di tartufo stabilisce soventemente un rapporto simbiotico?",
+        "options": {
+          "a": "tartufo bianchetto (Tuber albidum Pico)",
+          "b": "con nessuna",
+          "c": "tartufo nero liscio (Tuber macrosporum Vitt.)"
+        },
+        "correctAnswer": "a"
+      },
+      "19": {
+        "text": "Quale tra le seguenti fasce fitoclimatiche è la più diffusa in Toscana?",
+        "options": {
+          "a": "il Picetum, situata tra i 1.400 e i 2.500 metri di quota",
+          "b": "il Castanetum, situata tra i 400 e i 1.000 metri di quota",
+          "c": "il Lauretum, situata al di sotto dei 400-500 metri di quota"
+        },
+        "correctAnswer": "c"
+      },
+      "20": {
+        "text": "La produzione di tartufi di un bosco è strettamente correlata alla sua corretta conduzione?",
+        "options": {
+          "a": "si, sempre",
+          "b": "no, mai",
+          "c": "solo nel caso di boschi artificiali"
+        },
+        "correctAnswer": "a"
+      },
+      "21": {
+        "text": "Subito dopo il taglio di un bosco ceduo la produzione dei tartufi:",
+        "options": {
+          "a": "non subisce flessioni",
+          "b": "cessa temporaneamente per poi riprendere quando i polloni si saranno accresciuti",
+          "c": "aumenta sensibilmente"
+        },
+        "correctAnswer": "b"
+      },
+      "22": {
+        "text": "Quali tra le seguenti specie del genere Quercus è una sempreverde:",
+        "options": {
+          "a": "Cerro (Quercus cerris L.)",
+          "b": "Roverella (Quercus pubescens L.)",
+          "c": "Leccio (Quercus Ilex L.)"
+        },
+        "correctAnswer": "c"
+      },
+      "23": {
+        "text": "Una fustaia si definisce coetanea quando:",
+        "options": {
+          "a": "è costituita da individui appartenenti alla stessa specie",
+          "b": "tutte le piante hanno la stessa età",
+          "c": "le piante hanno età diverse"
+        },
+        "correctAnswer": "b"
+      },
+      "24": {
+        "text": "Le moderne tecniche agronomiche (aratura profonda, utilizzo massiccio di fertilizzanti e pesticidi, eliminazione di piante camporili, ecc.) hanno inciso sulla produzione quantitativa dei tartufi nelle campagne?",
+        "options": {
+          "a": "si, in senso negativo: diminuendola",
+          "b": "si, in senso positivo: aumentandola",
+          "c": "no, non hanno inciso in alcun modo"
+        },
+        "correctAnswer": "a"
+      },
+      "25": {
+        "text": "Quale delle seguenti specie NON è una conifera?",
+        "options": {
+          "a": "rovere (Quercus petraea Liebl.)",
+          "b": "duglasia (Pseudotsuga menziesii Mirb.)",
+          "c": "abete bianco (Abies alba Miller)"
+        },
+        "correctAnswer": "a"
+      },
+      "26": {
+        "text": "I polloni, sviluppatosi dalle ceppaie dopo il taglio del bosco, si ritrovano:",
+        "options": {
+          "a": "nei boschi cedui",
+          "b": "nelle fustaie",
+          "c": "nelle coltivazioni agrarie"
+        },
+        "correctAnswer": "a"
+      },
+      "27": {
+        "text": "Nei boschi cedui, la ricostituzione del soprassuolo dopo il taglio viene affidata:",
+        "options": {
+          "a": "ai semi quiescenti nel terreno",
+          "b": "all'attività pollonifera delle piante tagliate",
+          "c": "alla messa a dimora di piantine"
+        },
+        "correctAnswer": "b"
+      },
+      "28": {
+        "text": "Le fustaie sono boschi in cui:",
+        "options": {
+          "a": "le piante, generalmente nate da seme, vengono lasciate crescere indisturbate sino alla maturità",
+          "b": "si effettuano tagli frequenti con lo scopo di ricavare legna da ardere",
+          "c": "la ricostituzione del soprassuolo dopo il taglio viene affidata alla capacità pollonifera delle ceppaie"
+        },
+        "correctAnswer": "a"
+      },
+      "29": {
+        "text": "A parità di composizione specifica, età e condizioni ambientali, la produzione tartufigena di un bosco è maggiore se esso è:",
+        "options": {
+          "a": "interessato frequentemente dal passaggio del fuoco",
+          "b": "governato a ceduo",
+          "c": "governato a fustaia"
+        },
+        "correctAnswer": "c"
+      },
+      "30": {
+        "text": "Il ceduo semplice è caratterizzato da:",
+        "options": {
+          "a": "ceppaie con polloni della stessa età",
+          "b": "presenza di matricine",
+          "c": "coesistenza del ceduo e della fustaia"
+        },
+        "correctAnswer": "a"
+      },
+      "31": {
+        "text": "La conversione di un bosco da ceduo a fustaia ha effetti sulla produzione tartufigena?",
+        "options": {
+          "a": "si, generally la aumenta",
+          "b": "si, generally la diminuisce",
+          "c": "no, è ininfluente"
+        },
+        "correctAnswer": "a"
+	  },
+      "32": {
+        "text": "Le piante camporili (alberi isolati al margine dei campi), un tempo molto diffuse in Toscana, producono grossi quantitativi di tartufo?",
+        "options": {
+          "a": "no, mai",
+          "b": "solo se si tratta di conifere",
+          "c": "si, spesso"
+        },
+        "correctAnswer": "c"
+      },
+      "33": {
+        "text": "Quale tre le seguenti specie di quercia NON è una sempreverde?",
+        "options": {
+          "a": "Leccio (Quercus ilex L.)",
+          "b": "Farnia (Quercus robur L.)",
+          "c": "Sughera (Quercus suber L.)"
+        },
+        "correctAnswer": "b"
+      },
+      "34": {
+        "text": "Un bosco si definisce misto quando:",
+        "options": {
+          "a": "è composto da piante appartenenti a diverse classi di età",
+          "b": "è trattato a ceduo composto",
+          "c": "è composto da piante appartenenti a specie diverse"
+        },
+        "correctAnswer": "c"
+      },
+      "35": {
+        "text": "Quali, tra le seguenti piante, sono simbionti di tartufi sia bianchi che neri nel territorio regionale?",
+        "options": {
+          "a": "Cipressi",
+          "b": "Querce",
+          "c": "Abeti"
+        },
+        "correctAnswer": "b"
+      },
+      "36": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "platano (Platanus orientalis L.)",
+          "b": "farnia (Quercus robur L.)",
+          "c": "tiglio (Tilia spp.)"
+        },
+        "correctAnswer": "c",
+		"image": "c_36.png"
+      },
+      "37": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "tiglio (Tilia spp.)",
+          "b": "nocciolo (Corylus avellana L.)",
+          "c": "pioppo nero (Populus nigra L.)"
+        },
+        "correctAnswer": "a",
+		"image": "c_37.png"
+      },
+      "38": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "tiglio (Tilia spp.)",
+          "b": "carpino nero (Ostrya carpinifolia)",
+          "c": "ontano verde (Alnus viridis)"
+        },
+        "correctAnswer": "b",
+		"image": "c_38.png"
+      },
+      "39": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "nocciolo (Corylus avellana L. )",
+          "b": "carpino bianco (Carpinus betulus L.)",
+          "c": "carpino nero (Ostrya carpinifolia Scop.)"
+        },
+        "correctAnswer": "c",
+		"image": "c_39.png"
+      },
+      "40": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "cerro (Quercus cerris)",
+          "b": "rovere (Quercus petraea)",
+          "c": "leccio (Quercus ilex)"
+        },
+        "correctAnswer": "a",
+		"image": "c_40.png"
+      },
+      "41": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "roverella (Quercus pubescens)",
+          "b": "cerro (Quercus cerris)",
+          "c": "leccio (Quercus ilex)"
+        },
+        "correctAnswer": "b",
+		"image": "c_41.png"
+      },
+      "42": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "quercia spinosa (Quercus coccifera L.)",
+          "b": "roverella (Quercus pubescens Willd.)",
+          "c": "leccio (Quercus ilex L. )"
+        },
+        "correctAnswer": "b",
+		"image": "c_42.png"
+      },
+      "43": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "roverella (Quercus pubescens Willd)",
+          "b": "leccio (Quercus ilex L.)",
+          "c": "cerro (Quercus cerris L.)"
+        },
+        "correctAnswer": "a",
+		"image": "c_43.png"
+      },
+      "44": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "castagno (Castanea sativa Mill.)",
+          "b": "tiglio (Tilia spp.)",
+          "c": "nocciolo (Corylus avellana L.)"
+        },
+        "correctAnswer": "c",
+		"image": "c_44.png"
+      },
+      "45": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "nocciolo (Corylus avellana)",
+          "b": "tiglio (Tilia spp.)",
+          "c": "pioppo bianco (Populus alba)"
+        },
+        "correctAnswer": "a",
+		"image": "c_45.png"
+      },
+      "46": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "pioppo bianco (Populus alba L.)",
+          "b": "tiglio (Tilia spp.)",
+          "c": "nocciolo (Corylus avellana)"
+        },
+        "correctAnswer": "a",
+		"image": "c_46.png"
+      },
+      "47": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "pioppo nero (Populus nigra L.)",
+          "b": "pioppo bianco (Populus alba L.)",
+          "c": "roverella (Quercus pubescens Willd)"
+        },
+        "correctAnswer": "b",
+		"image": "c_47.png"
+      },
+      "48": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "nocciolo (Corylus avellana)",
+          "b": "salice bianco (Salix alba L.)",
+          "c": "leccio (Quercus ilex)"
+        },
+        "correctAnswer": "b",
+		"image": "c_48.png"
+      },
+      "49": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "castagno (Castanea sativa Mill.)",
+          "b": "pioppo bianco (Populus alba L.)",
+          "c": "salice bianco (Salix alba L.)"
+        },
+        "correctAnswer": "c",
+		"image": "c_49.png"
+      },
+      "50": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "castagno (Castanea sativa Mill.)",
+          "b": "roverella (Quercus pubescens Willd.)",
+          "c": "pioppo nero (Populus nigra L.)"
+        },
+        "correctAnswer": "c",
+		"image": "c_50.png"
+      },
+      "51": {
+        "text": "A quale specie arborea corrisponde la specie di seguito disegnata:",
+        "options": {
+          "a": "pioppo nero (Populus nigra L.)",
+          "b": "roverella (Quercus pubescens Willd.)",
+          "c": "salice bianco (Salix alba L.)"
+        },
+        "correctAnswer": "a",
+		"image": "c_51.png"
+      }
+    }
+  },
+  "D": {
+    "title": "ECOLOGIA E COLTIVAZIONE DEI TARTUFI",
+    "questions": {
+      "1": {
+        "text": "Il tartufo può svilupparsi in qualsiasi ambiente?",
+        "options": {
+          "a": "si",
+          "b": "no, ha bisogno di specifiche condizioni di terreno e di clima e della presenza di piante simbionti",
+          "c": "l'ambiente non conta perché il tartufo si sviluppa indipendentemente dall'ambiente"
+        },
+        "correctAnswer": "b"
+      },
+      "2": {
+        "text": "Il tartufo bianco può svilupparsi in assenza di piante superiori ?",
+        "options": {
+          "a": "si",
+          "b": "no",
+          "c": "si purché sia presente un abbondante vegetazione di graminacee spontanee"
+        },
+        "correctAnswer": "b"
+      },
+      "3": {
+        "text": "Il tartufo nero pregiato (Tuber melanosporum Vitt.) può svilupparsi in assenza di piante superiori?",
+        "options": {
+          "a": "si",
+          "b": "no",
+          "c": "si, in terreni calcarei con abbondante scheletro e soleggiati"
+        },
+        "correctAnswer": "b"
+      },
+      "4": {
+        "text": "Dove si può trovare più frequentemente il tartufo bianco (Tuber magnatum Pico) in Toscana?",
+        "options": {
+          "a": "nei fondovalle umidi, ove si concentrano le formazioni riparie",
+          "b": "nei terreni scoscesi ben soleggiati e aridi occupati da querceti di roverella",
+          "c": "nei rimboschimenti artificiali di duglasia"
+        },
+        "correctAnswer": "a"
+      },
+      "5": {
+        "text": "Il tartufo bianco (Tuber magnatum Pico) solitamente contrae più facilmente un rapporto simbiotico con:",
+        "options": {
+          "a": "il pioppo nero e il pioppo bianco",
+          "b": "i pioppi euroamericani",
+          "c": "il faggio"
+        },
+        "correctAnswer": "a"
+      },
+      "6": {
+        "text": "Il tartufo bianco (Tuber magnatum Pico) in quale delle seguenti formazioni boschive può trovare l'ambiente ottimale per svilupparsi?",
+        "options": {
+          "a": "nei boschi di alta quota",
+          "b": "nei rimboschimenti effettuati in seguito ad incendi",
+          "c": "nelle formazioni boschive miste prossime ai corsi d'acqua (pioppi, salici, querce etc....)"
+        },
+        "correctAnswer": "c"
+      },
+      "7": {
+        "text": "Il tartufo bianco (Tuber magnatum Pico) in quale delle seguenti condizioni ambientali può trovare l'ambiente ottimale per svilupparsi?",
+        "options": {
+          "a": "nei boschi di conifere",
+          "b": "nei terreni ricchi di scheletro ed esposti a sud",
+          "c": "nei fondovalle in prossimità dei corsi d'acqua"
+        },
+        "correctAnswer": "c"
+      },
+      "8": {
+        "text": "Si può trovare il tartufo bianco (Tuber magnatum Pico) nei boschi di fondovalle distanti più di 100 mt dal fiume?",
+        "options": {
+          "a": "si",
+          "b": "no mai",
+          "c": "si, se il bosco è formato esclusivamente da piante non micorrizzate"
+        },
+        "correctAnswer": "a"
+      },
+      "9": {
+        "text": "Cosa si indica quando si parla di “bruciata” o “pianello” ?",
+        "options": {
+          "a": "buca scavata con l'apposito attrezzo per l'estrazione dei tartufi",
+          "b": "area circolare priva di vegetazione, indicativa della presenza del tartufo nero pregiato (Tuber melanosporum Vitt.)",
+          "c": "area caratterizzata da vegetazione infestante indicatrice della presenza del tartufo bianco (Tuber magnatum Pico)"
+        },
+        "correctAnswer": "b"
+      },
+      "10": {
+        "text": "Il cosiddetto “pianello” o “bruciata” indica:",
+        "options": {
+          "a": "il passaggio recente di un incendio",
+          "b": "la presenza di parassiti nel terreno",
+          "c": "un'area circolare priva di vegetazione, indicativa della presenza del tartufo nero pregiato (Tuber melanosporum Vitt.)"
+        },
+        "correctAnswer": "c"
+      },
+      "11": {
+        "text": "Cosa si indica quando si parla di “bruciata” o “pianello” ?",
+        "options": {
+          "a": "area circolare priva di vegetazione, indicativa della presenza del tartufo nero pregiato (Tuber melanosporum Vitt.)",
+          "b": "area priva di vegetazione dove è possibile posteggiare la macchina perché non si danneggia l'ambiente tartufigeno",
+          "c": "area caratterizzata da assenza di vegetazione perché utilizzate in passato per bruciare il legname per produrre carbone “Carbonaie”"
+        },
+        "correctAnswer": "a"
+      },
+      "12": {
+        "text": "Quale tra questi tartufi sviluppa generalmente i propri corpi fruttifere a profondità più elevata?",
+        "options": {
+          "a": "tartufo bianchetto o marzuolo(Tuber borchii Vitt.)",
+          "b": "tartufo bianco (Tuber magnatum Pico)",
+          "c": "tartufo d'estate o scorzone (Tuber aestivum Vitt.)"
+        },
+        "correctAnswer": "b"
+      },
+      "13": {
+        "text": "Quale, tra le seguenti specie di tartufo, produce carpofori di dimensioni generalmente ridotte (dimensioni di una nocciola)?",
+        "options": {
+          "a": "il tartufo bianco pregiato",
+          "b": "il tartufo scorzone",
+          "c": "il tartufo marzuolo o bianchetto"
+        },
+        "correctAnswer": "c"
+      },
+      "14": {
+        "text": "Gli ambienti naturali di produzione del tartufo bianco (Tuber magnatum Pico) in Toscana sono generalmente caratterizzati da quali tipi di terreno?",
+        "options": {
+          "a": "terreni argillosi con esposizione a sud",
+          "b": "terreni alcalini di fondovalle freschi",
+          "c": "terreni sabbiosi ben drenanti e acidi"
+        },
+        "correctAnswer": "b"
+      },
+      "15": {
+        "text": "Quali specie di tartufo sono in grado di formare, in maniera più o meno evidente, il cosiddetto “pianello” o “bruciata” ?",
+        "options": {
+          "a": "tartufo nero pregiato (Tuber melanosporum Vitt.), tartufo scorzone (Tuber aestivum Vittad) e tartufo uncinato (Tuber uncinatum Chatin)",
+          "b": "tartufo bianco (Tuber magnatum Pico) e tartufo marzuolo (Tuber borchii Vittad.)",
+          "c": "tartufo rosso (Tuber rufum Pico) e tartufo scavato (Tuber excavatum Vittad)"
+        },
+        "correctAnswer": "a"
+      },
+      "16": {
+        "text": "Quali tipi di terreno predilige il tartufo nero pregiato (Tuber melanosporum Vitt.)?",
+        "options": {
+          "a": "terreni calcarei ben soleggiati, ricchi di pietre di piccole dimensioni",
+          "b": "terreni argillosi e ben compatti",
+          "c": "terreni acidi, sotto fitta copertura arborea"
+        },
+        "correctAnswer": "a"
+      },
+      "17": {
+        "text": "Quale tra le seguenti piante è la più idonea per la coltivazione del tartufo nero pregiato (Tuber melanosporum Vitt.)?",
+        "options": {
+          "a": "faggio (Fagus sylvatica)",
+          "b": "roverella (Quercus pubescens)",
+          "c": "abete rosso (Picea abies)"
+        },
+        "correctAnswer": "b"
+      },
+      "18": {
+        "text": "Quale fra le seguenti situazioni stazionali favorisce lo sviluppo del tartufo nero pregiato (Tuber melanosporum Vitt.)?",
+        "options": {
+          "a": "suoli fortemente ombreggiati",
+          "b": "suoli ben esposti al sole",
+          "c": "suoli acidi e privi di calcare"
+        },
+        "correctAnswer": "b"
+      },
+      "19": {
+        "text": "Quale delle seguenti forme di vegetazione boschiva è quella tipica del tartufo nero pregiato (Tuber melanosporum Vitt.)?",
+        "options": {
+          "a": "le pinete litoranee",
+          "b": "i querceti misti e radi",
+          "c": "i rimboschimenti di pino nero"
+        },
+        "correctAnswer": "b"
+      },
+      "20": {
+        "text": "Con quale delle seguenti piante arboree, il tartufo nero pregiato (Tuber melanosporum Vitt.) si può trovare più comunemente in simbiosi?",
+        "options": {
+          "a": "carpino bianco (Carpinus betulus)",
+          "b": "carpino nero (Ostrya carpinifolia)",
+          "c": "pino domestico (Pinus pinea)"
+        },
+        "correctAnswer": "b"
+      },
+      "21": {
+        "text": "Il nocciolo (Corylus avellana L.) è una pianta capace di instaurare rapporti simbiotici con i tartufi?",
+        "options": {
+          "a": "no, mai",
+          "b": "si, è usata anche per costituire tartufaie coltivate di tartufo nero pregiato (Tuber melanosporum Vitt.)",
+          "c": "molto raramente"
+        },
+        "correctAnswer": "b"
+      },
+      "22": {
+        "text": "Quali tra le seguenti NON è una tipica pianta simbionte per il tartufo d'estate o scorzone (Tuber aestivum Vitt.)?",
+        "options": {
+          "a": "leccio (Quercus ilex L.)",
+          "b": "pino nero (Pinus nigra Arnold)",
+          "c": "abete rosso (Picea abies Karst.)"
+        },
+        "correctAnswer": "c"
+      },
+      "23": {
+        "text": "Il tartufo d'estate o scorzone (Tuber aestivum Vitt.) in quale formazione boschiva si può trovare prevalentemente in Toscana?",
+        "options": {
+          "a": "querceti e pinete su terreni calcarei",
+          "b": "rimboschimenti di abete rosso oltre i 1500 metri",
+          "c": "formazioni riparie"
+        },
+        "correctAnswer": "a"
+      },
+      "24": {
+        "text": "Alcune conifere possono essere piante simbionti del tartufo bianchetto (Tuber albidum Pico)?",
+        "options": {
+          "a": "no",
+          "b": "si",
+          "c": "si ma solo in presenza di piante di latifoglie che favoriscono la germinazione delle spore del tartufo"
+        },
+        "correctAnswer": "b"
+      },
+      "25": {
+        "text": "Generalmente, una latifoglia micorrizzata con il tartufo cresce più di una latifoglia non micorrizzata?",
+        "options": {
+          "a": "la micorrizza del tartufo non influisce sulla crescita della pianta",
+          "b": "si perché le ife del tartufo contribuiscono all'assorbimento delle sostanze nutritive dal terreno",
+          "c": "no, generalmente è più piccola, perché il tartufo assorbe le sostanze nutritive elaborate dalla pianta"
+        },
+        "correctAnswer": "b"
+      }
+    }
+  },
+   "E": {
+    "title": "NORMATIVA NAZIONALE E REGIONALE IN MATERIA DI CERCA, RACCOLTA E COLTIVAZIONE DEL TARTUFO (L.R. 36/2023 e L. 752/1985)",
+    "questions": {
+      "1": {
+        "text": "Secondo la L.R. 36/2023 (Art. 7, c. 1), dove è libera l'attività di cerca e raccolta del tartufo?",
+        "options": {
+          "a": "Solo nelle tartufaie coltivate riconosciute",
+          "b": "Nei boschi, nei terreni non coltivati e lungo sponde/argini di corsi d'acqua pubblici (se non demaniali)",
+          "c": "Ovunque, tranne nei parchi nazionali"
+        },
+        "correctAnswer": "b"
+      },
+      "2": {
+        "text": "La L.R. 36/2023 (Art. 7, c. 2) permette la cerca e raccolta nei pascoli?",
+        "options": {
+          "a": "Sì, sempre, ma senza danneggiare il pascolo o le strutture, e in assenza di bestiame",
+          "b": "No, mai",
+          "c": "Sì, solo se si ha l'autorizzazione del proprietario del bestiame"
+        },
+        "correctAnswer": "a"
+      },
+      "3": {
+        "text": "Cosa si intende per \"tartufaia coltivata\" secondo la L.R. 36/2023 (Art. 2, c. 1, lett. e)?",
+        "options": {
+          "a": "Qualsiasi bosco dove crescono spontaneamente tartufi",
+          "b": "Terreno agricolo con almeno 200 piante tartufigene/ettaro messe a dimora appositamente",
+          "c": "Una tartufaia naturale migliorata con tecniche colturali"
+        },
+        "correctAnswer": "b"
+      },
+       "4": {
+        "text": "Cosa si intende per \"tartufaia naturale controllata\" secondo la L.R. 36/2023 (Art. 2, c. 1, lett. d)?",
+        "options": {
+          "a": "Una tartufaia recintata e sorvegliata",
+          "b": "Un terreno agricolo dove sono state piantate piante micorrizate",
+          "c": "Tartufaia naturale gestita con un piano specifico di mantenimento e miglioramento"
+        },
+        "correctAnswer": "c"
+      },
+       "5": {
+        "text": "Quale delle seguenti specie NON è inclusa nell'elenco dei tartufi cercabili/raccoglibili in Toscana secondo l'Art. 5 della L.R. 36/2023?",
+        "options": {
+          "a": "Tuber magnatum Pico",
+          "b": "Tuber indicum Cooke & Massee",
+          "c": "Tuber aestivum Vittad. (forma aestivum e forma uncinatum)"
+        },
+        "correctAnswer": "b"
+      },
+       "6": {
+        "text": "La L.R. 36/2023 (Art. 6) individua delle zone geografiche di provenienza specifiche (es. Crete Senesi, Mugello)?",
+        "options": {
+          "a": "Sì, e ne elenca diverse nell'articolo stesso e nell'Allegato A",
+          "b": "No, demanda ai singoli comuni la loro identificazione",
+          "c": "Sì, ma solo per il Tuber magnatum Pico"
+        },
+        "correctAnswer": "a"
+      },
+      "7": {
+        "text": "Secondo la L.R. 36/2023 (Art. 3), chi ha la competenza per la tenuta e gestione dell'elenco regionale dei tesserini di abilitazione?",
+        "options": {
+          "a": "Ogni singolo Comune",
+          "b": "La Giunta Regionale",
+          "c": "Le Associazioni dei tartufai"
+        },
+        "correctAnswer": "b"
+      },
+      "8": {
+        "text": "Secondo la L.R. 36/2023 (Art. 4), quale ente rilascia e rinnova il tesserino di abilitazione per la cerca e raccolta?",
+        "options": {
+          "a": "La Regione Toscana",
+          "b": "Il Comune di residenza del richiedente",
+          "c": "L'Ispettorato Micologico della ASL"
+        },
+        "correctAnswer": "b"
+      },
+       "9": {
+        "text": "Qual è la validità del tesserino di abilitazione rilasciato secondo la L.R. 36/2023 (Art. 9, c. 5)?",
+        "options": {
+          "a": "5 anni",
+          "b": "1 anno solare",
+          "c": "10 anni dalla data del rilascio"
+        },
+        "correctAnswer": "c"
+      },
+      "10": {
+        "text": "Per rinnovare il tesserino alla scadenza decennale, cosa richiede la L.R. 36/2023 (Art. 9, c. 7 e Art. 10, c. 2)?",
+        "options": {
+          "a": "Solo il pagamento dell'importo annuale",
+          "b": "Superare nuovamente l'esame di idoneità",
+          "c": "Aver frequentato un corso di aggiornamento (min. 8 ore) nell'anno precedente"
+        },
+        "correctAnswer": "c"
+      },
+      "11": {
+        "text": "Il pagamento annuale per l'abilitazione (L.R. 36/2023, Art. 9, c. 5), quando deve essere effettuato?",
+        "options": {
+          "a": "Entro il 31 gennaio di ogni anno",
+          "b": "Prima dell'inizio dell'attività di cerca e raccolta per l'anno solare di riferimento",
+          "c": "Entro il 30 giugno di ogni anno"
+        },
+        "correctAnswer": "b"
+      },
+      "12": {
+        "text": "Secondo il calendario della L.R. 36/2023 (Art. 8), qual è il periodo di raccolta del Tuber magnatum Pico?",
+        "options": {
+          "a": "Dal 1 settembre al 31 dicembre",
+          "b": "Dal 1 ottobre al 15 gennaio",
+          "c": "Dal 15 settembre al 31 gennaio"
+        },
+        "correctAnswer": "b"
+      },
+      "13": {
+        "text": "Secondo il calendario della L.R. 36/2023 (Art. 8), qual è il periodo di raccolta del Tuber melanosporum Vittad.?",
+        "options": {
+          "a": "Dal 1 dicembre al 15 marzo",
+          "b": "Dal 15 novembre al 15 marzo",
+          "c": "Dal 1 novembre al 28 febbraio"
+        },
+        "correctAnswer": "b"
+      },
+      "14": {
+        "text": "Secondo il calendario della L.R. 36/2023 (Art. 8), qual è il periodo di raccolta del Tuber aestivum Vittad. (forma aestivum)?",
+        "options": {
+          "a": "Dal 1 maggio al 30 settembre",
+          "b": "Dal 1 giugno al 31 agosto e dal 1 ottobre al 30 novembre",
+          "c": "Dal 1 giugno al 30 novembre continuativamente"
+        },
+        "correctAnswer": "b"
+      },
+      "15": {
+        "text": "Secondo il calendario della L.R. 36/2023 (Art. 8), qual è il periodo di raccolta del Tuber borchii Vittad. (o T. albidum Pico)?",
+        "options": {
+          "a": "Dal 1 gennaio al 30 aprile",
+          "b": "Dal 15 gennaio al 15 aprile",
+          "c": "Dal 10 gennaio al 30 aprile"
+        },
+        "correctAnswer": "b"
+      },
+       "16": {
+        "text": "Secondo la L.R. 36/2023 (Art. 7, c. 4), per praticare la cerca e raccolta, il tartufaio deve avere:",
+        "options": {
+          "a": "Solo il tesserino di abilitazione",
+          "b": "Il tesserino e la ricevuta del versamento annuale (se dovuto)",
+          "c": "Solo la ricevuta del versamento annuale"
+        },
+        "correctAnswer": "b"
+      },
+      "17": {
+        "text": "Quanti cani al massimo può usare un tartufaio durante la cerca secondo la L.R. 36/2023 (Art. 7, c. 7)?",
+        "options": {
+          "a": "Uno",
+          "b": "Due (compreso quello in addestramento)",
+          "c": "Tre"
+        },
+        "correctAnswer": "b"
+      },
+      "18": {
+        "text": "Quali sono le dimensioni massime della lama dell'attrezzo (vanghetto/vanghella) consentito dalla L.R. 36/2023 (Art. 7, c. 8)?",
+        "options": {
+          "a": "Larghezza 10 cm, lunghezza 15 cm",
+          "b": "Larghezza 5 cm, lunghezza 5 cm",
+          "c": "Larghezza 6 cm, lunghezza 15 cm"
+        },
+        "correctAnswer": "b"
+      },
+      "19": {
+        "text": "Cosa è vietato fare durante la cerca e raccolta secondo la L.R. 36/2023 (Art. 7, c. 10)?",
+        "options": {
+          "a": "Raccogliere tartufi di notte (fuori orario)",
+          "b": "Lavorare il terreno con zappatura o rastrellatura",
+          "c": "Tutte le risposte precedenti sono corrette (e altre)"
+        },
+        "correctAnswer": "c"
+      },
+      "20": {
+        "text": "In quali mesi la cerca e raccolta di TUTTE le specie di tartufo è vietata in Toscana secondo la L.R. 36/2023 (Art. 8, c. 2)?",
+        "options": {
+          "a": "Aprile e Maggio",
+          "b": "Maggio e Settembre",
+          "c": "Luglio e Agosto"
+        },
+        "correctAnswer": "b"
+      },
+       "21": {
+        "text": "È consentita la raccolta nei 15 anni successivi al rimboschimento secondo la L.R. 36/2023 (Art. 7, c. 10, lett. f)?",
+        "options": {
+          "a": "Sì, sempre",
+          "b": "No, è vietata",
+          "c": "Sì, ma solo con l'autorizzazione del comune"
+        },
+        "correctAnswer": "b"
+      },
+      "22": {
+        "text": "Secondo la L.R. 36/2023 (Art. 8, c. 3), qual è l'orario di cerca/raccolta nel mese di Gennaio?",
+        "options": {
+          "a": "Dalle 7:00 alle 18:00",
+          "b": "Dalle 7:30 alle 17:30",
+          "c": "Dalle 8:00 alle 17:00"
+        },
+        "correctAnswer": "a"
+      },
+      "23": {
+        "text": "Secondo la L.R. 36/2023 (Art. 8, c. 3), qual è l'orario di cerca/raccolta nel mese di Febbraio?",
+        "options": {
+          "a": "Dalle 7:00 alle 18:00",
+          "b": "Dalle 6:30 alle 18:30",
+          "c": "Dalle 6:00 alle 19:00"
+        },
+        "correctAnswer": "b"
+      },
+      "24": {
+        "text": "Secondo la L.R. 36/2023 (Art. 8, c. 3), qual è l'orario di cerca/raccolta nel mese di Marzo?",
+        "options": {
+          "a": "Dalle 7:00 alle 18:00",
+          "b": "Dalle 6:30 alle 18:30",
+          "c": "Dalle 6:00 alle 19:00"
+        },
+        "correctAnswer": "c"
+      },
+      "25": {
+        "text": "Secondo la L.R. 36/2023 (Art. 8, c. 3), qual è l'orario di cerca/raccolta nel mese di Aprile?",
+        "options": {
+          "a": "Dalle 5:00 alle 20:00",
+          "b": "Dalle 5:30 alle 19:30",
+          "c": "Dalle 6:00 alle 19:00"
+        },
+        "correctAnswer": "a"
+      },
+      "26": {
+        "text": "Secondo la L.R. 36/2023 (Art. 8, c. 3), qual è l'orario di cerca/raccolta nel mese di Giugno?",
+        "options": {
+          "a": "Dalle 4:30 alle 21:30",
+          "b": "Dalle 4:00 alle 21:00",
+          "c": "Cerca e raccolta non consentite"
+        },
+        "correctAnswer": "b"
+      },
+       "27": {
+        "text": "Qual è l'età minima per ottenere il tesserino di abilitazione secondo la L.R. 36/2023 (Art. 9, c. 3)?",
+        "options": {
+          "a": "14 anni compiuti",
+          "b": "16 anni compiuti",
+          "c": "18 anni compiuti"
+        },
+        "correctAnswer": "b"
+      },
+      "28": {
+        "text": "Secondo la L.R. 36/2023 (Art. 8, c. 3), qual è l'orario di cerca/raccolta nel mese di Luglio?",
+        "options": {
+          "a": "Dalle 4:00 alle 21:00",
+          "b": "Dalle 4:00 alle 20:30",
+          "c": "Dalle 4:30 alle 20:00"
+        },
+        "correctAnswer": "b"
+      },
+      "29": {
+        "text": "Secondo la L.R. 36/2023 (Art. 8, c. 3), qual è l'orario di cerca/raccolta nel mese di Agosto?",
+        "options": {
+          "a": "Dalle 4:30 alle 19:00",
+          "b": "Dalle 4:00 alle 20:30",
+          "c": "Dalle 5:00 alle 20:00"
+        },
+        "correctAnswer": "a"
+      },
+      "30": {
+        "text": "Secondo la L.R. 36/2023 (Art. 8, c. 3), qual è l'orario di cerca/raccolta nel mese di Settembre?",
+        "options": {
+          "a": "Dalle 5:00 alle 19:00",
+          "b": "Dalle 5:30 alle 18:30",
+          "c": "Cerca e raccolta non consentite"
+        },
+        "correctAnswer": "c"
+      },
+      "31": {
+        "text": "Secondo la L.R. 36/2023 (Art. 8, c. 3), qual è l'orario di cerca/raccolta nel mese di Ottobre?",
+        "options": {
+          "a": "Dalle 6:00 alle 18:00",
+          "b": "Dalle 5:00 alle 18:00",
+          "c": "Dalle 5:30 alle 18:30"
+        },
+        "correctAnswer": "c"
+      },
+      "32": {
+        "text": "Secondo la L.R. 36/2023 (Art. 8, c. 3), qual è l'orario di cerca/raccolta nel mese di Novembre?",
+        "options": {
+          "a": "Dalle 7:00 alle 17:00",
+          "b": "Dalle 6:30 alle 17:30",
+          "c": "Dalle 6:00 alle 18:00"
+        },
+        "correctAnswer": "b"
+      },
+       "33": {
+        "text": "L'attività di cerca e raccolta nelle tartufaie naturali controllate e coltivate è libera? (L.R. 36/2023, Art. 7, c. 3)",
+        "options": {
+          "a": "Sì, negli orari consentiti",
+          "b": "No, è riservata agli aventi titolo",
+          "c": "Sì, ma solo se accompagnati dal titolare"
+        },
+        "correctAnswer": "b"
+      },
+      "34": {
+        "text": "Il titolare di una tartufaia naturale controllata può autorizzare altri alla raccolta? (L.R. 36/2023, Art. 11, c. 10)",
+        "options": {
+          "a": "No, mai",
+          "b": "Sì, ma solo i familiari",
+          "c": "Sì, soggetti muniti di tesserino ed in regola con il versamento annuale"
+        },
+        "correctAnswer": "c"
+      },
+      "35": {
+        "text": "È consentito raccogliere e asportare tartufi dalle aree riconosciute per l'addestramento cani? (L.R. 36/2023, Art. 14, c. 7)",
+        "options": {
+          "a": "Sì, se trovati durante l'addestramento",
+          "b": "No, la raccolta e l'asportazione sono vietate",
+          "c": "Sì, ma solo i tartufi affioranti"
+        },
+        "correctAnswer": "b"
+      },
+       "36": {
+        "text": "Secondo la L.R. 36/2023 (Art. 10), l'esame di idoneità verifica le conoscenze su:",
+        "options": {
+          "a": "Solo ecologia dei tartufi e normativa",
+          "b": "Ecologia, tartuficoltura, normativa tartufi, legislazione alimentare, benessere animale, micologia, botanica, selvicoltura",
+          "c": "Solo micologia, botanica e selvicoltura"
+        },
+        "correctAnswer": "b"
+      },
+       "37": {
+        "text": "Entro quanto tempo bisogna richiedere il tesserino dopo aver superato l'esame di idoneità? (L.R. 36/2023, Art. 10, c. 6)",
+        "options": {
+          "a": "Entro 60 giorni",
+          "b": "Entro 180 giorni",
+          "c": "Entro 365 giorni"
+        },
+        "correctAnswer": "c"
+      },
+       "38": {
+        "text": "Secondo la L.R. 36/2023 (Art. 18, c. 5), cosa comporta ogni violazione della legge, oltre alla sanzione pecuniaria?",
+        "options": {
+          "a": "La sospensione immediata del tesserino",
+          "b": "Il sequestro e la confisca del prodotto raccolto illegalmente",
+          "c": "Un richiamo formale da parte del Comune"
+        },
+        "correctAnswer": "b"
+      },
+       "39": {
+        "text": "Qual è la sanzione per chi cerca/raccoglie tartufi con tesserino valido ma senza aver pagato l'importo annuale? (L.R. 36/2023, Art. 18, c. 1, lett. a)",
+        "options": {
+          "a": "Solo il sequestro del prodotto",
+          "b": "Sanzione pecuniaria da €500 a €5.000",
+          "c": "Sanzione pecuniaria da €300 a €3.000"
+        },
+        "correctAnswer": "b"
+      },
+       "40": {
+        "text": "Qual è la sanzione per chi cerca/raccoglie tartufi senza essere in possesso del tesserino? (L.R. 36/2023, Art. 18, c. 1, lett. a)",
+        "options": {
+          "a": "Sanzione pecuniaria da €100 a €1.000",
+          "b": "Sanzione pecuniaria da €300 a €3.000",
+          "c": "Sanzione pecuniaria da €500 a €5.000"
+        },
+        "correctAnswer": "c"
+      },
+       "41": {
+        "text": "Qual è la sanzione per chi cerca/raccoglie senza l'ausilio del cane o con attrezzo non idoneo? (L.R. 36/2023, Art. 18, c. 1, lett. d)",
+        "options": {
+          "a": "Sanzione pecuniaria da €500 a €5.000 e possibile sospensione del tesserino per 1 anno",
+          "b": "Solo un avvertimento verbale",
+          "c": "Sanzione pecuniaria da €100 a €500"
+        },
+        "correctAnswer": "a"
+      },
+       "42": {
+        "text": "Qual è la sanzione per la raccolta di tartufi immaturi? (L.R. 36/2023, Art. 18, c. 1, lett. c)",
+        "options": {
+          "a": "Solo il sequestro dei tartufi",
+          "b": "Sanzione pecuniaria da €500 a €5.000 e possibile sospensione del tesserino per 1 anno",
+          "c": "Sanzione pecuniaria da €300 a €3.000"
+        },
+        "correctAnswer": "b"
+      },
+       "43": {
+        "text": "Qual è la sanzione per la cerca/raccolta in una tartufaia controllata o coltivata senza autorizzazione? (L.R. 36/2023, Art. 18, c. 4, lett. c)",
+        "options": {
+          "a": "Sanzione pecuniaria da €500 a €5.000",
+          "b": "Sanzione pecuniaria da €300 a €3.000",
+          "c": "Solo il sequestro del prodotto"
+        },
+        "correctAnswer": "b"
+      },
+       "44": {
+        "text": "Dopo quante violazioni contestate viene ritirato il tesserino per un anno? (L.R. 36/2023, Art. 19, c. 6)",
+        "options": {
+          "a": "Alla prima violazione grave",
+          "b": "Alla seconda violazione",
+          "c": "Alla terza violazione"
+        },
+        "correctAnswer": "c"
+      },
+       "45": {
+        "text": "Chi è competente per l'irrogazione delle sanzioni amministrative previste dalla L.R. 36/2023? (Art. 19, c. 1)",
+        "options": {
+          "a": "Il Comune dove è avvenuta l'infrazione",
+          "b": "La Regione Toscana",
+          "c": "Il Corpo Forestale dello Stato"
+        },
+        "correctAnswer": "b"
+      },
+      "46": {
+        "text": "La L.R. 36/2023 (Art. 7, c. 9) obbliga a riempire le buche scavate?",
+        "options": {
+          "a": "Sì, subito e con il medesimo terreno di scavo",
+          "b": "No, solo se sono profonde",
+          "c": "Sì, ma si può usare qualsiasi terreno"
+        },
+        "correctAnswer": "a"
+      },
+      "47": {
+        "text": "Qual'è la norma quadro nazionale attualmente in vigore in materia di tartufi?",
+        "options": {
+          "a": "Legge 11 febbraio 1992 n° 157",
+          "b": "Legge 23 agosto 1993 n° 352",
+          "c": "Legge 16 dicembre 1985 n° 752"
+        },
+        "correctAnswer": "c" 
+      },
+      "48": {
+        "text": "Le denominazioni legali delle specie di tartufi commerciabili in Italia sono state riconosciute da:",
+        "options": {
+          "a": "legge Regionale",
+          "b": "legge Nazionale (L. 752/1985)",
+          "c": "regolamento Comunitario"
+        },
+        "correctAnswer": "b" 
+      },
+      "49": {
+        "text": "La norma quadro nazionale (L. 752/1985) prevede dei limiti quantitativi alla raccolta delle varie specie di tartufo?",
+        "options": {
+          "a": "sì, e indica i limiti quantitativi delle varie specie",
+          "b": "no",
+          "c": "si, ma demanda alle singole normative regionali l'individuazioni dei limiti quantitativi"
+        },
+        "correctAnswer": "b" 
+      },
+      "50": {
+        "text": "La vigilanza sull'applicazione della legge quadro nazionale sui tartufi è affidata principalmente a:",
+        "options": {
+          "a": "Guardia di finanza",
+          "b": "Azienda Sanitaria Locale di competenza territoriale",
+          "c": "Corpo forestale dello Stato (ora Carabinieri Forestali) e altri organi di Polizia Giudiziaria"
+        },
+        "correctAnswer": "c" 
+      }
+    }
+  }, 
+  "F": {
+    "title": "TARTUFAIE COLTIVATE, CONTROLLATE E TESSERINO D'IDONEITA' (L.R. 36/2023 e DPGR 2/R/2025)",
+    "questions": {
+      "1": {
+        "text": "Cosa si intende per \"tartufaia naturale controllata\" secondo la L.R. 36/2023 (Art. 2, c. 1, lett. d)?",
+        "options": {
+          "a": "Un'area boschiva recintata dove si trovano tartufi",
+          "b": "Una tartufaia naturale gestita tramite un piano specifico con tecniche colturali di mantenimento/miglioramento",
+          "c": "Qualsiasi terreno agricolo dove sono state piantate piante micorrizate"
+        },
+        "correctAnswer": "b"
+      },
+      "2": {
+        "text": "Qual è la principale differenza tra una tartufaia naturale controllata e una tartufaia coltivata (L.R. 36/2023, Art. 2)?",
+        "options": {
+          "a": "La controllata è in bosco, la coltivata è in campo aperto",
+          "b": "La controllata migliora un ambiente naturale esistente, la coltivata è impiantata ex-novo in terreno agricolo con piante micorrizate",
+          "c": "Nella controllata si raccolgono solo tartufi bianchi, nella coltivata solo neri"
+        },
+        "correctAnswer": "b"
+      },
+      "3": {
+        "text": "Secondo la L.R. 36/2023 (Art. 2, c. 1, lett. e), quante piante tartufigene per ettaro, minimo, deve avere una tartufaia coltivata?",
+        "options": {
+          "a": "100 piante/ettaro",
+          "b": "200 piante/ettaro",
+          "c": "Non c'è un numero minimo definito"
+        },
+        "correctAnswer": "b"
+      },
+      "4": {
+        "text": "Le tartufaie coltivate sono considerate boschi ai sensi della Legge forestale della Toscana (L.R. 39/2000)? (L.R. 36/2023, Art. 2, c. 1, lett. e)",
+        "options": {
+          "a": "Sì, sempre",
+          "b": "No, non sono considerate boschi",
+          "c": "Solo se superano i 5 ettari"
+        },
+        "correctAnswer": "b"
+      },
+      "5": {
+        "text": "Le piante utilizzate per le tartufaie (controllate o coltivate) devono avere una certificazione? (DPGR 2/R/2025, Art. 2)",
+        "options": {
+          "a": "No, è sufficiente che siano specie simbionti",
+          "b": "Sì, devono essere certificate secondo la normativa di settore riguardo specie forestale e micorrizazione",
+          "c": "Sì, ma solo per le tartufaie coltivate"
+        },
+        "correctAnswer": "b"
+      },
+      "6": {
+        "text": "Chi rilascia il riconoscimento per una tartufaia naturale controllata o coltivata? (L.R. 36/2023, Art. 4, c. 1, lett. c)",
+        "options": {
+          "a": "La Regione Toscana",
+          "b": "L'Associazione Tartufai locale",
+          "c": "Il Comune dove ricadono i terreni"
+        },
+        "correctAnswer": "c"
+      },
+      "7": {
+        "text": "Quale documento tecnico principale deve essere allegato alla richiesta di riconoscimento di una tartufaia naturale controllata? (DPGR 2/R/2025, Art. 10, c. 2)",
+        "options": {
+          "a": "Una mappa catastale semplice",
+          "b": "Il certificato di proprietà dei terreni",
+          "c": "Una perizia asseverata (con caratteristiche ecologiche, interventi, piano di gestione)"
+        },
+        "correctAnswer": "c"
+      },
+      "8": {
+        "text": "Quale documento tecnico principale deve essere allegato alla richiesta di riconoscimento di una tartufaia coltivata? (DPGR 2/R/2025, Art. 11, c. 2)",
+        "options": {
+          "a": "L'analisi chimica del terreno",
+          "b": "Una perizia asseverata (con attitudine, sesto impianto, tecniche gestione, piano di gestione)",
+          "c": "La fattura di acquisto delle piante"
+        },
+        "correctAnswer": "b"
+      },
+       "9": {
+        "text": "Qual è la durata del riconoscimento di una tartufaia naturale controllata? (L.R. 36/2023, Art. 11, c. 7)",
+        "options": {
+          "a": "3 anni, rinnovabili",
+          "b": "5 anni, rinnovabili",
+          "c": "10 anni, non rinnovabili"
+        },
+        "correctAnswer": "b"
+      },
+      "10": {
+        "text": "La cerca e la raccolta all'interno di una tartufaia naturale controllata o coltivata riconosciuta sono riservate? (L.R. 36/2023, Art. 7, c. 3)",
+        "options": {
+          "a": "No, sono libere negli orari consentiti",
+          "b": "Sì, sono riservate agli aventi titolo (proprietario/conduttore e autorizzati)",
+          "c": "Sì, ma solo durante il periodo di validità dell'ora legale"
+        },
+        "correctAnswer": "b"
+      },
+      "11": {
+        "text": "Il titolare di una tartufaia riconosciuta (controllata o coltivata) deve avere il tesserino di abilitazione per cercarvi e raccogliervi? (L.R. 36/2023, Art. 11 c.9, Art. 12 c.5)",
+        "options": {
+          "a": "No, in quanto titolare è esentato",
+          "b": "Sì, deve essere in possesso del tesserino e in regola con il versamento annuale",
+          "c": "Sì, ma non deve pagare il versamento annuale"
+        },
+        "correctAnswer": "b"
+      },
+      "12": {
+        "text": "Il titolare di una tartufaia coltivata può autorizzare i propri dipendenti alla raccolta riservata? (L.R. 36/2023, Art. 12, c. 5)",
+        "options": {
+          "a": "No, solo il titolare può raccogliere",
+          "b": "Sì, purché i dipendenti siano in possesso dell'attestato di idoneità e in regola col versamento",
+          "c": "Sì, senza alcuna condizione aggiuntiva per i dipendenti"
+        },
+        "correctAnswer": "b"
+      },
+      "13": {
+        "text": "Cosa succede se il titolare di una tartufaia naturale controllata non rispetta le tecniche colturali indicate nel piano? (L.R. 36/2023, Art. 13, c. 1)",
+        "options": {
+          "a": "Riceve una sanzione pecuniaria",
+          "b": "Il riconoscimento viene revocato dal Comune",
+          "c": "Viene sospesa la raccolta per un anno"
+        },
+        "correctAnswer": "b"
+      },
+       "14": {
+        "text": "Chi rilascia il tesserino di abilitazione per la cerca e raccolta? (L.R. 36/2023, Art. 9, c. 1 e Art. 4, c. 1, lett. a)",
+        "options": {
+          "a": "La Regione Toscana",
+          "b": "La ASL - Ispettorato Micologico",
+          "c": "Il Comune di residenza, previo accertamento idoneità e pagamento importo"
+        },
+        "correctAnswer": "c"
+      },
+      "15": {
+        "text": "Qual è l'età minima per ottenere il tesserino? (L.R. 36/2023, Art. 9, c. 3)",
+        "options": {
+          "a": "14 anni",
+          "b": "16 anni",
+          "c": "18 anni"
+        },
+        "correctAnswer": "b"
+      },
+      "16": {
+        "text": "Qual è la validità temporale del tesserino di abilitazione? (L.R. 36/2023, Art. 9, c. 5)",
+        "options": {
+          "a": "Annuale",
+          "b": "5 anni",
+          "c": "10 anni dalla data del rilascio"
+        },
+        "correctAnswer": "c"
+      },
+      "17": {
+        "text": "Cosa è necessario fare per mantenere valido il tesserino negli anni successivi al rilascio (entro la scadenza decennale)? (L.R. 36/2023, Art. 9, c. 5)",
+        "options": {
+          "a": "Nulla, la validità è decennale senza condizioni",
+          "b": "Effettuare il versamento annuale prima di iniziare l'attività per l'anno solare",
+          "c": "Frequentare un corso di aggiornamento ogni 2 anni"
+        },
+        "correctAnswer": "b"
+      },
+       "18": {
+        "text": "A quanto ammonta l'importo annuale da versare alla Regione Toscana per esercitare la cerca e raccolta? (L.R. 36/2023, Art. 9, c. 1)",
+        "options": {
+          "a": "Euro 50,00",
+          "b": "Euro 92,96",
+          "c": "Euro 100,00"
+        },
+        "correctAnswer": "b"
+      },
+      "19": {
+        "text": "Se un anno non si esercita l'attività, si deve comunque pagare l'importo annuale? (L.R. 36/2023, Art. 9, c. 6)",
+        "options": {
+          "a": "Sì, per mantenere valido il tesserino",
+          "b": "No, il pagamento non è dovuto in caso di non esercizio",
+          "c": "Sì, ma solo la metà dell'importo"
+        },
+        "correctAnswer": "b"
+      },
+      "20": {
+        "text": "Come si ottiene l'idoneità alla cerca e raccolta necessaria per il primo rilascio del tesserino? (L.R. 36/2023, Art. 10, c. 1)",
+        "options": {
+          "a": "Facendo richiesta diretta al Comune",
+          "b": "Frequentando un percorso formativo (min. 30 ore) e superando un esame finale",
+          "c": "Dimostrando di aver raccolto tartufi per almeno 5 anni"
+        },
+        "correctAnswer": "b"
+      },
+      "21": {
+        "text": "Per rinnovare il tesserino alla scadenza decennale, cosa è necessario fare? (L.R. 36/2023, Art. 9, c. 7 e Art. 10, c. 2)",
+        "options": {
+          "a": "Solo pagare l'importo annuale",
+          "b": "Superare nuovamente l'esame di idoneità",
+          "c": "Richiedere il rinnovo previa frequenza di un corso di aggiornamento (min. 8 ore) nell'anno precedente"
+        },
+        "correctAnswer": "c"
+      },
+      "22": {
+        "text": "Chi tiene i percorsi formativi per l'idoneità e l'aggiornamento? (L.R. 36/2023, Art. 10, c. 3)",
+        "options": {
+          "a": "Solo le Associazioni di tartufai",
+          "b": "Solo la Regione Toscana",
+          "c": "Gli ispettorati micologici ASL (che possono avvalersi di personale esperto) e le Associazioni (Art. 15)"
+        },
+        "correctAnswer": "c"
+      },
+      "23": {
+        "text": "Quale conoscenza NON è specificamente richiesta per l'esame di idoneità? (L.R. 36/2023, Art. 10, c. 5)",
+        "options": {
+          "a": "Ecologia dei tartufi e principi di tartuficoltura",
+          "b": "Tecniche avanzate di addestramento cani",
+          "c": "Normativa tartufi, legislazione alimentare, micologia, botanica, selvicoltura"
+        },
+        "correctAnswer": "b"
+      },
+      "24": {
+        "text": "Su quale territorio ha validità il tesserino rilasciato dalla Toscana? (L.R. 36/2023, Art. 9, c. 4)",
+        "options": {
+          "a": "Solo nella provincia di rilascio",
+          "b": "Su tutto il territorio regionale toscano",
+          "c": "Su tutto il territorio nazionale"
+        },
+        "correctAnswer": "c"
+      },
+       "25": {
+        "text": "Quali documenti deve avere con sé il tartufaio durante la cerca e raccolta? (L.R. 36/2023, Art. 7, c. 4)",
+        "options": {
+          "a": "Solo il tesserino di abilitazione",
+          "b": "Il tesserino di abilitazione e la ricevuta del versamento annuale (se dovuto)",
+          "c": "Documento di identità e codice fiscale"
+        },
+        "correctAnswer": "b"
+      },
+      "26": {
+        "text": "Quali sono le dimensioni delle tabelle per delimitare le tartufaie? (DPGR 2/R/2025, Art. 14, c. 1)",
+        "options": {
+          "a": "15 cm x 25 cm",
+          "b": "20 cm x 30 cm",
+          "c": "30 cm x 40 cm"
+        },
+        "correctAnswer": "b"
+      },
+      "27": {
+        "text": "A quale altezza minima devono essere poste le tabelle di delimitazione? (DPGR 2/R/2025, Art. 14, c. 1)",
+        "options": {
+          "a": "1.50 metri",
+          "b": "1.80 metri",
+          "c": "2.50 metri"
+        },
+        "correctAnswer": "b"
+      },
+       "28": {
+        "text": "Come devono essere scritte le tabelle di delimitazione? (DPGR 2/R/2025, Art. 14, c. 3)",
+        "options": {
+          "a": "In corsivo rosso su fondo giallo",
+          "b": "In stampatello nero su fondo bianco, ben leggibili",
+          "c": "Con caratteri a scelta, purché visibili"
+        },
+        "correctAnswer": "b"
+      },
+      "29": {
+        "text": "Cosa deve essere riportato su ogni tabella di delimitazione? (DPGR 2/R/2025, Art. 14, c. 3)",
+        "options": {
+          "a": "Solo il nome del proprietario",
+          "b": "Il numero di riconoscimento rilasciato dal comune e la dicitura appropriata ('Raccolta riservata' o 'Area addestramento')",
+          "c": "La data di scadenza del riconoscimento"
+        },
+        "correctAnswer": "b"
+      },
+       "30": {
+        "text": "È permesso collocare le tabelle su alberi vivi? (DPGR 2/R/2025, Art. 14, c. 1)",
+        "options": {
+          "a": "No, solo su pali o sostegni morti",
+          "b": "Sì, ma solo con fascette che non danneggino la pianta",
+          "c": "Sì, usando chiodi o viti"
+        },
+        "correctAnswer": "b"
+      }
+    }
+  },
+  "G": {
+    "title": "TECNICHE DI RICERCA E RACCOLTA DEI TARTUFI (L.R. 36/2023)",
+    "questions": {
+      "1": {
+        "text": "Quale delle seguenti operazioni NON è consentita durante la cerca e raccolta secondo la L.R. 36/2023 (Art. 7, c. 10)?",
+        "options": {
+          "a": "Ricoprire le buche con il terreno di scavo",
+          "b": "Effettuare la zappatura o la rastrellatura del terreno",
+          "c": "Usare il cane per la ricerca"
+        },
+        "correctAnswer": "b" 
+      },
+      "2": {
+        "text": "Qual è la procedura corretta subito dopo aver estratto il tartufo secondo la L.R. 36/2023 (Art. 7, c. 9)?",
+        "options": {
+          "a": "Riempire subito la buca con il medesimo terreno di scavo",
+          "b": "Lasciare la buca aperta per favorire la dispersione delle spore",
+          "c": "Allargare la buca per cercare altri tartufi"
+        },
+        "correctAnswer": "a" 
+      },
+      "3": {
+        "text": "Quale strumento è specificamente menzionato e consentito per lo scavo dalla L.R. 36/2023 (Art. 7, c. 7)?",
+        "options": {
+          "a": "Piccone",
+          "b": "Rastrello",
+          "c": "Vanghetto o vanghella (con dimensioni specifiche)"
+        },
+        "correctAnswer": "c" 
+      },
+      "4": {
+        "text": "Se durante la raccolta si trova un tartufo avariato (marcio), qual è il comportamento più rispettoso dell'ambiente?",
+        "options": {
+          "a": "Portarlo via e gettarlo",
+          "b": "Reinterrarlo delicatamente nello stesso punto o nelle vicinanze per favorire il ciclo naturale",
+          "c": "Lasciarlo in superficie"
+        },
+        "correctAnswer": "b" 
+      },
+      "5": {
+        "text": "Se si individua un tartufo chiaramente immaturo, cosa bisogna fare secondo i principi della L.R. 36/2023 che ne vieta la raccolta?",
+        "options": {
+          "a": "Raccoglierlo e provare a farlo maturare",
+          "b": "Lasciarlo indisturbato nel terreno, ricoprendolo se scoperto",
+          "c": "Segnalarlo ad altri cercatori"
+        },
+        "correctAnswer": "b" 
+      },
+      "6": {
+        "text": "Se un tartufo maturo si rompe accidentalmente durante l'estrazione, i pezzi possono essere raccolti?",
+        "options": {
+          "a": "Sì, in quanto parte di un tartufo maturo regolarmente trovato",
+          "b": "No, vanno lasciati nel terreno",
+          "c": "Solo se superano una certa dimensione"
+        },
+        "correctAnswer": "a" 
+      },
+      "7": {
+        "text": "Perché è fondamentale, per la tutela dell'ecosistema tartufigeno, evitare di lasciare le buche aperte?",
+        "options": {
+          "a": "Per non far vedere dove si è trovato il tartufo",
+          "b": "Per evitare che il terreno si secchi troppo rapidamente",
+          "c": "Per proteggere il micelio e le micorrize dall'essiccamento e dai danni atmosferici"
+        },
+        "correctAnswer": "c" 
+      },
+      "8": {
+        "text": "Perché è importante limitare lo scavo al minimo indispensabile e non allargare troppo la buca?",
+        "options": {
+          "a": "Per fare meno fatica a ricoprire",
+          "b": "Per ridurre il rischio di danneggiare il micelio circostante o altri tartufi non ancora maturi",
+          "c": "Perché è vietato dalla legge fare buche più larghe di 10 cm"
+        },
+        "correctAnswer": "b" 
+      },
+      "9": {
+        "text": "È permesso, in qualche circostanza, lasciare la buca aperta dopo la raccolta?",
+        "options": {
+          "a": "Sì, se il terreno è molto bagnato per farlo asciugare",
+          "b": "No, la L.R. 36/2023 (Art. 7, c. 9) impone di riempirla subito",
+          "c": "Sì, se si è in proprietà privata"
+        },
+        "correctAnswer": "b" 
+      },
+      "10": {
+        "text": "La ricerca del tartufo in Toscana deve essere effettuata obbligatoriamente con l'ausilio del cane?",
+        "options": {
+          "a": "Sì, l'Art. 7 della L.R. 36/2023 prevede l'uso massimo di due cani",
+          "b": "No, è possibile anche senza cane se si conosce bene la zona",
+          "c": "Sì, ma solo per il tartufo bianco pregiato"
+        },
+        "correctAnswer": "a" 
+      },
+      "11": {
+        "text": "Quale delle seguenti pratiche è vietata espressamente dalla L.R. 36/2023 (Art. 7, c. 10)?",
+        "options": {
+          "a": "La raccolta durante le ore notturne",
+          "b": "Portare con sé un solo cane",
+          "c": "Usare un vanghetto con lama inferiore a 5 cm"
+        },
+        "correctAnswer": "a" 
+      },
+       "12": {
+        "text": "È consentito l'uso di maiali per la ricerca dei tartufi in base alla L.R. 36/2023?",
+        "options": {
+          "a": "Sì, se specificamente addestrati",
+          "b": "No, l'Art. 7 comma 7 prevede l'uso del cane",
+          "c": "Solo nelle tartufaie coltivate"
+        },
+        "correctAnswer": "b" 
+      },
+       "13": {
+        "text": "È permesso usare rastrelli o zappe per cercare tartufi?",
+        "options": {
+          "a": "Sì, se usati con delicatezza",
+          "b": "No, l'Art. 7 comma 10 vieta la zappatura e la rastrellatura",
+          "c": "Solo per il tartufo scorzone"
+        },
+        "correctAnswer": "b" 
+      },
+       "14": {
+        "text": "Qual è il comportamento corretto per l'estrazione del tartufo?",
+        "options": {
+          "a": "Scavare rapidamente tutto intorno al punto indicato",
+          "b": "Limitare lo scavo al punto indicato dal cane, estraendo delicatamente il tartufo per non danneggiarlo",
+          "c": "Allargare la buca per verificare subito la presenza di altri tartufi"
+        },
+        "correctAnswer": "b" 
+      },
+      "15": {
+        "text": "In quali mesi dell'anno è SEMPRE vietata la raccolta di TUTTE le specie di tartufo in Toscana (Art. 8, c. 2)?",
+        "options": {
+          "a": "Aprile e Ottobre",
+          "b": "Maggio e Settembre",
+          "c": "Luglio e Agosto"
+        },
+        "correctAnswer": "b" 
+      },
+       "16": {
+        "text": "È consentita la raccolta nelle aree rimboschite da meno di 15 anni? (Art. 7, c. 10, lett. f)",
+        "options": {
+          "a": "Sì, se si è proprietari del terreno",
+          "b": "No, è vietata",
+          "c": "Sì, ma solo per i funghi, non per i tartufi"
+        },
+        "correctAnswer": "b"
+      },
+       "17": {
+        "text": "Per quale motivo principale la Giunta Regionale può vietare temporaneamente la raccolta in determinate zone? (Art. 8, c. 4)",
+        "options": {
+          "a": "Per eccessiva presenza di cercatori",
+          "b": "Per motivi di ordine pubblico",
+          "c": "Per evitare danni alla struttura fisica e chimica del terreno o al patrimonio boschivo"
+        },
+        "correctAnswer": "c" 
+      },
+      "18": {
+        "text": "Dove è vietata la raccolta dal 1° al 30 Giugno di ogni anno? (Art. 8, c. 5)",
+        "options": {
+          "a": "Nelle tartufaie coltivate",
+          "b": "In tutte le aree boschive",
+          "c": "Nelle oasi di protezione, zone ripopolamento e cattura, centri produzione fauna selvatica"
+        },
+        "correctAnswer": "c"
+      },
+      "19": {
+        "text": "La cerca e la raccolta sono consentite durante tutto l'anno?",
+        "options": {
+          "a": "Sì, per almeno una specie",
+          "b": "No, ci sono periodi specifici per ogni specie e mesi di divieto totale (maggio, settembre)",
+          "c": "Sì, tranne la domenica"
+        },
+        "correctAnswer": "b" 
+      },
+      "20": {
+        "text": "Qual è una possibile conseguenza negativa del raccogliere tartufi quando il terreno è gelato?",
+        "options": {
+          "a": "Il tartufo perde sapore",
+          "b": "Il cane non riesce a sentirne l'odore",
+          "c": "Si può danneggiare gravemente il micelio e la struttura del suolo"
+        },
+        "correctAnswer": "c" 
+      },
+      "21": {
+        "text": "Perché il calendario regionale di raccolta limita i periodi rispetto alla potenziale presenza naturale dei tartufi?",
+        "options": {
+          "a": "Per evitare la raccolta eccessiva e tutelare la riproduzione del fungo (spore)",
+          "b": "Per accordarsi con i calendari delle regioni vicine",
+          "c": "Per facilitare i controlli da parte delle autorità"
+        },
+        "correctAnswer": "a" 
+      }
+    }
+  },
+  "H": {
+    "title": "SANZIONI (L.R. 36/2023)",
+    "questions": {
+      "1": {
+        "text": "Secondo l'Art. 18 della L.R. 36/2023, chi è considerato recidivo?",
+        "options": {
+          "a": "Chi commette la stessa infrazione entro 2 anni",
+          "b": "Chi, dopo una delle infrazioni indicate, ne commette un'altra (anche diversa) nei 5 anni successivi",
+          "c": "Chi commette 3 infrazioni in un anno solare"
+        },
+        "correctAnswer": "b"
+      },
+      "2": {
+        "text": "Qual è il periodo di tempo considerato per la recidiva secondo l'Art. 18, comma 3?",
+        "options": {
+          "a": "2 anni successivi alla prima infrazione",
+          "b": "5 anni successivi alla prima infrazione",
+          "c": "10 anni successivi alla prima infrazione"
+        },
+        "correctAnswer": "b"
+      },
+      "3": {
+        "text": "Cosa succede ai tartufi raccolti in violazione della L.R. 36/2023? (Art. 18, c. 5)",
+        "options": {
+          "a": "Vengono donati al raccoglitore",
+          "b": "Sono soggetti a sequestro e confisca",
+          "c": "Devono essere immediatamente reinterrati"
+        },
+        "correctAnswer": "b"
+      },
+      "4": {
+        "text": "Qual è la sanzione amministrativa pecuniaria prevista per la cerca/raccolta SENZA tesserino? (Art. 18, c. 1, lett. a)",
+        "options": {
+          "a": "Da €500 a €5.000",
+          "b": "Da €300 a €3.000",
+          "c": "Da €100 a €1.000"
+        },
+        "correctAnswer": "a"
+      },
+      "5": {
+        "text": "Qual è la sanzione per la cerca/raccolta con tesserino valido MA senza aver pagato l'importo annuale? (Art. 18, c. 1, lett. a)",
+        "options": {
+          "a": "Nessuna, basta pagare entro 30 giorni",
+          "b": "Da €500 a €5.000",
+          "c": "Solo il sequestro del prodotto"
+        },
+        "correctAnswer": "b"
+      },
+      "6": {
+        "text": "Qual è la sanzione per la cerca/raccolta fuori dagli orari o dal calendario stabiliti? (Art. 18, c. 1, lett. a bis)",
+        "options": {
+          "a": "Da €500 a €5.000",
+          "b": "Da €300 a €3.000",
+          "c": "Da €100 a €1.000"
+        },
+        "correctAnswer": "a"
+      },
+      "7": {
+        "text": "Qual è la sanzione per la raccolta di tartufi immaturi? (Art. 18, c. 1, lett. c)",
+        "options": {
+          "a": "Solo il sequestro dei tartufi",
+          "b": "Da €300 a €3.000",
+          "c": "Da €500 a €5.000 (e possibile sospensione tesserino)"
+        },
+        "correctAnswer": "c"
+      },
+      "8": {
+        "text": "Qual è la sanzione per la cerca/raccolta senza ausilio del cane o con attrezzo non idoneo? (Art. 18, c. 1, lett. d)",
+        "options": {
+          "a": "Nessuna sanzione, solo un richiamo",
+          "b": "Da €500 a €5.000 (e possibile sospensione tesserino)",
+          "c": "Da €300 a €3.000"
+        },
+        "correctAnswer": "b"
+      },
+      "9": {
+        "text": "Qual è la sanzione per chi non riempie le buche dopo lo scavo? (Art. 18, c. 1, lett. f)",
+        "options": {
+          "a": "Da €100 a €1.000",
+          "b": "Da €500 a €5.000",
+          "c": "Solo sequestro dell'attrezzo"
+        },
+        "correctAnswer": "b"
+      },
+      "10": {
+        "text": "Qual è la sanzione per la cerca/raccolta in aree dove è vietata (es. pioppete in attualità di coltivazione, terreni di pertinenza)? (Art. 18, c. 1, lett. g)",
+        "options": {
+          "a": "Da €500 a €5.000",
+          "b": "Da €300 a €3.000",
+          "c": "Da €1.000 a €10.000"
+        },
+        "correctAnswer": "a"
+      },
+      "11": {
+        "text": "Qual è la sanzione per l'utilizzo di piante micorrizate senza certificazione? (Art. 18, c. 1, lett. i)",
+        "options": {
+          "a": "Da €100 a €1.000",
+          "b": "Da €500 a €5.000",
+          "c": "Nessuna, se le piante sono comunque della specie corretta"
+        },
+        "correctAnswer": "b"
+      },
+      "12": {
+        "text": "Quale sanzione accessoria è prevista per le violazioni di cui all'Art. 18, c. 1, lett. a), b), c) e d)? (Art. 18, c. 2)",
+        "options": {
+          "a": "Confisca del cane",
+          "b": "Sospensione del tesserino di abilitazione per un anno",
+          "c": "Obbligo di frequentare un corso di aggiornamento"
+        },
+        "correctAnswer": "b"
+      },
+      "13": {
+        "text": "Qual è la sanzione per l'apposizione di tabelle (tartufaie o aree add.) senza attestato di riconoscimento? (Art. 18, c. 4, lett. a)",
+        "options": {
+          "a": "Da €100 a €1.000",
+          "b": "Da €500 a €5.000",
+          "c": "Da €300 a €3.000"
+        },
+        "correctAnswer": "c"
+      },
+      "14": {
+        "text": "Qual è la sanzione per l'utilizzo di tabelle difformi da quelle previste dal regolamento? (Art. 18, c. 4, lett. b)",
+        "options": {
+          "a": "Solo l'obbligo di sostituzione",
+          "b": "Da €300 a €3.000",
+          "c": "Da €500 a €5.000"
+        },
+        "correctAnswer": "b"
+      },
+      "15": {
+        "text": "Qual è la sanzione per la cerca/raccolta in tartufaia controllata o coltivata senza autorizzazione del titolare? (Art. 18, c. 4, lett. c)",
+        "options": {
+          "a": "Da €100 a €1.000",
+          "b": "Da €500 a €5.000",
+          "c": "Da €300 a €3.000"
+        },
+        "correctAnswer": "c"
+      },
+      "16": {
+        "text": "Qual è la sanzione per la raccolta e asportazione di tartufi dalle aree di addestramento cani? (Art. 18, c. 4, lett. d)",
+        "options": {
+          "a": "Nessuna, è consentita la raccolta",
+          "b": "Da €300 a €3.000",
+          "c": "Solo il sequestro del prodotto"
+        },
+        "correctAnswer": "b"
+      },
+       "17": {
+        "text": "Chi è competente per l'irrogazione delle sanzioni amministrative? (Art. 19, c. 1)",
+        "options": {
+          "a": "Il Comune",
+          "b": "La Provincia",
+          "c": "La Regione Toscana"
+        },
+        "correctAnswer": "c"
+      },
+       "18": {
+        "text": "Gli agenti accertatori possono procedere al sequestro dei tartufi raccolti in violazione? (Art. 19, c. 3)",
+        "options": {
+          "a": "No, devono chiamare la Guardia di Finanza",
+          "b": "Sì",
+          "c": "Solo se il valore supera i 100 euro"
+        },
+        "correctAnswer": "b"
+      },
+      "19": {
+        "text": "Cosa può decidere la Regione per i tartufi confiscati, se le condizioni lo consentono? (Art. 19, c. 4)",
+        "options": {
+          "a": "Solo la distruzione",
+          "b": "La destinazione in beneficenza",
+          "c": "La vendita all'asta"
+        },
+        "correctAnswer": "b"
+      },
+      "20": {
+        "text": "Dove vengono annotate le infrazioni accertate con provvedimento definitivo? (Art. 19, c. 5)",
+        "options": {
+          "a": "Su un registro regionale pubblico",
+          "b": "Sul tesserino di abilitazione, a cura del comune che lo ha rilasciato",
+          "c": "Nella fedina penale del trasgressore"
+        },
+        "correctAnswer": "b"
+      },
+      "21": {
+        "text": "Dopo quante violazioni contestate il tesserino di abilitazione viene ritirato per un anno? (Art. 19, c. 6)",
+        "options": {
+          "a": "Alla prima",
+          "b": "Alla seconda",
+          "c": "Alla terza"
+        },
+        "correctAnswer": "c"
+      }
+    }
+  },
+  "I": {
+    "title": "REGOLAMENTO DI ATTUAZIONE L.R. 36/2023 (DPGR 2/R / 2025)",
+    "questions": {
+      "1": {
+        "text": "Qual è uno degli obiettivi principali delle tecniche colturali per le tartufaie naturali controllate, secondo l'Art. 1 del Regolamento?",
+        "options": {
+          "a": "Massimizzare la produzione a scapito dell'habitat",
+          "b": "Rispettare gli habitat naturali e mantenere gli equilibri dell'ecosistema",
+          "c": "Introdurre specie arboree non autoctone per aumentare la varietà"
+        },
+        "correctAnswer": "b"
+      },
+      "2": {
+        "text": "Il piano di gestione di una tartufaia coltivata (Art. 1, c. 3) deve indicare:",
+        "options": {
+          "a": "Solo il tipo di tartufo coltivato",
+          "b": "Solo le tecniche di irrigazione",
+          "c": "Numero/specie di piante, sesto d'impianto, produzione attesa, vivaio, tecniche di gestione"
+        },
+        "correctAnswer": "c"
+      },
+      "3": {
+        "text": "Secondo l'Art. 2 del Regolamento, con quali specie di Tuber possono essere micorrizate le piante da mettere a dimora?",
+        "options": {
+          "a": "Solo Tuber magnatum e Tuber melanosporum",
+          "b": "Qualsiasi specie di Tuber trovata in Toscana",
+          "c": "Quelle indicate all'articolo 5 della L.R. 36/2023"
+        },
+        "correctAnswer": "c"
+      },
+      "4": {
+        "text": "Chi rilascia il certificato che attesta la conformità del materiale vegetale (piante tartufigene) alla documentazione di micorrizazione (Art. 2, c. 3)?",
+        "options": {
+          "a": "Il Comune",
+          "b": "Il Servizio fitosanitario regionale",
+          "c": "L'associazione dei tartufai"
+        },
+        "correctAnswer": "b"
+      },
+      "5": {
+        "text": "Con quale cadenza avviene l'aggiornamento della mappatura regionale delle aree tartufigene secondo l'Art. 3 del Regolamento?",
+        "options": {
+          "a": "Annuale",
+          "b": "Almeno biennale",
+          "c": "Ogni cinque anni"
+        },
+        "correctAnswer": "b"
+      },
+      "6": {
+        "text": "I soggetti (es. comuni, enti scientifici) che accedono ai dati della mappatura regionale su GEOscopio (Art. 3, c. 5) possono divulgarli?",
+        "options": {
+          "a": "Sì, liberamente per scopi informativi",
+          "b": "Sì, ma solo alle associazioni di tartufai",
+          "c": "No, sono tenuti alla riservatezza ed è fatto divieto di divulgazione"
+        },
+        "correctAnswer": "c"
+      },
+      "7": {
+        "text": "Entro quale data i comuni devono inviare annualmente alla Regione i dati sui tesserini rilasciati/rinnovati (Art. 4)?",
+        "options": {
+          "a": "30 Giugno",
+          "b": "31 Dicembre",
+          "c": "30 Novembre"
+        },
+        "correctAnswer": "c"
+      },
+      "8": {
+        "text": "Quale dato NON è richiesto nell'invio annuale dei comuni alla Regione riguardo le attestazioni di riconoscimento delle tartufaie (Art. 5)?",
+        "options": {
+          "a": "Generalità del titolare e codice fiscale",
+          "b": "Il numero di cani utilizzati dal titolare",
+          "c": "Dati catastali, data riconoscimento/scadenza, specie di tartufo"
+        },
+        "correctAnswer": "b"
+      },
+      "9": {
+        "text": "In caso di dubbio o contestazione sulla specie di Tuber durante la cessione, chi effettua l'identificazione secondo l'Art. 6?",
+        "options": {
+          "a": "Un tartufaio esperto nominato dal comune",
+          "b": "Gli Ispettorati micologici presso il Dipartimento di prevenzione ASL",
+          "c": "Il Corpo Carabinieri Forestali"
+        },
+        "correctAnswer": "b"
+      },
+      "10": {
+        "text": "Per proporre una nuova zona geografica di provenienza (Art. 7), quanti comuni confinanti devono presentarla?",
+        "options": {
+          "a": "Almeno uno",
+          "b": "Almeno tre",
+          "c": "Tutti i comuni della provincia"
+        },
+        "correctAnswer": "b"
+      },
+      "11": {
+        "text": "Entro quanti giorni la Giunta Regionale si esprime sulla richiesta di divieto di cerca/raccolta in periodi diversi dal calendario (Art. 8)?",
+        "options": {
+          "a": "15 giorni",
+          "b": "45 giorni",
+          "c": "90 giorni"
+        },
+        "correctAnswer": "b"
+      },
+      "12": {
+        "text": "L'autorizzazione alla cerca/raccolta fuori periodo per motivi scientifici (Art. 9) viene rilasciata:",
+        "options": {
+          "a": "Dal Comune interessato",
+          "b": "Dall'Università di Firenze",
+          "c": "Con deliberazione della Giunta Regionale entro 45 giorni dall'istanza"
+        },
+        "correctAnswer": "c"
+      },
+      "13": {
+        "text": "Quale documento è fondamentale allegare alla richiesta di riconoscimento di tartufaia naturale controllata (Art. 10)?",
+        "options": {
+          "a": "Una mappa disegnata a mano dal richiedente",
+          "b": "Una perizia asseverata da un professionista abilitato (agronomo/forestale, agrotecnico, perito agrario)",
+          "c": "Una lettera di presentazione del sindaco"
+        },
+        "correctAnswer": "b"
+      },
+      "14": {
+        "text": "Qual è la procedura per il rinnovo del riconoscimento di una tartufaia naturale controllata (Art. 10, c. 5)?",
+        "options": {
+          "a": "È automatico ogni 5 anni",
+          "b": "Presentare istanza al comune allegando nuova perizia e nuovo piano di gestione",
+          "c": "Basta una semplice comunicazione al comune"
+        },
+        "correctAnswer": "b"
+      },
+      "15": {
+        "text": "Cosa succede alla titolarità del riconoscimento di una tartufaia (naturale controllata o coltivata) in caso di trasferimento dei terreni (Art. 10 c.3, Art. 11 c.3)?",
+        "options": {
+          "a": "Il riconoscimento decade automaticamente",
+          "b": "La titolarità si trasferisce al nuovo proprietario, che deve comunicare il subingresso al comune",
+          "c": "Il vecchio proprietario mantiene il riconoscimento per 5 anni"
+        },
+        "correctAnswer": "b"
+      },
+      "16": {
+        "text": "Quale ente può richiedere il riconoscimento di un'area addestramento cani da tartufo (Art. 12)?",
+        "options": {
+          "a": "Qualsiasi cittadino munito di tesserino",
+          "b": "Solo i consorzi volontari",
+          "c": "Ogni associazione di tartufai di cui all'articolo 15 della L.R. 36/2023"
+        },
+        "correctAnswer": "c"
+      },
+      "17": {
+        "text": "Qual è la superficie massima consentita per un'area addestramento cani (Art. 12, c. 2)?",
+        "options": {
+          "a": "1 ettaro",
+          "b": "2 ettari in corpo unico",
+          "c": "5 ettari"
+        },
+        "correctAnswer": "b"
+      },
+      "18": {
+        "text": "Durante quali periodi è aperta l'area addestramento cani (Art. 13)?",
+        "options": {
+          "a": "Tutto l'anno",
+          "b": "Solo nei mesi estivi",
+          "c": "Nei periodi di apertura del calendario di cerca e raccolta (Art. 8 L.R. 36/2023)"
+        },
+        "correctAnswer": "c"
+      },
+      "19": {
+        "text": "La gestione dell'area addestramento cani deve assicurare l'attività anche ai non soci dell'associazione richiedente (Art. 13, c. 2)?",
+        "options": {
+          "a": "No, è riservata ai soli soci",
+          "b": "Sì, deve assicurare l'attività a tutti coloro che ne facciano richiesta",
+          "c": "Sì, ma solo se residenti nel comune"
+        },
+        "correctAnswer": "b"
+      },
+      "20": {
+        "text": "Quali sono le dimensioni minime/massime delle tabelle di delimitazione secondo l'Art. 14?",
+        "options": {
+          "a": "10 cm x 20 cm",
+          "b": "20 cm x 30 cm",
+          "c": "30 cm x 40 cm"
+        },
+        "correctAnswer": "b"
+      },
+      "21": {
+        "text": "A quale altezza minima da terra devono essere collocate le tabelle di delimitazione (Art. 14, c. 1)?",
+        "options": {
+          "a": "1.50 metri",
+          "b": "1.80 metri",
+          "c": "2.00 metri"
+        },
+        "correctAnswer": "b"
+      },
+      "22": {
+        "text": "Quale dicitura deve essere presente sulle tabelle che delimitano un'area addestramento cani (Art. 14, c. 3)?",
+        "options": {
+          "a": "\"Cerca e Raccolta di tartufi riservata\"",
+          "b": "\"Proprietà Privata - Vietato l'accesso\"",
+          "c": "\"Area addestramento cani da tartufo - Divieto di raccolta di tartufi\""
+        },
+        "correctAnswer": "c"
+      },
+      "23": {
+        "text": "Chi è responsabile della manutenzione e rimozione delle tabelle di delimitazione quando il riconoscimento viene meno (Art. 14, c. 4)?",
+        "options": {
+          "a": "Il Comune",
+          "b": "La Regione Toscana",
+          "c": "Il titolare del riconoscimento"
+        },
+        "correctAnswer": "c"
+      }
+    }
+  }
+}
