@@ -364,11 +364,340 @@
       }
     }
   },
+  "B": {
+    "title": "CENNI TARTUFICOLTURA (Regione Toscana)",
+    "questions": {
+      "1": {
+        "text": "DOVE SI Può REALIZZARE UNA TARTUFAIA COLTIVATA?",
+        "options": {
+          "a": "In un bosco",
+          "b": "Su un terreno nudo",
+          "c": "In un terreno ai bordi di un fosso"
+        },
+        "correctAnswer": "b"
+      },
+      "2": {
+        "text": "QUALI TARTUFI SI POSSONO COLTIVARE in una tartufaia coltivata",
+        "options": {
+          "a": "Tutte le specie di tartufi di cui all'art.5 della legge regionale 36/2023",
+          "b": "Tutte le specie di tartufi di cui all'art.5 meno il tartufo bianco pregiato",
+          "c": "Tutte le specie di tartufo appartenenti al genere Tuber"
+        },
+        "correctAnswer": "a"
+      },
+      "3": {
+        "text": "LE PIANTINE UTILIZZATE PER LE TARTUFAIE COLTIVATE devono essere",
+        "options": {
+          "a": "Certificate come micorrizate e avere un attestato dal Servizio Fitosanitario Regionale",
+          "b": "Non è necessaria la certificazione basta la fattura del vivaista",
+          "c": "Certificate"
+        },
+        "correctAnswer": "a"
+      },
+      "4": {
+        "text": "LA DENSITA' DI IMPIANTO DI UNA TARTUFAIA COLTIVATA DEVE ESSERE:",
+        "options": {
+          "a": "Di 200 piante/ha",
+          "b": "Variabile a seconda del progetto d'impianto, ma non inferiore a 200 piante per ettaro",
+          "c": "Variabile in funzione delle specie di tartufo e delle piante simbionti"
+        },
+        "correctAnswer": "b"
+      },
+      "5": {
+        "text": "L'IDONEITÀ DI UN LUOGO ALL'IMPIANTO DI UNA TARTUFAIA COLTIVATA DIPENDE:",
+        "options": {
+          "a": "dall'appartenenza del Comune ad un'area geografica di provenienza del prodotto",
+          "b": "soltanto dalle analisi del suolo",
+          "c": "dalle caratteristiche stazionali, pedologiche e microclimatiche del luogo"
+        },
+        "correctAnswer": "c"
+      },
+      "6": {
+        "text": "QUALI PIANTE FORESTALI SI IMPIEGANO NELLA COSTITUZIONE DI TARTUFAIE COLTIVATE:",
+        "options": {
+          "a": "tutte le Conifere",
+          "b": "prevalentemente le specie quercine",
+          "c": "le specie conosciute come simbionti per il tartufo che si intende coltivare"
+        },
+        "correctAnswer": "c"
+      },
+      "7": {
+        "text": "PER LA PRODUZIONE DI TUBER AESTIVUM (scorzone) in tartufaia coltivata QUALI SPECIE SIMBIONTI SONO LE Più UTILIZZATE",
+        "options": {
+          "a": "Pioppo nero e Carpino bianco",
+          "b": "Roverella e Leccio",
+          "c": "Faggio"
+        },
+        "correctAnswer": "b"
+      },
+      "8": {
+        "text": "PER LA PRODUZIONE DI TUBER borchii (bianchetto o marzuolo) in tartufaia coltivata QUALI SPECIE SIMBIONTI SONO LE Più UTILIZZATE",
+        "options": {
+          "a": "Pino domestico e Roverella",
+          "b": "Pioppo bianco e Carpino nero",
+          "c": "Nocciolo e Castagno"
+        },
+        "correctAnswer": "a"
+      },
+      "9": {
+        "text": "PER LA PRODUZIONE DI TUBER melanosporum (nero pregiato) in tartufaia coltivata QUALI SPECIE SIMBIONTI si possono impiegare tra queste:",
+        "options": {
+          "a": "Pino marittimo e Carpino bianco",
+          "b": "Pioppo nero e Cisto rosso",
+          "c": "Carpino nero e Nocciolo"
+        },
+        "correctAnswer": "c"
+      },
+      "10": {
+        "text": "E' possibile impiantare una tartufaia coltivata di Tuber magnatum con piante micorrizate certificate?",
+        "options": {
+          "a": "Si, sebbene le tecniche di coltivazione non siano ancora state completamente messe a punto",
+          "b": "No, non è possibile",
+          "c": "Si è possibile ma soltanto nei boschi ripari"
+        },
+        "correctAnswer": "a" 
+      },
+      "11": {
+        "text": "I terreni a reazione acida sono ideali per realizzare una tartufaia coltivata?",
+        "options": {
+          "a": "No",
+          "b": "Si",
+          "c": "Dipende dal tipo di tartufo"
+        },
+        "correctAnswer": "a" 
+      },
+      "12": {
+        "text": "Per valutare l'idoneità di un terreno alla coltivazione dei vari tipi di tartufo è utile determinare anche la dotazione di calcare attivo nel suolo?",
+        "options": {
+          "a": "Solo se il terreno è molto argilloso",
+          "b": "Si, è utile",
+          "c": "Non serve a niente, basta sapere la dotazione di calcare totale"
+        },
+        "correctAnswer": "b"
+      },
+      "13": {
+        "text": "E' opportuno recintare le tartufaie coltivate?",
+        "options": {
+          "a": "No, è sufficiente mettere uno shelter alle singole piante",
+          "b": "Si è opportuno, per evitare i danni sia alle piantine, sia alle produzioni dovuti agli ungulati",
+          "c": "Si, ma solo con recinzioni elettrificate"
+        },
+        "correctAnswer": "b"
+      },
+      "14": {
+        "text": "La stazione improduttiva dell'impianto è:",
+        "options": {
+          "a": "uguale per tutte le specie di tartufo",
+          "b": "dipende soltanto dalla pianta simbionte",
+          "c": "dipende dalla specie simbionte, dalla gestione della tartufaia e dal tipo di tartufo coltivato"
+        },
+        "correctAnswer": "c"
+      },
+      "15": {
+        "text": "LE TARTUFAIE CONTROLLATE SONO:",
+        "options": {
+          "a": "Tartufaie naturali gestite con un piano di interventi per mantenere o migliorare la produzione",
+          "b": "Tartufaie naturali di bianco pregiato tabellate",
+          "c": "Tartufaie naturali in cui vengono inserite piantine micorrizate certificate"
+        },
+        "correctAnswer": "a" 
+      },
+      "16": {
+        "text": "LE PIANTE COMARI SONO:",
+        "options": {
+          "a": "Piante che si micorrizano successivamente alle piante simbionti",
+          "b": "Piante solitamente arbustive che producono tartufi",
+          "c": "Piante che non sono simbionti che condividono gli ambienti di produzione dei tartufi e che risultano sinergiche per la loro produzione"
+        },
+        "correctAnswer": "c"
+      },
+      "17": {
+        "text": "Quali fra queste piante è considerata comare per il tartufo bianco pregiato",
+        "options": {
+          "a": "l'orniello",
+          "b": "Il sanguinello",
+          "c": "l'alloro"
+        },
+        "correctAnswer": "b" 
+      },
+      "18": {
+        "text": "Quali fra queste piante è considerata comare per il tartufo bianchetto o marzuolo",
+        "options": {
+          "a": "Il ginepro",
+          "b": "Il ligustro",
+          "c": "Il rovo"
+        },
+        "correctAnswer": "a" 
+      },
+      "19": {
+        "text": "Quali fra queste piante arbustive in natura è simbionte del tartufo marzuolo",
+        "options": {
+          "a": "La ginestra",
+          "b": "Il cisto",
+          "c": "Il sambuco"
+        },
+        "correctAnswer": "b" 
+      },
+      "20": {
+        "text": "Nelle tartufaie controllate di scorzone si possono facilmente identificare i pianelli",
+        "options": {
+          "a": "Si sempre",
+          "b": "No, mai",
+          "c": "Si, anche se non è detto abbiano forme regolari e siano facilmente distinguibili"
+        },
+        "correctAnswer": "c"
+      },
+      "21": {
+        "text": "In quale di questi ambienti potreste trovare una tartufaia naturale di marzuolo (Tuber borchii)",
+        "options": {
+          "a": "Faggeta",
+          "b": "Rimboschimento di Pino domestico e Roverella",
+          "c": "Rimboschimento di abete"
+        },
+        "correctAnswer": "b"
+      },
+      "22": {
+        "text": "In quale di questi ambienti potreste trovare una tartufaia naturale di scorzone (Tuber aestivum)",
+        "options": {
+          "a": "Lecceta",
+          "b": "Boschi ripari di fondovalle",
+          "c": "Faggeta"
+        },
+        "correctAnswer": "a"
+      },
+      "23": {
+        "text": "In quale di questi ambienti potreste trovare una tartufaia naturale di T.aestivum var. uncinatum (uncinato)",
+        "options": {
+          "d": "Pineta litoranea",
+          "e": "Boschi ripari di fondovalle",
+          "f": "Faggeta"
+        },
+        "correctAnswer": "f" 
+      },
+      "24": {
+        "text": "In una tartufaia controllata di bianco pregiato il sottobosco può essere:",
+        "options": {
+          "a": "Completamente ripulito",
+          "b": "Ripulito ma rilasciando sempre le specie comari",
+          "c": "Ripulito a vari livelli di intensità rilasciando le specie comari e il novellame simbionte"
+        },
+        "correctAnswer": "c"
+      },
+      "25": {
+        "text": "L'incremento del soprassuolo simbionte in una tartufaia controllata di Tuber borchii può realizzarsi con",
+        "options": {
+          "a": "La messa a dimora di Piantine micorrizate certificate della stessa specie di tartufo",
+          "b": "Allevamento e cura del novellame simbionte individuato",
+          "c": "Con entrambi gli interventi"
+        },
+        "correctAnswer": "c"
+      },
+      "26": {
+        "text": "L'inserimento di piante tartufigene in tartufaia controllata è un intervento",
+        "options": {
+          "a": "obbligatorio",
+          "b": "non è obbligatorio e dipende dal piano di gestione della tartufaia che il tecnico ha asseverato",
+          "c": "obbligatorio solo per le tartufaie di nero pregiato"
+        },
+        "correctAnswer": "b"
+      },
+      "27": {
+        "text": "E' possibile irrigare le tartufaie controllate",
+        "options": {
+          "a": "Si",
+          "b": "No",
+          "c": "Si, ma solo in annate particolarmente siccitose"
+        },
+        "correctAnswer": "a" 
+      },
+      "28": {
+        "text": "La regimazione delle acque in una tartufaia di bianco pregiato può essere fatta",
+        "options": {
+          "a": "esclusivamente a mano",
+          "b": "sia a mano sia con mezzi meccanici ma in modo da ridurre gli impatti negativi sul suolo",
+          "c": "di solito non viene fatta"
+        },
+        "correctAnswer": "b"
+      },
+      "29": {
+        "text": "Nelle tartufaie controllate si può eseguire la cerca e raccolta del prodotto",
+        "options": {
+          "a": "Quando il prodotto è maturo",
+          "b": "Quando il calendario regionale lo consente",
+          "c": "A scelta del conduttore"
+        },
+        "correctAnswer": "b" 
+      },
+      "30": {
+        "text": "In una tartufaia controllata si possono eseguire ripuliture del sottobosco ad elevata intensità sul rovo?",
+        "options": {
+          "a": "No, mai",
+          "b": "Si, ma solo con mezzi manuali",
+          "c": "Si, se necessario, su superfici di solito circoscritte."
+        },
+        "correctAnswer": "c"
+      },
+      "31": {
+        "text": "Le tartufaie controllate possono essere danneggiate da fattori esterni alla tartufaie stesse?",
+        "options": {
+          "a": "No, se si esegue bene il piano di gestione della tartufaia non può accadere",
+          "b": "Si, può accadere ma solo se non si eseguono bene i lavori in tartufaia",
+          "c": "Si può accadere"
+        },
+        "correctAnswer": "c"
+      },
+      "32": {
+        "text": "Se una tartufaia controllata presenta due specie di tartufo il piano di gestione deve riguardare",
+        "options": {
+          "a": "Entrambe le specie",
+          "b": "La specie economicamente più importante",
+          "c": "La specie prevalente per superficie"
+        },
+        "correctAnswer": "a"
+      },
+      "33": {
+        "text": "Come si persegue la rinnovabilità di una tartufaia naturale a raccolta riservata?",
+        "options": {
+          "a": "Assicurando la rinnovazione delle specie simbionti del tartufo considerato in quell'ambiente di produzione",
+          "b": "La tartufaia si rinnova con il taglio boschivo",
+          "c": "Devono essere inserite piantine micorrizate certificate, non meno di 200 per ogni ettaro"
+        },
+        "correctAnswer": "a"
+      },
+      "34": {
+        "text": "Quali tra questi interventi sono considerati di miglioramento per una tartufaia controllata",
+        "options": {
+          "a": "Taglio della metà della superficie e cippatura del tagliato in posto",
+          "b": "Taglio di conversione in alto fusto con rilascio matricine simbionti",
+          "c": "Taglio delle specie quercine in esubero"
+        },
+        "correctAnswer": "b"
+      },
+      "35": {
+        "text": "Cosa si intende per eliminazione e controllo della vegetazione alloctona infestante nelle tartufaie controllate",
+        "options": {
+          "a": "Taglio di aceri e frassini",
+          "b": "Taglio per eliminare o contenere specie invasive autoctone come pungitopo o alloro",
+          "c": "Taglio per eliminare o contenere specie invasive non autoctone quali robinia e ailanto"
+        },
+        "correctAnswer": "c"
+      },
+      "36": {
+        "text": "Qualora si inseriscano piantine micorrizate in una tartufaia controllata queste devono",
+        "options": {
+          "a": "Essere certificate ed avere l'attestazione di conformità dal Servizio Fitosanitario Regionale;",
+          "b": "Essere ben sviluppate e non presentare funghi inquinanti",
+          "c": "Il tecnico che assevera il piano di gestione garantisce anche le piantine nella propria relazione."
+        },
+        "correctAnswer": "a"
+      }
+    }
+  },
   "C": {
     "title": "CONTENUTO DELLA LR 36/23 E DEL REGOLAMENTO DI ATTUAZIONE. CENNI ALLA NORMATIVA QUADRO NAZIONALE (L. 752/85)",
     "questions": {
       "1": {
-        "text": "La normativa regionale stabilisce, all'art. 7, che la raccolta di tartufi è libera:",
+        "text": "In base all'art. 7 della l.r. 36/2023, dove si può esercitare liberamente l'attività di cerca e la raccolta di tartufi?",
         "options": {
           "a": "nei boschi e nei terreni non coltivati",
           "b": "ovunque",
@@ -377,88 +706,88 @@
         "correctAnswer": "a"
       },
       "2": {
-        "text": "Si possono raccogliere tartufi nei pascoli, secondo l'art 7 della normativa regionale?",
+        "text": "Si possono cercare e raccogliere tartufi nei pascoli, secondo l'art 7 della l.r. 36/2023?",
         "options": {
-          "a": "si sempre.",
-          "b": "sì purché non ci siano animali al pascolo.",
+          "a": "si, sempre.",
+          "b": "sì purché in assenza di bestiame.",
           "c": "no, mai."
         },
-        "correctAnswer": "a"
+        "correctAnswer": "b"
       },
       "3": {
-        "text": "Dove NON è consentita la raccolta del tartufo, secondo la legge regionale vigente?",
+        "text": "Dove NON è consentita l'attività di cerca e la raccolta di tartufi, secondo la l.r. 36/2023?",
         "options": {
           "a": "Nei boschi",
           "b": "Nei terreni coltivati",
           "c": "Nei pascoli"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "4": {
-        "text": "Chi provvede ad emanare la norma relativa agli orari, ai calendari e alle modalità di raccolta dei tartufi?",
+        "text": "E' consentita l'attività di cerca e la raccolta di tartufi lungo le sponde e gli argini dei corsi d'acqua classificati pubblici dalla l.r. 36/2023?",
         "options": {
-          "a": "Il Ministero dell'Agricoltura",
-          "b": "La Regione",
-          "c": "I Carabinieri forestali"
+          "a": "No, in nessun caso",
+          "b": "Sì, è sempre consentita",
+          "c": "Sì, è consentita ma solo se le sponde e gli argini non sono oggetto di concessione demaniale."
         },
-        "correctAnswer": "b"
+        "correctAnswer": "c" 
       },
       "5": {
-        "text": "Le specie di tartufo indicate all'art. 5 della Legge Regionale n. 36/2023 possono essere raccolte:",
+        "text": "Dove possono essere cercate e raccolte le specie di tartufo indicate all'art. 5 della l.r. 36/2023 ?",
         "options": {
-          "a": "nella Regione Toscana",
-          "b": "in tutto il territorio nazionale",
-          "c": "nelle regioni del centro Italia"
+          "a": "Nella Regione Toscana",
+          "b": "In tutto il territorio nazionale",
+          "c": "Nelle regioni del centro Italia"
         },
         "correctAnswer": "a"
       },
       "6": {
-        "text": "Quali specie di tartufo possono essere cercate e raccolte nel territorio regionale?",
+        "text": "Quali specie di tartufo possono essere cercate e raccolte nel territorio regionale, in base alla l.r. 36/2023?",
         "options": {
-          "a": "quelle indicate dall'art 5 della legge Regionale 36/2023",
+          "a": "quelle indicate dall'art 5",
           "b": "Il tartufo bianco pregiato, il tartufo marzuolo, il tartufo nero pregiato e il tartufo scorzone",
           "c": "solo le specie di tartufi neri"
         },
         "correctAnswer": "a"
       },
       "7": {
-        "text": "L'art 7 della LR 36/2023 (\"Disciplina e modalità della cerca e raccolta del tartufo\") ammette la raccolta nelle ore notturne?",
+        "text": "L'art 7 della l.r. 36/2023 ammette l'attività di cerca e raccolta di tartufi nelle ore notturne?",
         "options": {
           "a": "Si, sempre",
           "b": "No, mai",
           "c": "Sì, ma solo in alcuni casi"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "8": {
-        "text": "Secondo la normativa, quale soggetto può apportare variazioni ai periodi di raccolta dei tartufi stabiliti con legge regionale?",
+        "text": "Secondo la l.r. 36/2023, quale soggetto può apportare variazioni ai periodi di raccolta dei tartufi stabiliti con legge regionale?",
         "options": {
-          "a": "la Giunta regionale",
-          "b": "il Comune",
-          "c": "la Provincia"
+          "a": "La Giunta regionale",
+          "b": "Il Comune",
+          "c": "La Provincia"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "9": {
-        "text": "E' consentita, di norma, dalla legge regionale la raccolta di tartufi immaturi?",
+        "text": "E' consentita, di norma, dalla l.r. 36/2023 la raccolta di tartufi immaturi?",
         "options": {
           "a": "E' sempre vietata",
           "b": "E' consentita solo in alcuni casi",
           "c": "E' sempre consentita"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "10": {
-        "text": "Lo scavo per estrarre il tartufo come deve essere effettuato, secondo l'art 7?",
+        "text": "Come deve essere effettuato lo scavo per estrarre il tartufo, secondo l'art 7 della l.r. 36/2023?",
         "options": {
           "a": "Con qualsiasi attrezzo di scavo nel punto indicato dal cane",
           "b": "Con l'apposito attrezzo (vanghetto o vanghella) scavando in maniera andante",
           "c": "Con l'apposito attrezzo (vanghetto o vanghella) nel punto indicato dal cane"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "11": {
-        "text": "Secondo la legislazione regionale vigente, quale è l'epoca di raccolta del tartufo nero pregiato (Tuber melanosporum Vittad)?",
+        "text": "Qual è il calendario di cerca e raccolta del tartufo nero pregiato (Tuber melanosporum Vittad) previsto dall'art 8 della l.r. 36/2023?",
         "options": {
           "a": "dal 15 novembre al 15 marzo",
           "b": "dal 15 dicembre al 15 marzo",
@@ -467,7 +796,7 @@
         "correctAnswer": "a"
       },
       "12": {
-        "text": "Secondo la legislazione regionale vigente quale è l'epoca di raccolta del tartufo moscato (Tuber brumale forma moschatum De Ferry)?",
+        "text": "Qual è il calendario di cerca e raccolta del tartufo moscato (Tuber brumale forma moschatum De Ferry) previsto dall'art 8 della l.r. 36/2023?",
         "options": {
           "a": "dal 15 gennaio al 15 aprile",
           "b": "dal 15 dicembre al 15 marzo",
@@ -476,16 +805,16 @@
         "correctAnswer": "a"
       },
       "13": {
-        "text": "Secondo la legislazione regionale vigente quale è l'epoca di raccolta del tartufo scorzone (Tuber aestivum forma aestivum Vittad.)?",
+        "text": "Qual è il calendario di cerca e raccolta del tartufo scorzone (Tuber aestivum forma aestivum Vittad.) previsto dall'art 8 della l.r. 36/2023?",
         "options": {
           "a": "dal 1 giugno al 30 settembre",
-          "b": "dal 1 giugno al 31 agosto e dal 1° ottobre al 31 dicembre", 
+          "b": "dal 1 giugno al 31 agosto e dal 1° ottobre al 30 novembre",
           "c": "dal 1 giugno al 31 agosto"
         },
-        "correctAnswer": "b" 
+        "correctAnswer": "b"
       },
       "14": {
-        "text": "Secondo la legislazione regionale vigente quale è l'epoca di raccolta del tartufo uncinato (Tuber aestivum forma uncinatum Chatin)?",
+        "text": "Qual è il calendario di cerca e raccolta del tartufo uncinato (Tuber aestivum forma uncinatum Chatin) previsto dall'art 8 della l.r. 36/2023?",
         "options": {
           "a": "dal 1 novembre al 31 dicembre",
           "b": "dal 1 settembre al 31 dicembre",
@@ -494,7 +823,7 @@
         "correctAnswer": "c"
       },
       "15": {
-        "text": "Secondo la legislazione regionale vigente quale è l'epoca di raccolta del tartufo nero d'inverno (Tuber brumale Vittad)?",
+        "text": "Qual è il calendario di cerca e raccolta del tartufo nero d'inverno (Tuber brumale Vittad) previsto dall'art 8 della l.r. 36/2023?",
         "options": {
           "a": "dal 15 gennaio al 15 aprile",
           "b": "dal 15 gennaio al 15 marzo",
@@ -503,34 +832,34 @@
         "correctAnswer": "a"
       },
       "16": {
-        "text": "Secondo la legislazione regionale vigente quale è l'epoca di raccolta del tartufo bianchetto o marzuolo (Tuber albidum Pico)",
+        "text": "Qual è il calendario di cerca e raccolta del tartufo bianchetto o marzuolo (Tuber albidum Pico) previsto dall'art 8 della l.r. 36/2023?",
         "options": {
-          "a": "dal 15 gennaio al 15 aprile",
-          "b": "dal 15 gennaio al 30 aprile",
+          "a": "dal 15 gennaio al 30 aprile",
+          "b": "dal 15 gennaio al 15 aprile",
           "c": "dal 1 gennaio al 30 aprile"
+        },
+        "correctAnswer": "b"
+      },
+      "17": {
+        "text": "Qual è il calendario di cerca e raccolta del tartufo nero liscio (Tuber macrosporum Vittad) previsto dall'art 8 della l.r. 36/2023?",
+        "options": {
+          "a": "dal 1 ottobre al 31 dicembre",
+          "b": "dal 1 settembre al 31 novembre", 
+          "c": "dal 1 settembre al 31 dicembre"
         },
         "correctAnswer": "a"
       },
-      "17": {
-        "text": "Secondo la legislazione regionale vigente quale è l'epoca di raccolta del tartufo nero liscio (Tuber macrosporum Vittad)?",
-        "options": {
-          "a": "dal 1 ottobre al 31 dicembre",
-          "b": "dal 1 settembre al 31 novembre",
-          "c": "dal 1 settembre al 31 dicembre"
-        },
-        "correctAnswer": "a" 
-      },
       "18": {
-        "text": "Secondo la legislazione regionale vigente quale è l'epoca di raccolta del tartufo nero ordinario (Tuber mesentericum Vittad)?",
+        "text": "Qual è il calendario di cerca e raccolta del tartufo nero ordinario (Tuber mesentericum Vittad) previsto dall'art 8 della l.r. 36/2023?",
         "options": {
           "a": "dal 1 settembre al 31 dicembre",
           "b": "dal 1 ottobre al 31 dicembre",
           "c": "dal 1 settembre al 30 novembre"
         },
-        "correctAnswer": "b" 
+        "correctAnswer": "b"
       },
       "19": {
-        "text": "E' ammessa dalla legislazione regionale vigente la raccolta del tartufo bianco (Tuber magnatum Pico) nel mese di luglio?",
+        "text": "E' ammessa dalla l.r. 36/2023 l'attività di cerca e raccolta del tartufo bianco (Tuber magnatum Pico) nel mese di luglio?",
         "options": {
           "a": "No",
           "b": "Si, su tutto il territorio regionale",
@@ -539,16 +868,16 @@
         "correctAnswer": "a"
       },
       "20": {
-        "text": "E' ammessa dalla legislazione regionale vigente la raccolta del tartufo bianchetto o marzuolo (Tuber borchii Vittad) nel mese di dicembre?",
+        "text": "E' ammessa dalla l.r. 36/2023 l'attività di cerca e raccolta del tartufo bianchetto o marzuolo (Tuber borchii Vittad) nel mese di dicembre?",
         "options": {
-          "a": "Si, su tutto il territorio regionale",
-          "b": "Solo nella zona geografica della Maremma Grossetana",
-          "c": "No"
+          "a": "E' ammessa su tutto il territorio regionale",
+          "b": "E' ammessa solo nella zona geografica della Maremma Grossetana",
+          "c": "Non è ammessa"
         },
         "correctAnswer": "c"
       },
       "21": {
-        "text": "E' ammessa dalla legislazione regionale vigente la raccolta del tartufo bianco pregiato (Tuber magnatum Pico) nel mese di agosto?",
+        "text": "E' ammessa dalla l.r. 36/2023 l'attività di cerca e raccolta del tartufo bianco pregiato (Tuber magnatum Pico) nel mese di agosto?",
         "options": {
           "a": "Si, su tutto il territorio regionale",
           "b": "No",
@@ -557,7 +886,7 @@
         "correctAnswer": "b"
       },
       "22": {
-        "text": "Secondo la legislazione regionale vigente quale è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di gennaio?",
+        "text": "Secondo la l.r. 36/2023 qual è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di gennaio?",
         "options": {
           "a": "dalle 7.00 alle 18.00",
           "b": "dalle 8.00 alle 18.00",
@@ -566,7 +895,7 @@
         "correctAnswer": "a"
       },
       "23": {
-        "text": "Secondo la legislazione regionale vigente, quale è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di marzo?",
+        "text": "Secondo la l.r. 36/2023, qual è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di marzo?",
         "options": {
           "a": "dalle 7.00 alle 18.00",
           "b": "dalle 6.30 alle 18.30",
@@ -575,7 +904,7 @@
         "correctAnswer": "c"
       },
       "24": {
-        "text": "Secondo la legislazione regionale vigente, quale è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di maggio?",
+        "text": "Secondo la l.r. 36/2023, qual è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di maggio?",
         "options": {
           "a": "dalle 7.00 alle 18.00",
           "b": "dalle 6.30 alle 18.30",
@@ -584,7 +913,7 @@
         "correctAnswer": "c"
       },
       "25": {
-        "text": "Secondo la legislazione regionale vigente quale è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di giugno?",
+        "text": "Secondo la l.r. 36/2023, qual è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di giugno?",
         "options": {
           "a": "cerca e raccolta non consentite",
           "b": "dalle 4,00 alle 21,00",
@@ -593,7 +922,7 @@
         "correctAnswer": "b"
       },
       "26": {
-        "text": "Secondo la legislazione regionale vigente, quale è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di settembre?",
+        "text": "Secondo la l.r. 36/2023, qual è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di settembre?",
         "options": {
           "a": "dalle 5.00 alle 18.30",
           "b": "cerca e raccolta non consentite",
@@ -602,7 +931,7 @@
         "correctAnswer": "b"
       },
       "27": {
-        "text": "Secondo la legislazione regionale vigente quale è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di ottobre?",
+        "text": "Secondo la l.r. 36/2023, qual è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di ottobre?",
         "options": {
           "a": "dalle 5.00 alle 18.00",
           "b": "dalle 5.00 alle 18.30",
@@ -611,7 +940,7 @@
         "correctAnswer": "c"
       },
       "28": {
-        "text": "Secondo la legislazione regionale vigente quale è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di novembre?",
+        "text": "Secondo la l.r. 36/2023 qual è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di novembre?",
         "options": {
           "a": "dalle 7.00 alle 18.00",
           "b": "dalle 6.30 alle 17.30",
@@ -620,7 +949,7 @@
         "correctAnswer": "b"
       },
       "29": {
-        "text": "Secondo la legislazione regionale vigente quale è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di dicembre?",
+        "text": "Secondo la l.r. 36/2023 qual è l'orario ammesso per la cerca e la raccolta del tartufo nel mese di dicembre?",
         "options": {
           "a": "dalle 7.00 alle 17.30",
           "b": "dalle 6.30 alle 18.00",
@@ -629,7 +958,7 @@
         "correctAnswer": "a"
       },
       "30": {
-        "text": "La normativa regionale vigente prevede la possibilità di poter raccogliere tartufi fuori dai periodi di cerca e raccolta indicati dal calendario?",
+        "text": "La l.r. 36/2023 prevede la possibilità di poter raccogliere tartufi fuori dai periodi di cerca e raccolta indicati dal calendario?",
         "options": {
           "a": "no, in nessun caso",
           "b": "si, sempre purché in possesso del patentino e del versamento annuale",
@@ -638,7 +967,7 @@
         "correctAnswer": "c"
       },
       "31": {
-        "text": "Quali soggetti possono essere autorizzati dalla Giunta regionale ad effettuare cerca e raccolta di tartufi al di fuori dei periodi definiti dal calendario previsto dalla normativa regionale?",
+        "text": "Quali soggetti possono essere autorizzati dalla Giunta regionale ad effettuare cerca e raccolta di tartufi al di fuori dei periodi definiti dal calendario previsto dalla l.r. 36/2023?",
         "options": {
           "a": "Le Associazioni di tartufai riconosciute",
           "b": "I Consorzi volontari",
@@ -647,79 +976,79 @@
         "correctAnswer": "c"
       },
       "32": {
-        "text": "Secondo la legge regionale toscana, è possibile effettuare la cerca del tartufo bianchetto o marzuolo (Tuber albidum Pico) senza l'ausilio del cane addestrato?",
+        "text": "Secondo la l.r. 36/2023, è possibile effettuare l'attività di cerca e raccolta del tartufo bianchetto o marzuolo (Tuber albidum Pico) senza l'ausilio del cane addestrato?",
         "options": {
           "a": "no, mai",
           "b": "si, sempre",
-          "c": "si, ma solo nelle pinete litoranee dove il tartufo cresce a contatto fra la lettiera degli aghi ed il terreno. Solo in questo caso per raccogliere i tartufi è sufficiente alzare gli aghi dei pini senza danneggiare il terreno sottostante."
+          "c": "si, ma solo nelle pinete litoranee dove il tartufo cresce a contatto fra la lettiera degli aghi ed il terreno."
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "33": {
-        "text": "Secondo la legge regionale toscana, è possibile effettuare la cerca del tartufo scorzone (Tuber aestivum Vittad forma aestivum) senza l'ausilio del cane addestrato?",
+        "text": "Secondo la l.r. 36/2023, è possibile effettuare l'attività di cerca e raccolta del tartufo scorzone (Tuber aestivum Vittad forma aestivum) senza l'ausilio del cane addestrato?",
         "options": {
           "a": "si, sempre",
           "b": "no, mai",
           "c": "solo se il tartufo fuoriesce dal terreno"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "34": {
         "text": "Perchè è importante, per la tutela della tartufaia, impiegare un cane addestrato per la cerca del tartufo?",
         "options": {
           "a": "Perchè il cane indica al tartufaio il punto di scavo dei soli tartufi maturi",
-          "b": "Perché il cane addestrato consente al tartufaio di raccogliere tutti i tartufi che trova nel suo percorso di “caccia”",
+          "b": "Perchè il cane addestrato consente al tartufaio di raccogliere tutti i tartufi che trova nel suo percorso di “caccia”",
           "c": "Perché il cane, essendo leggero, non esercita il danno da calpestio sulla tartufaia, cosa che potrebbe accadere se venisse impiegato un maiale"
         },
         "correctAnswer": "a"
       },
       "35": {
-        "text": "Per poter accedere alla facilitazioni previste dalla legge regionale vigente, le Associazioni di tartufai devono:",
+        "text": "Quali sono le attività che devono svolgere le Associazioni di tartufai per poter accedere alla facilitazioni previste dalla l.r. 36/2023?",
         "options": {
           "a": "assistere l'associato nell'addestramento del cane",
           "b": "prevedere nel loro statuto lo svolgimento di attività volte alla conservazione, miglioramento e tutela degli ecosistemi tartufigeni",
           "c": "ricercare nuovi mercati per la vendita del tartufo"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "36": {
-        "text": "Quanti cani può portare con sé il raccoglitore di tartufi per essere in regola con la normativa regionale?",
+        "text": "Quanti cani può portare con sé il raccoglitore di tartufo per essere in regola con la l.r. 36/2023?",
         "options": {
           "a": "Al massimo un cane addestrato",
           "b": "La normativa non specifica il numero di cani",
           "c": "Al massimo due cani, compreso quello in addestramento"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "37": {
-        "text": "Come viene disciplinato dalla normativa regionale l'attrezzo da utilizzare nell'attività di cerca e raccolta dei tartufi?",
+        "text": "Come viene disciplinato dalla l.r. 36/2023 l'attrezzo da utilizzare nell'attività di cerca e raccolta dei tartufi?",
         "options": {
-          "a": "La norma definisce solo la tipologia (“vanghetto\"o \"vanghella\")",
-          "b": "La norma definisce la tipologia (“vanghetto\"o “vanghella”) e le dimensioni della lama",
+          "a": "La norma definisce solo la tipologia (\"vanghetto\"o \"vanghella\")",
+          "b": "La norma definisce la tipologia (\"vanghetto\"o \"vanghella\") e le dimensioni della lama",
           "c": "La norma non prevede una tipologia specifica di strumento da utilizzare"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "38": {
-        "text": "Quale attrezzo può utilizzare il tartufaio per la cerca e la raccolta secondo la normativa regionale?",
+        "text": "Quale attrezzo può utilizzare il tartufaio per la cerca e la raccolta secondo la l.r. 36/2023?",
         "options": {
           "a": "vanga",
           "b": "vanghetto o vanghella",
           "c": "zappa"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "39": {
-        "text": "Quali dimensioni deve avere la lama del vanghetto per la cerca e raccolta dei tartufi in base alla normativa regionale vigente?",
+        "text": "Quali dimensioni deve avere la lama del vanghetto per la cerca e raccolta dei tartufi in base alla l.r. 36/2023?",
         "options": {
           "a": "dimensioni massime comprese tra 5 cm di lunghezza e 5 cm di larghezza",
           "b": "lunghezza e larghezza massime comprese tra 5 cm e 10 cm",
           "c": "lunghezza massima 10 cm e larghezza massima 5 cm"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "40": {
-        "text": "Quali specie di tartufo possono essere cercate e raccolte in base alla normativa regionale vigente?",
+        "text": "Quali specie di tartufo possono essere cercate e raccolte in base alla l.r. 36/2023?",
         "options": {
           "a": "tutte le specie di Tuber, compreso Tuber rufum, purché siano completamente mature",
           "b": "tartufo scorzone (Tuber aestivum Vittad forma aestivum.); tartufo uncinato (Tuber aestivum Vittad forma uncinatum); tartufo bianchetto o marzuolo (Tuber albidum Pico); tartufo bianco (Tuber magnatum Pico)",
@@ -728,7 +1057,7 @@
         "correctAnswer": "c"
       },
       "41": {
-        "text": "Secondo la legislazione regionale vigente, quale è l'epoca di raccolta del tartufo bianco pregiato (Tuber magnatum Pico)?",
+        "text": "Secondo la l.r. 36/2023, quale è il calendario di cerca e raccolta del tartufo bianco pregiato (Tuber magnatum Pico)?",
         "options": {
           "a": "dal 1 ottobre al 15 gennaio",
           "b": "dal 15 settembre al 31 dicembre",
@@ -737,79 +1066,79 @@
         "correctAnswer": "a"
       },
       "42": {
-        "text": "Secondo la legislazione regionale vigente, qual è il calendario di raccolta del Tuber indicum Cooke & Massee è:",
+        "text": "Secondo la l.r. 36/2023, qual è il calendario di cerca e raccolta del Tuber indicum Cooke & Massee è:",
         "options": {
           "a": "dal 1 ottobre al 15 gennaio",
           "b": "dal 15 settembre al 31 dicembre",
           "c": "raccolta non ammessa"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "43": {
-        "text": "Quale, tra le seguenti specie di tartufo, si può cercare e raccogliere commercializzare secondo la L.R. 36/2023?",
+        "text": "Quale, tra le seguenti specie di tartufo, si può cercare e raccogliere secondo la l.r. 36/2023?",
         "options": {
           "a": "tartufo rosso (Tuber rufum Pico)",
           "b": "tartufo escavato (Tuber excavatum Vittad)",
           "c": "tartufo moscato (Tuber brumale forma moschatum De Ferry)"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "44": {
-        "text": "Quali attività disciplina la legge regionale 36/2023 ?",
+        "text": "Quali sono le attività disciplinate dalla l.r. 36/2023 ?",
         "options": {
-          "a": "la cerca, la raccolta e la coltivazione dei tartufi",
-          "b": "la cerca, la raccolta e la commercializzazione dei tartufi",
-          "c": "la raccolta e la commercializzazione dei tartufi"
+          "a": "La raccolta e la commercializzazione dei tartufi",
+          "b": "La cerca, la raccolta e la coltivazione dei tartufi",
+          "c": "La cerca, la raccolta e la commercializzazione dei tartufi"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "b" 
       },
       "45": {
-        "text": "La raccolta dei tartufi freschi è permessa, secondo la normativa regionale:",
+        "text": "In quali periodi è permessa l'attività di cerca e raccolta dei tartufi freschi, secondo la l.r. 36/2023?",
         "options": {
           "a": "nei periodi previsti dal calendario regionale e nella settimana successiva al termine dello stesso",
           "b": "nei periodi previsti dal calendario regionale e nei 10 giorni successivi al termine",
           "c": "solo nei periodi previsti dal calendario"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "46": {
-        "text": "Come viene definita l'attività di cerca del tartufo dalla normativa regionale?",
+        "text": "Come viene definita l'attività di cerca del tartufo dalla l.r. 36/2023?",
         "options": {
           "a": "attività di ricerca del tartufo mediante l'ausilio del cane addestrato, secondo le modalità previste e nel rispetto del calendario",
-          "b": "attività di ricerca del tartufo mediante l'ausilio del cane, secondo le modalità previste e nel rispetto del calendario", 
+          "b": "attività di ricerca del tartufo mediante l'ausilio del cane, secondo le modalità previste e nel rispetto del calendario",
           "c": "attività di ricerca del tartufo mediante l'ausilio massimo di due cani, compreso quello in addestramento, secondo le modalità previste e nel rispetto del calendario"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "47": {
-        "text": "Secondo la legge regionale, quali condizioni sono necessario perchè il tartufaio possa praticare la cerca e la raccolta dei tartufi?",
+        "text": "Secondo la l.r. 36/2023, quali condizioni sono necessario perchè il tartufaio possa praticare la cerca e la raccolta dei tartufi?",
         "options": {
           "a": "che sia in possesso del tesserino di abilitazione e sia in regola col versamento annuale per l'esercizio dell'attività",
           "b": "che sia in possesso del solo tesserino di abilitazione",
           "c": "che, anche in possesso di un tesserino scaduto, sia in regola col versamento annuale per l'esercizio dell'attività"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "48": {
-        "text": "Qual è il periodo di validità del tesserino per la cerca e la raccolta dei tartufi dalla data del rilascio?",
+        "text": "Qual è il periodo di validità del tesserino per la cerca e la raccolta dei tartufi dalla data del rilascio, in base alla l.r. 36/2023?",
         "options": {
           "a": "tre anni",
           "b": "cinque anni",
           "c": "dieci anni"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "49": {
-        "text": "La legge regionale prevede un'età minima per il rilascio del tesserino di abilitazione alla cerca e raccolta dei tartufi?",
+        "text": "La l.r. 36/2023 prevede un'età minima per il rilascio del tesserino di abilitazione alla cerca e raccolta dei tartufi?",
         "options": {
           "a": "Sì, di 16 (sedici) anni",
           "b": "Sì di 14 (quattordici) anni",
           "c": "No, la legge non prevede un'età minima per il rilascio del tesserino"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "50": {
-        "text": "A quale età la legge regionale prevede possa essere rilasciato il tesserino di abilitazione alla cerca e raccolta dei tartufi?",
+        "text": "A quale età la l.r. 36/2023 prevede possa essere rilasciato il tesserino di abilitazione alla cerca e raccolta dei tartufi?",
         "options": {
           "a": "Quattordici anni",
           "b": "Sedici anni",
@@ -818,97 +1147,97 @@
         "correctAnswer": "b"
       },
       "51": {
-        "text": "Quale ente rilascia il tesserino di abilitazione alla cerca e raccolta dei tartufi?",
+        "text": "Quale ente rilascia il tesserino di abilitazione alla cerca e raccolta dei tartufi, secondo la l.r. 36/2023?",
         "options": {
           "a": "la Regione",
           "b": "la Provincia",
           "c": "il Comune di residenza"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "52": {
-        "text": "Come si ottiene il tesserino di abilitazione alla cerca e raccolta dei tartufi, in base alla norma regionale?",
+        "text": "Come si ottiene il tesserino di abilitazione alla cerca e raccolta dei tartufi, in base alla l.r. 36/2023?",
         "options": {
           "a": "si deve sostenere un esame di abilitazione davanti ad una commissione regionale",
           "b": "si deve frequenta un corso di 30 (trenta) ore e poi superare un esame di abilitazione davanti a una commissione regionale",
           "c": "si deve frequentare un corso di 8 (otto) ore e poi superare un esame di abilitazione davanti a una commissione regionale"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "53": {
-        "text": "Come si ottiene il rinnovo del tesserino di abilitazione alla cerca e raccolta dei tartufi, in base alla norma regionale?",
+        "text": "Come si ottiene il rinnovo del tesserino di abilitazione alla cerca e raccolta dei tartufi, in base alla l.r. 36/2023?",
         "options": {
           "a": "si deve frequentare un corso di 8 (otto) ore e poi superare un esame di abilitazione davanti a una commissione regionale",
           "b": "si deve frequentare un corso di 8 (otto) ore",
           "c": "si deve sostenere un nuovo esame di abilitazione davanti ad una commissione regionale"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "54": {
-        "text": "Quali documenti deve portare con sé il cercatore per poter svolgere l'attività di cerca e raccolta nel rispetto della legge regionale?",
+        "text": "Quali documenti deve portare con sé il cercatore per poter svolgere l'attività di cerca e raccolta nel rispetto della l.r. 36/2023?",
         "options": {
           "a": "tesserino di abilitazione alla cerca e raccolta dei tartufi, documento di identità e pagamento dell'importo annuale",
           "b": "tesserino di abilitazione alla cerca e raccolta dei tartufi e documento di identità",
           "c": "tesserino di abilitazione alla cerca e raccolta dei tartufi e pagamento dell'importo annuale"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "55": {
-        "text": "Entro quale termine di tempo deve richiedere il tesserino chi ha superato l'esame di idoneità alla cerca e raccolta dei tartufi?",
+        "text": "Entro quale termine di tempo deve richiedere il tesserino chi ha superato l'esame di idoneità alla cerca e raccolta dei tartufi in base alla l.r. 36/2023?",
         "options": {
           "a": "entro 365 giorni dal superamento dell'esame",
           "b": "entro due anni dal superamento dell'esame",
           "c": "la norma regionale non prevede un termine di tempo per richiedere il tesserino dopo aver superato l'esame"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "56": {
-        "text": "Cosa prevede la normativa regionale per chi ha superato l'esame di idoneità alla cerca e raccolta del tartufo ma non ha richiesto il tesserino entro il termine stabilito?",
+        "text": "Cosa prevede la l.r. 36/2023 per chi ha superato l'esame di idoneità alla cerca e raccolta del tartufo ma non ha richiesto il tesserino entro il termine stabilito?",
         "options": {
           "a": "deve frequentare un corso di 8 ore",
           "b": "deve frequentare un corso di 30 ore",
           "c": "deve frequentare un corso di 30 ore e poi superare di nuovo l'esame"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "57": {
-        "text": "Quale ente rilascia il rinnovo delle tartufaie naturali controllate, secondo la legge regionale?",
+        "text": "Quale ente rilascia il rinnovo delle tartufaie naturali controllate, secondo la l.r. 36/2023?",
         "options": {
           "a": "Il Comune territorialmente competente",
           "b": "La Provincia",
           "c": "La Regione"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "58": {
-        "text": "Quale ente rilascia il riconoscimento delle tartufaie coltivate secondo la legge regionale?",
+        "text": "Quale ente rilascia il riconoscimento delle tartufaie coltivate secondo la l.r. 36/2023?",
         "options": {
           "a": "La Provincia",
           "b": "La Regione",
           "c": "Il Comune territorialmente competente"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "59": {
-        "text": "Quale soggetto rilascia il riconoscimento delle aree di addestramento cani da tartufo secondo la legge regionale?",
+        "text": "Quale soggetto rilascia il riconoscimento delle aree di addestramento cani da tartufo secondo la l.r. 36/2023?",
         "options": {
           "a": "Il Comune territorialmente competente",
-          "b": "Una delle associazioni di raccoglitori riconosciute ai sensi della Ir 36/ 2023",
+          "b": "Una delle associazioni di raccoglitori riconosciute ai sensi della lr 36/ 2023",
           "c": "La Regione"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "60": {
-        "text": "Quale soggetto può presentare la domanda di riconoscimento delle aree di addestramento cani da tartufo secondo la legge regionale?",
+        "text": "Quale soggetto può presentare la domanda di riconoscimento delle aree di addestramento cani da tartufo secondo la l.r. 36/2023?",
         "options": {
-          "a": "Una delle associazioni di raccoglitori riconosciute ai sensi della Ir 36/ 2023",
+          "a": "Una delle associazioni di raccoglitori riconosciute ai sensi della lr 36/ 2023",
           "b": "Un consorzio volontario per la difesa del tartufo toscano",
           "c": "Un singolo tartufaio abilitato purché in possesso di un terreno di almeno 2 ettari di superficie"
         },
         "correctAnswer": "a"
       },
       "61": {
-        "text": "Secondo la legge regionale 36/2023 quale delle seguenti attività è di competenza della Regione?",
+        "text": "Secondo la l.r. 36/2023, quale delle seguenti attività è di competenza della Regione?",
         "options": {
           "a": "Il rilascio e il rinnovo dei tesserini di abilitazione",
           "b": "Il rilascio e la revoca del riconoscimento delle tartufaie naturali controllate e delle tartufaie coltivate",
@@ -917,7 +1246,7 @@
         "correctAnswer": "c"
       },
       "62": {
-        "text": "Come viene definito dalla norma regionale il tartuficoltore?",
+        "text": "Come viene definito dalla l.r. 36/2023 il tartuficoltore?",
         "options": {
           "a": "colui che è abilitato alla cerca e raccolta del tartufo e in possesso del tesserino di abilitazione",
           "b": "colui che conduce una tartufaia coltivata e in possesso del tesserino di abilitazione",
@@ -926,25 +1255,25 @@
         "correctAnswer": "b"
       },
       "63": {
-        "text": "E' ammessa la cerca e raccolta del tartufo scorzone nel mese di giugno, in base alla normativa regionale?",
+        "text": "E' ammessa la cerca e raccolta del tartufo scorzone nel mese di giugno, in base alla l.r. 36/2023?",
         "options": {
-          "a": "si",
+          "a": "si, dappertutto",
           "b": "si, tranne che nelle oasi di protezione, nelle zone di ripopolamento e cattura e nei centri pubblici e privati di produzione della fauna selvatica",
           "c": "no"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "64": {
-        "text": "Quali sono i soggetti individuati dalla normativa regionale vigente per la vigilanza, il controllo, l'accertamento e la contestazione delle infrazioni?",
+        "text": "Quali sono i soggetti individuati dalla l.r. 36/2023 per la vigilanza, il controllo, l'accertamento e la contestazione delle infrazioni?",
         "options": {
           "a": "Il comando unità forestali, ambientali e agroalimentari dell'Arma dei carabinieri,le guardie venatorie provinciali, gli organi di polizia locale urbana e rurale.",
           "b": "Le guardie venatorie provinciali",
           "c": "Il Comando unità forestali, ambientali e agroalimentari dell'Arma dei carabinieri"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "65": {
-        "text": "Quali soggetti possono effettuare la vigilanza sull'attività di cerca di tartufi in Toscana?",
+        "text": "Quali soggetti possono effettuare la vigilanza sull'attività di cerca di tartufi in Toscana, in base alla l.r. 36/2023?",
         "options": {
           "a": "i micologi del Dipartimento di Prevenzione della Unità Sanitaria Locale (U.S.L.)",
           "b": "i Carabinieri forestali (Comando unita forestali, ambientali e agroalimentari dell'Arma)",
@@ -953,168 +1282,159 @@
         "correctAnswer": "b"
       },
       "66": {
-        "text": "Chi è considerato recidivo secondo la legge regionale 36/2023?",
+        "text": "Chi è considerato recidivo secondo la l.r. 36/2023?",
         "options": {
           "a": "colui che dopo aver commesso una delle infrazioni indicate dall'art. 18 della L.R. 36/2023, ne commette un'altra nei 5 anni successivi",
           "b": "colui che dopo aver commesso una delle infrazioni indicate dall'art. 18 della L.R. 36/2023, ne commette un'altra nei 10 anni successivi",
-          "c": "solo colui colui che dopo aver commesso una delle infrazioni indicate dall'art. 21 della L.R. 50/95, commette la stessa infrazione nei 5 anni successivi"
+          "c": "colui che dopo aver commesso una delle infrazioni indicate dall'art. 18 della L.R. 36/2023, commette la stessa infrazione nei 3 anni successivi" 
         },
         "correctAnswer": "a"
       },
       "67": {
-        "text": "Quale è il tempo minimo che deve intercorrere da una sanzione ad un'altra affinché non sia considerata recidiva secondo la legge 36/2023?",
+        "text": "Quale è il tempo minimo che deve intercorrere da una sanzione ad un'altra affinché non sia considerata recidiva secondo la l.r. 36/2023?",
         "options": {
           "a": "3 anni",
           "b": "5 anni",
           "c": "1 anno"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "68": {
-        "text": "Cosa prevede l'art 18 della lr 36/2023 per i tartufi raccolti in violazione della legge regionale toscana?",
+        "text": "Cosa prevede l'art 18 della l.r. 36/2023 per i tartufi raccolti in violazione della Legge Regionale n.36/2023 ?",
         "options": {
           "a": "devono essere resi immangiabili",
           "b": "devono essere confiscati e sequestrati",
           "c": "devono essere confiscati"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
        "69": {
-        "text": "Cosa prevede l'art 18 della normativa regionale per chi cerca e raccoglie tartufi senza il tesserino?",
+        "text": "Cosa prevede l'art 18 della l.r. 36/2023 per chi cerca e raccoglie tartufi senza il tesserino?",
         "options": {
           "a": "Una sanzione amministrativa",
           "b": "Una sanzione penale",
           "c": "Una sanzione sanitaria"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
        "70": {
-        "text": "In quale caso, ai sensi della L.R. 36/2023, è previsto il ritiro per un anno del tesserino per la cerca e la raccolta?", 
+        "text": "In quale caso, ai sensi della l.r. 36/2023, è previsto il ritiro per un anno del tesserino per la cerca e la raccolta?",
         "options": {
           "a": "in nessun caso",
           "b": "in caso di terza violazione contestata",
           "c": "in caso di mancato pagamento della sanzione applicata"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
       },
       "71": {
-        "text": "Per quanto tempo può essere ritirato il tesserino ai sensi dell'art 19 della L.R. 36/2023?",
+        "text": "Per quanto tempo può essere ritirato il tesserino ai sensi dell'art 19 della l.r. 36/2023?",
         "options": {
           "a": "per 1 anno in caso di tre violazioni ripetute nei 5 anni",
           "b": "per 2 anni in caso di tre violazioni ripetute in 2 anni",
           "c": "per 5 anni in caso di tre violazioni ripetute in 1 anno"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
       "72": {
-        "text": "Cosa prevede l'art 18 della normativa regionale per chi cerca e raccoglie tartufi col tesserino ma senza il pagamento dell'importo annuale?",
+        "text": "Cosa prevede l'art 18 della l.r. 36/2023 per chi cerca e raccoglie tartufi col tesserino ma senza il pagamento dell'importo annuale?",
         "options": {
           "a": "Una sanzione penale",
           "b": "Una sanzione sanitaria",
           "c": "Una sanzione amministrativa"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "73": {
-        "text": "Qual è la sanzione prevista per chi, pur essendo munito del tesserino, non ha provveduto al pagamento dell'importo relativo all'abilitazione?", 
-        "options": {
-          "a": "sanzione da € 300,00 a € 3.000,00 ed il sequestro del prodotto",
-          "b": "sanzione da € 500,00 a € 5.000,00 ed il sequestro del prodotto",
-          "c": "sanzione da € 150,00 a € 900,00 ed il sequestro del prodotto"
-        },
-        "correctAnswer": "b"
-      },
-      "74": {
-        "text": "Cosa prevede la normativa per chi esercita la ricerca del tartufo munito del tesserino, in assenza del pagamento dell'importo relativo all'abilitazione ?",
+        "text": "Cosa prevede la l.r. 36/2023 per chi esercita la ricerca del tartufo munito del tesserino, in assenza del pagamento dell'importo relativo all'abilitazione ?", 
         "options": {
           "a": "solo una sanzione perché si è in possesso del tesserino",
           "b": "una sanzione ed il sequestro del prodotto",
           "c": "solo il sequestro del prodotto se si effettua il pagamento entro le 24 ore successive alla contestazione della violazione"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b" 
+      },
+      "74": {
+        "text": "Quale sanzione è prevista dall' art. 18 della l.r. 36/2023 per chi esercita la ricerca o la raccolta senza l'ausilio del cane appositamente addestrato o senza idoneo attrezzo?",
+        "options": {
+          "a": "una sanzione da € 150,00 a € 900,00 ed il sequestro del prodotto",
+          "b": "una sanzione da € 300,00 a € 3.000,00 ed il sequestro del prodotto",
+          "c": "una sanzione da € 500,00 a € 5.000,00 ed il sequestro del prodotto"
+        },
+        "correctAnswer": "c" 
       },
       "75": {
-        "text": "Per chi esercita la ricerca o la raccolta senza l'ausilio del cane appositamente addestrato o senza idoneo attrezzo, secondo l'art. 18 della L.R. 36/2023, è prevista:",
+        "text": "Cosa prevede l'art. 18 della l.r. 36/2023 per chi esercita la ricerca o la raccolta di tartufi immaturi?",
         "options": {
           "a": "una sanzione da € 150,00 a € 900,00 ed il sequestro del prodotto",
           "b": "una sanzione da € 300,00 a € 3.000,00 ed il sequestro del prodotto",
           "c": "una sanzione da € 500,00 a € 5.000,00 ed il sequestro del prodotto"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
       "76": {
-        "text": "Cosa prevede l'art. 18 della L.R. 36/2023 per chi esercita la ricerca o la raccolta di tartufi immaturi?",
-        "options": {
-          "a": "una sanzione da € 150,00 a € 900,00 ed il sequestro del prodotto",
-          "b": "una sanzione da € 300,00 a € 3.000,00 ed il sequestro del prodotto",
-          "c": "una sanzione da € 500,00 a € 5.000,00 ed il sequestro del prodotto"
-        },
-        "correctAnswer": "c"
-      },
-      "77": {
-        "text": "Quale delle seguenti violazioni della lr 36/2023 prevede la sanzione accessoria della sospensione del tesserino per un anno?",
+        "text": "Quale delle seguenti violazioni della l.r. 36/2023 prevede la sanzione accessoria della sospensione del tesserino per un anno?",
         "options": {
           "a": "il mancato riempimento delle buche aperte",
           "b": "l'utilizzo di piante micorrizate senza certificazione",
           "c": "la cerca e la raccolta senza ausilio del cane o senza attrezzo idoneo"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
-      "78": {
-        "text": "Quale delle seguenti violazioni della lr 36/2023 prevede la sanzione accessoria della sospensione del tesserino per un anno?",
+       "77": {
+        "text": "Quale delle seguenti violazioni della l.r. 36/2023 prevede la sanzione accessoria della sospensione del tesserino per un anno?",
         "options": {
           "a": "la cerca e la raccolta dei tartufi con tesserino ma senza senza il pagamento annuale",
           "b": "la cerca dei tartufi ricorrendo alla zappatura",
           "c": "il mancato riempimento delle buche aperte"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
-      "79": {
+      "78": {
         "text": "Qual è il soggetto al quale compete l'irrogazione delle sanzioni amministrative previste dalla l.r. 36/2023?",
         "options": {
           "a": "Il Comune",
           "b": "Il CUTFAA (Comando Unità per la Tutela Forestale, ambientale e agro-alimentare) dell'Arma dei carabinieri",
           "c": "La Regione"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
-      "80": {
-        "text": "Quali sono i soggetti incaricati del controllo, della vigilanza, dell'accertamento e contestazione delle infrazioni alla legge regionale 36/2023?",
+      "79": {
+        "text": "Quali sono i soggetti incaricati del controllo, della vigilanza, dell'accertamento e contestazione delle infrazioni alla l.r. 36/2023?",
         "options": {
           "a": "Il CUTFAA (Comando Unità per la Tutela Forestale, ambientale e agro-alimentare) dell'Arma dei carabinieri e le guardie venatorie provinciali",
           "b": "Il CUTFAA (Comando Unità per la Tutela Forestale, ambientale e agro-alimentare) dell'Arma dei carabinieri, i Consorzi per la difesa del tartufo e gli organi di polizia locale urbana e rurale",
-          "c": "Il CUTFAA (Comando Unità per la Tutela Forestale, ambientale e agro-alimentare) dell'Arma dei carabinieri, le guardie venatorie provinciali e gli organi di polizia locale urbana e rurale" 
+          "c": "Il CUTFAA (Comando Unità per la Tutela Forestale, ambientale e agro-alimentare) dell'Arma dei carabinieri, le guardie venatorie provinciali e gli organi di polizia locale urbana e rurale"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
-      "81": {
-        "text": "Secondo il regolamento di attuazione della legge regionale, l'accertamento della specie di Tuber (tartufo) può essere fatto a vista dall'operatore durante la cessione del prodotto?",
+      "80": {
+        "text": "Secondo il regolamento di attuazione della legge regionale l.r. 36/2023, l'accertamento della specie di Tuber (tartufo) può essere fatto a vista dall'operatore durante la cessione del prodotto?",
         "options": {
           "a": "Si, purché l'operatore sia munito del tesserino di abilitazione",
           "b": "Sì, anche se l'operatore è privo di tesserino",
           "c": "No, in nessun caso"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
-      "82": {
-        "text": "Cosa prevede il regolamento di attuazione della legge regionale In caso di dubbio o contestazione dell' accertamento della specie di Tuber (tartufo) durante la cessione del prodotto ?",
+      "81": {
+        "text": "Cosa prevede il regolamento di attuazione della l.r. 36/2023 In caso di dubbio o contestazione dell' accertamento della specie di Tuber (tartufo) durante la cessione del prodotto ?",
         "options": {
-          "a": "Il regolamento regionale prevede che l'identificazione della specie di Tuber venga condotta dal CUTFAA (Comando Unità per la Tutela Forestale, ambientale e agro-alimentare) dell'Arma dei carabinieri",
+          "a": "Il regolamento regionale prevede che l'identificazione della specie di Tuber venga condotta dal CUTFAA (Comando Unità per la Tutela Forestale, ambientale e agro alimentare) dell'Arma dei carabinieri",
           "b": "Il regolamento regionale prevede che l'identificazione della specie di Tuber venga condotta dalle Associazioni di raccoglitori riconosciute",
           "c": "Il regolamento regionale prevede che l'identificazione della specie di Tuber venga fatta dagli Ispettorati micologici presso il Dipartimento di prevenzione della Azienda sanitaria locale."
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
-      "83": {
-        "text": "Come devono essere apposte le tabelle di delimitazione delle tartufaie naturali controllate secondo il regolamento di attuazione della legge regionale?",
+      "82": {
+        "text": "Come devono essere apposte le tabelle di delimitazione delle tartufaie naturali controllate secondo il regolamento di attuazione della l.r. 36/2023?",
         "options": {
           "a": "Le tabelle devono essere apposte in modo che da ogni cartello sia visibile il precedente e il successivo e devono delimitare tutto il perimetro della superficie interessata a una distanza tale da essere visibili da ogni punto di accesso",
           "b": "Le tabelle devono essere apposte lungo il perimetro della superficie interessata, un cartello ogni 20 metri",
           "c": "Le tabelle devono essere apposte lungo il perimetro della superficie interessata, un cartello ogni 30 metri"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a" 
       },
-      "84": {
+      "83": {
         "text": "Qual'è la norma quadro nazionale attualmente in vigore in materia di tartufi?",
         "options": {
           "a": "Legge 11 febbraio 1992 n° 157",
@@ -1123,41 +1443,41 @@
         },
         "correctAnswer": "c"
       },
-      "85": {
-        "text": "Le denominazioni legali delle specie di tartufi commerciabili in Italia sono state riconosciute da:",
+      "84": {
+        "text": "Quale atto ha riconosciuto le denominazioni legali delle specie di tartufi commerciabili in Italia?",
         "options": {
-          "a": "legge Regionale",
-          "b": "legge Nazionale",
-          "c": "regolamento Comunitario"
+          "a": "Legge Regionale",
+          "b": "Legge Nazionale",
+          "c": "Regolamento Comunitario"
+        },
+        "correctAnswer": "b"
+      },
+      "85": {
+        "text": "La L.752/85 prevede dei limiti quantitativi alla raccolta delle varie specie di tartufo?",
+        "options": {
+          "a": "Sì, e indica i limiti quantitativi delle varie specie",
+          "b": "No",
+          "c": "Si, ma demanda alle singole normative regionali l'individuazione dei limiti quantitativi"
         },
         "correctAnswer": "b"
       },
       "86": {
-        "text": "La norma quadro nazionale prevede dei limiti quantitativi alla raccolta delle varie specie de tartufo?",
-        "options": {
-          "a": "sì, e indica i limiti quantitativi delle varie specie",
-          "b": "no",
-          "c": "si, ma demanda alle singole normative regionali l'individuazione dei limiti quantitativi"
-        },
-        "correctAnswer": "b"
-      },
-      "87": {
-        "text": "La vigilanza sull'applicazione della legge quadro nazionale sui tartufi è affidata a:",
+        "text": "La L. 752/85 a chi affida la vigilanza sulla sua applicazione?",
         "options": {
           "a": "Guardia di finanza",
           "b": "Azienda Sanitaria Locale di competenza territoriale",
           "c": "Corpo forestale dello Stato (ora Carabinieri forestali)"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       },
-      "88": {
-        "text": "La norma quadro nazionale prevede che il tesserino di abilitazione alla cerca e raccolta dei tartufi è valido sul territorio:",
+      "87": {
+        "text": "La L. 752/85 prevede che il tesserino di abilitazione alla cerca e raccolta dei tartufi è valido su quale terrtorio?",
         "options": {
           "a": "della singola regione di residenza",
           "b": "del singolo comune di residenza",
           "c": "sull'intero territorio nazionale"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c" 
       }
     }
   },
@@ -1503,6 +1823,371 @@
           "a": "EFSA (European Food Safety Authority)", 
           "b": "NASA (National Aeronautics and Space Administration)",
           "c": "ICQRF (Ispettorato Centrale della Tutela della Qualità e della Repressione Frodi dei Prodotti Agroalimentari)"
+        },
+        "correctAnswer": "b"
+      }
+    }
+  },
+  "E": {
+    "title": "Benessere Animale (Modulo E)",
+    "questions": {
+      "1": {
+        "text": "Come è definito il “Benessere Animale” dall’ OMS?",
+        "options": {
+          "a": "Lo stato di completa Sanità Fisica e Mentale che consente all'animale di vivere in armonia con il suo ambiente",
+          "b": "Lo stato di completa sanità fisica",
+          "c": "Lo stato di sanità mentale"
+        },
+        "correctAnswer": "a" 
+      },
+      "2": {
+        "text": "Quante sono le libertà degli animali?",
+        "options": {
+          "a": "10",
+          "b": "20",
+          "c": "5"
+        },
+        "correctAnswer": "c" 
+      },
+      "3": {
+        "text": "Quale è la PRIMA LIBERTA' degli animali?",
+        "options": {
+          "a": "Libertà dal dolore, dalle ferite e dalle malattie",
+          "b": "Libertà dalla fame, dalla sete e dalla cattiva nutrizione garantendo all'animale l'accesso ad acqua fresca ed a una dieta che lo mantenga in piena salute",
+          "c": "Libertà dalla paura"
+        },
+        "correctAnswer": "b"
+      },
+      "4": {
+        "text": "Quale è la SECONDA LIBERTA' degli animali?",
+        "options": {
+          "a": "Libertà di avere un ambiente fisico adeguato; fornendo all'animale un ambiente che includa riparo e una comoda area di riposo",
+          "b": "Libertà dalla paura e dal disagio",
+          "c": "Libertà dal dolore"
+        },
+        "correctAnswer": "a"
+      },
+      "5": {
+        "text": "Quale è la TERZA LIBERTA' degli animali?",
+        "options": {
+          "a": "Libertà dalla fame e dalla sete",
+          "b": "Libertà dalla paura",
+          "c": "Libertà dal dolore, dalle ferite e dalle malattie prevenendole o diagnosticandole e trattandole rapidamente"
+        },
+        "correctAnswer": "c"
+      },
+      "6": {
+        "text": "Quale è la QUARTA LIBERTA' degli animali?",
+        "options": {
+          "a": "Libertà di manifestare le proprie caratteristiche comportamentali specie-specifiche fornendo all'animale spazio sufficiente, strutture adeguate e la compagnia di animali della propria specie",
+          "b": "Libertà dalla fame e dalla sete",
+          "c": "Libertà di avere un ambiente fisico adeguato"
+        },
+        "correctAnswer": "a"
+      },
+      "7": {
+        "text": "Quale è la QUINTA LIBERTA' degli animali?",
+        "options": {
+          "a": "Libertà di manifestare le proprie caratteristiche comportamentali",
+          "b": "Libertà dalla sete",
+          "c": "Libertà dalla paura e dal disagio, assicurando all'animale condizioni e cure che non comportino sofferenza psicologica"
+        },
+        "correctAnswer": "c"
+      },
+      "8": {
+        "text": "Quali sono i riferimenti normativi in materia di tutela e controllo del benessere animale?",
+        "options": {
+          "a": "Legge Regionale 20 del ottobre 2009 n.59 e Regolamento del 4 Agosto 2011 n.38/R",
+          "b": "Non abbiamo riferimenti normativi",
+          "c": "Legge 281 1991"
+        },
+        "correctAnswer": "a"
+      },
+      "9": {
+        "text": "Cosa riporta l'art. 5 della Legge Regionale del 20 ottobre 2009 n. 59?",
+        "options": {
+          "a": "Il responsabile di un animale ha l'obbligo di garantire la salute ed il benessere del medesimo, di provvedere alla sua sistemazione e di dedicare cure ed attenzioni adeguate secondo le necessità",
+          "b": "Il responsabile deve solo fornire cibo ed acqua",
+          "c": "Il responsabile non ha nessun obbligo"
+        },
+        "correctAnswer": "a"
+      },
+      "10": {
+        "text": "Secondo quale articolo della Legge Regionale del 20 Ottobre 2009 n.59 Il responsabile di un animale deve garantire le cure sanitarie necessarie?",
+        "options": {
+          "a": "art. 10",
+          "b": "art. 5",
+          "c": "art. 2"
+        },
+        "correctAnswer": "b"
+      },
+      "11": {
+        "text": "Secondo quale articolo della Legge Regionale del 20 Ottobre 2009 n.59 Il responsabile di un animale deve garantire l'equilibrio fisico dell'animale mediante adeguate possibilità di movimento?",
+        "options": {
+          "a": "art. 5",
+          "b": "art. 1",
+          "c": "art. 12"
+        },
+        "correctAnswer": "a" 
+      },
+      "12": {
+        "text": "Secondo quale articolo della Legge Regionale del 20 Ottobre 2009 n.59 Il responsabile dell'animale deve assicurare un ricovero idoneo e sicuro?",
+        "options": {
+          "a": "art. 1",
+          "b": "art. 2",
+          "c": "art. 5"
+        },
+        "correctAnswer": "c" 
+      },
+      "13": {
+        "text": "Secondo quale articolo della Legge Regionale del 20 Ottobre 2009 n.59 Il responsabile dell'animale deve garantire un adeguato e costante controllo dell'animale al fine di evitare rischi per la pubblica incolumità?",
+        "options": {
+          "a": "art. 5",
+          "b": "art. 10",
+          "c": "art. 2"
+        },
+        "correctAnswer": "a" 
+      },
+      "14": {
+        "text": "Secondo quale articolo della Legge Regionale del 20 Ottobre 2009 n.59 Il responsabile dell'animale deve adottare misure idonee a prevenire l'allontanamento dai luoghi di abituale soggiorno?",
+        "options": {
+          "b": "art. 1", 
+          "a": "art. 5",
+          "c": "art. 4"
+        },
+        "correctAnswer": "a" 
+      },
+      "15": {
+        "text": "L'art.6 della Legge Regionale del 20 Ottobre 2009 n.59 di cosa tratta?",
+        "options": {
+          "a": "Controllo della riproduzione",
+          "b": "Trasporto animali",
+          "c": "Amputazioni"
+        },
+        "correctAnswer": "b"
+      },
+      "16": {
+        "text": "L'art.6 della Legge Regionale del 20 Ottobre 2009 n.59 cosa riporta?",
+        "options": {
+          "a": "E' vietato trasportare animali nei vani portabagagli chiusi degli autoveicoli per qualsiasi periodo di tempo",
+          "b": "E' possibile trasportare animali nei vani portabagagli chiusi degli autoveicoli",
+          "c": "Nessuna delle precedenti"
+        },
+        "correctAnswer": "a"
+      },
+      "17": {
+        "text": "Il Regolamento del 4 Agosto 2011 n38/R all' art. 3 di cosa tratta?",
+        "options": {
+          "a": "Controllo della riproduzione",
+          "b": "Amputazioni",
+          "c": "Modalità di trasporto"
+        },
+        "correctAnswer": "c"
+      },
+      "18": {
+        "text": "Il Regolamento del 4 Agosto 2011 n38/R all' art. 3 cosa riporta in merito al trasportatore?",
+        "options": {
+          "a": "Utilizza contenitori idonei a garantire la massima sicurezza",
+          "b": "Non deve occuparsi della sicurezza degli animali",
+          "c": "Non deve utilizzare contenitori idonei per la sicurezza animali"
+        },
+        "correctAnswer": "a"
+      },
+      "19": {
+        "text": "Quale articolo del Codice della strada tratta del trasporto di persone, animali e oggetti sui veicoli a motore?",
+        "options": {
+          "a": "art 169",
+          "b": "art. 170",
+          "c": "art.150"
+        },
+        "correctAnswer": "a"
+      },
+      "20": {
+        "text": "Cosa riporta il Codice della strada in merito al trasporto dei cani?",
+        "options": {
+          "a": "Non si possono trasportare i cani in macchina",
+          "b": "il cane deve essere trasportato in modo sicuro e senza mettere a rischio la sicurezza del conducente, dei passeggeri o dell'animale stesso",
+          "c": "Non stabilisce niente sul trasporto dei cani in macchina"
+        },
+        "correctAnswer": "b"
+      },
+      "21": {
+        "text": "L'art. 7 della Legge Regionale del 20 Ottobre 2009 n.59 di cosa tratta?",
+        "options": {
+          "a": "Controllo della riproduzione",
+          "b": "Trasporto animali",
+          "c": "Amputazioni"
+        },
+        "correctAnswer": "a"
+      },
+      "22": {
+        "text": "Secondo l'art.7 della Legge Regionale del 20 Ottobre 2009 n.59 chi esegue gli interventi di sterilizzazione?",
+        "options": {
+          "a": "Il responsabile dell'animale",
+          "b": "Nessuna delle precedenti",
+          "c": "Il Medico veterinario"
+        },
+        "correctAnswer": "c"
+      },
+      "23": {
+        "text": "L'art.8 della Legge Regionale del 20 Ottobre 2009 n.59 di cosa tratta?",
+        "options": {
+          "a": "Amputazioni",
+          "b": "Controllo della riproduzione",
+          "c": "Trasporto degli animali"
+        },
+        "correctAnswer": "a"
+      },
+      "24": {
+        "text": "L'art. 8 della Legge Regionale del 20 Ottobre 2009 n.59 cosa riporta?",
+        "options": {
+          "a": "Sono vietate le amputazioni finalizzate unicamente a modificare l'aspetto di un animale o ad altri scopi non terapeutici",
+          "b": "Sono consentite tutte le amputazioni anche a scopi non terapeutici",
+          "c": "Non è consentita alcun tipo di amputazione per qualsiasi motivo"
+        },
+        "correctAnswer": "a"
+      },
+      "25": {
+        "text": "L'art.9 della Legge Regionale del 20 Ottobre 2009 n.59 di cosa tratta?",
+        "options": {
+          "a": "Trasporto degli animali",
+          "b": "Amputazioni",
+          "c": "Divieto di soppressione"
+        },
+        "correctAnswer": "c"
+      },
+      "26": {
+        "text": "Cosa riporta lart.9 della Legge Regionale del 20 Ottobre 2009 n.59?",
+        "options": {
+          "a": "E' vietato sopprimere gli animali se non perché gravemente malati e incurabili",
+          "b": "Gli animali gravemente malati non si possono mai sopprimere",
+          "c": "Si possono sopprime gli animali senza alcuna motivazione"
+        },
+        "correctAnswer": "a"
+      },
+      "27": {
+        "text": "Cosa tratta il Regolamento del 4 Agosto 2011 n 38/R nel art. 2?",
+        "options": {
+          "a": "Trasporto",
+          "b": "Modalità di custodia",
+          "c": "Amputazioni"
+        },
+        "correctAnswer": "b"
+      },
+      "28": {
+        "text": "L'art.2 del Regolamento del 4 Agosto 2011 n 38/R riporta che:",
+        "options": {
+          "a": "E' vietata la custodia del cane alla catena, o con mezzi di contenimento similari, salve comprovate ragioni sanitarie o per urgenti misure di sicurezza",
+          "b": "Si possono tenere i cani a catena",
+          "c": "Nessuna delle precedenti"
+        },
+        "correctAnswer": "a"
+      },
+      "29": {
+        "text": "Secondo l'Allegato A del Regolamento del 4 Agosto 2011 n 38/R cani e gatti:",
+        "options": {
+          "a": "Non devono essere confinati permanentemente in locali di servizio e terrazze",
+          "b": "Devono sempre stare nelle terrazze per tutto il tempo della detenzione",
+          "c": "Nessuna delle precedenti"
+        },
+        "correctAnswer": "a"
+      },
+      "30": {
+        "text": "Come devono essere le recinzioni dei cani secondo l'Allegato A del Regolamento del 4 Agosto 2011 n 38/R?",
+        "options": {
+          "a": "Possono permettere la fuga del cane",
+          "b": "Sono realizzate per la sicurezza dell'animale ma non per impedire la fuga",
+          "c": "La recinzione deve essere adeguata ad impedire la fuga ed ogni rischio per la sicurezza dell'animale e della collettività. Per i cani custoditi in box e recinti deve essere garantita la possibilità giornaliera di movimento"
+        },
+        "correctAnswer": "c"
+      },
+      "31": {
+        "text": "L'art. 24 della Legge Regionale del 20 Ottobre 2009 n.59 cosa riporta?",
+        "options": {
+          "a": "Il responsabile del cane provvede, entro il sessantesimo giorno di vita dell'animale, all'iscrizione ed alla identificazione dello stesso all'anagrafe canina",
+          "b": "Il responsabile del cane non provvede mail all' identificazione del cane",
+          "c": "Nessuna delle precedenti"
+        },
+        "correctAnswer": "a"
+      },
+      "32": {
+        "text": "Chi gestisce l'Anagrafe Canina?",
+        "options": {
+          "a": "I servizi Veterinari delle ASL",
+          "b": "Le Regioni",
+          "c": "I responsabili del cane"
+        },
+        "correctAnswer": "a"
+      },
+      "33": {
+        "text": "Che cosa è il microchip?",
+        "options": {
+          "a": "Un metodo alternativo per identificare il cane",
+          "b": "Si tratta di un piccolo dispositivo elettronico di forma cilindrica di 11 millimetri di lunghezza e 2 di diametro, rivestito di materiale biocompatibile che identifica il cane",
+          "c": "Un tatuaggio per identificare il cane"
+        },
+        "correctAnswer": "b"
+      },
+      "34": {
+        "text": "Per cosa vacciniamo i nostri cani principally?",
+        "options": {
+          "a": "Cimurro, Epatite Infettiva, Parvovirosi, Parainfluenza, Infezioni respiratorie, Leptospirosi",
+          "b": "Solo Cimurro",
+          "c": "Leptospirosi e Cimurro"
+        },
+        "correctAnswer": "a"
+      },
+      "35": {
+        "text": "Quanti cicli epidemiologici esistono per la Rabbia?",
+        "options": {
+          "a": "Un solo ciclo solo: Silvestre",
+          "b": "Due cicli epidemiologici: Silvestre e Urbano",
+          "c": "Tre cicli epidemiologici"
+        },
+        "correctAnswer": "b"
+      },
+      "36": {
+        "text": "In Italia la vaccinazione contro la Rabbia negli animali domestici è obbligatoria?",
+        "options": {
+          "a": "Per gli animali domestici, la vaccinazione preventiva è in genere facoltativa, mentre è obbligatoria nel territorio a rischio di rabbia silvestre, cioè nei casi in cui la malattia è circolante nella popolazione animale selvatica (volpi)",
+          "b": "E' sempre obbligatoria in Italia",
+          "c": "E' obbligatoria solo per i gatti"
+        },
+        "correctAnswer": "a"
+      },
+      "37": {
+        "text": "Prima di fare la vaccinazione al proprio cane è indispensabile?",
+        "options": {
+          "a": "Non è necessaria fare niente prima della vaccinazione",
+          "b": "E' necessario trattare il cane solo per gli ectoparassiti",
+          "c": "Una visita clinica e la ricerca dei parassiti intestinali"
+        },
+        "correctAnswer": "c"
+      },
+      "38": {
+        "text": "Quali sono i principali ectoparassiti che si possono riscontrare nei cani?",
+        "options": {
+          "a": "Pulci e zecche",
+          "b": "Strongili",
+          "c": "Ascaridi e coccidi"
+        },
+        "correctAnswer": "a"
+      },
+      "39": {
+        "text": "Quale è il vettore con cui il cane e l'uomo contraggono la Leishmania?",
+        "options": {
+          "a": "Flebotomo",
+          "b": "Zecche",
+          "c": "Pulci"
+        },
+        "correctAnswer": "a"
+      },
+      "40": {
+        "text": "Quale farmaco deve essere somministrato in caso di avvelenamento con Rodenticidi?",
+        "options": {
+          "a": "Vitamina E",
+          "b": "Vitamina K",
+          "c": "Non esistono terapie"
         },
         "correctAnswer": "b"
       }
