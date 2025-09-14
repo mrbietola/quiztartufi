@@ -94,7 +94,7 @@ const TartufiQuiz = ({ quizData }) => {
     
     const totalErrors = wrongAnswers + notAnswered;
     console.log("Errori totali:", totalErrors, "di cui sbagliati:", wrongAnswers, "e non risposti:", notAnswered);
-    const testPassed = totalErrors <= 5;
+    const testPassed = totalErrors <= 4;
     
     return {
       totalQuestions,
@@ -153,7 +153,7 @@ const TartufiQuiz = ({ quizData }) => {
         
         <div className="mb-8">
           <h2 className="text-lg font-semibold mb-2 text-indigo-800 dark:text-indigo-300">Test - 30 domande casuali</h2>
-          <p className="mb-4 text-gray-700 dark:text-gray-300">Per superare l'esame devi commettere massimo 5 errori su 30 domande.</p>
+          <p className="mb-4 text-gray-700 dark:text-gray-300">Per superare l'esame devi commettere massimo 4 errori su 30 domande.</p>
           
           <div className="text-center mb-4">
             <button
@@ -340,7 +340,7 @@ const TartufiQuiz = ({ quizData }) => {
                     ESAME SUPERATO! 
                     <div className="text-sm font-normal mt-1 text-gray-700 dark:text-gray-300">
                       Hai fatto {score.wrongAnswers + score.unanswered} errori totali
-                      (massimo consentito: 5)
+                      (massimo consentito: 4)
                     </div>
                   </div>
                 ) : (
@@ -348,7 +348,7 @@ const TartufiQuiz = ({ quizData }) => {
                     ESAME NON SUPERATO
                     <div className="text-sm font-normal mt-1 text-gray-700 dark:text-gray-300">
                       Hai fatto {score.wrongAnswers + score.unanswered} errori totali
-                      (massimo consentito: 5)
+                      (massimo consentito: 4)
                     </div>
                   </div>
                 )}

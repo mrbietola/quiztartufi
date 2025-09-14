@@ -63,7 +63,7 @@ const SectionQuiz = ({ quizData }) => {
     });
     
     const totalErrors = wrongAnswers + notAnswered;
-    const testPassed = totalErrors <= Math.ceil(totalQuestions * (5/30)); // Scala il criterio di superamento in base al numero di domande
+    const testPassed = totalErrors <= Math.ceil(totalQuestions * (4/30)); // Scala il criterio di superamento in base al numero di domande
     
     return {
       totalQuestions,
@@ -324,7 +324,7 @@ const SectionQuiz = ({ quizData }) => {
                     ESAME SUPERATO! 
                     <div className="text-sm font-normal mt-1 text-gray-700 dark:text-gray-300">
                       Hai fatto {score.wrongAnswers + score.unanswered} errori totali
-                      (massimo consentito: {Math.ceil(score.totalQuestions * (5/30))})
+                      (massimo consentito: {Math.ceil(score.totalQuestions * (4/30))})
                     </div>
                   </div>
                 ) : (
@@ -332,7 +332,7 @@ const SectionQuiz = ({ quizData }) => {
                     ESAME NON SUPERATO
                     <div className="text-sm font-normal mt-1 text-gray-700 dark:text-gray-300">
                       Hai fatto {score.wrongAnswers + score.unanswered} errori totali
-                      (massimo consentito: {Math.ceil(score.totalQuestions * (5/30))})
+                      (massimo consentito: {Math.ceil(score.totalQuestions * (4/30))})
                     </div>
                   </div>
                 )}
