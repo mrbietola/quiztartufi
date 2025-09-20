@@ -1,8 +1,22 @@
 # Avvia il server di sviluppo con hot-reload
 npm run dev
 
-# Crea la build di produzione nella cartella dist
+## Flusso gh-pages
+
+# Fa il build utilizzando il file vite_config.js con la configurazione per gh-pages e fa il deploy 
+npm run deploy
+
+
+## Flusso Android
+
+# Crea la build di produzione android nella cartella dist
 npm run build
+
+#sincronizza l'applicazione su android
+npx cap sync
+
+#apre android studio per fare il debug su telefono
+npx cap open android
 
 # Fai preview della build di produzione in locale
 npm run preview
