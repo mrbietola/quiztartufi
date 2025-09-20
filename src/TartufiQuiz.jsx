@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect,useRef } from 'react';
 
 const TartufiQuiz = ({ quizData }) => {
   const [testQuestions, setTestQuestions] = useState([]);
@@ -8,6 +8,8 @@ const TartufiQuiz = ({ quizData }) => {
   const [error, setError] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);
   const questionsPerPage = 10;
+   // Ref per la sezione dei risultati
+  const resultsRef = useRef(null);
   
   const resetCurrentTest = () => {
     setUserAnswers({});
@@ -26,6 +28,19 @@ const TartufiQuiz = ({ quizData }) => {
       setLoading(false);
     }
   }, [quizData]);
+  
+  // Effetto per lo scroll automatico ai risultati
+  useEffect(() => {
+    if (showResults && resultsRef.current) {
+      // Aspetta un breve momento per assicurarsi che il DOM sia aggiornato
+      setTimeout(() => {
+        resultsRef.current.scrollIntoView({ 
+          behavior: 'smooth',
+          block: 'start'
+        });
+      }, 100);
+    }
+  }, [showResults]);
   
   const generateRandomQuestions = () => {
     try {
@@ -310,7 +325,10 @@ const TartufiQuiz = ({ quizData }) => {
         </div>
         
         {showResults && (
-          <div className="mt-8 p-6 bg-indigo-50 dark:bg-indigo-900/30 rounded-lg border border-indigo-100 dark:border-indigo-700 shadow-sm">
+          <div 
+		  ref={resultsRef}
+		  className="mt-8 p-6 bg-indigo-50 dark:bg-indigo-900/30 rounded-lg border border-indigo-100 dark:border-indigo-700 shadow-sm"
+		   >
             <h2 className="text-2xl font-bold text-center mb-6 text-indigo-900 dark:text-indigo-200">Risultati</h2>
             
             <div className="text-center">
