@@ -4,14 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    
-	
     "dev": "vite",
-	"// BUILD PER ANDROID (default)": "",
+    "// BUILD PER ANDROID (default)": "",
     "build": "vite build",
-	"// BUILD PER GITHUB PAGES": "",
-	"build:gh-pages": "cross-env VITE_DEPLOY_TARGET=gh-pages vite build",
-	"// DEPLOY SU GITHUB PAGES (costruisce e pubblica)": "",
+    "// BUILD PER GITHUB PAGES": "",
+    "build:gh-pages": "cross-env VITE_DEPLOY_TARGET=gh-pages vite build",
+    "// DEPLOY SU GITHUB PAGES (costruisce e pubblica)": "",
     "deploy": "npm run build:gh-pages && gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -21,6 +19,7 @@
     "@capacitor/cli": "^7.4.3",
     "@capacitor/core": "^7.4.3",
     "@tailwindcss/vite": "^4.1.13",
+    "lucide-react": "^0.544.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
