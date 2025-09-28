@@ -189,7 +189,7 @@ const SectionQuiz = ({ quizData }) => {
             Seleziona una Sezione
           </button>
         </div>
-        <SectionSelector show={showSectionSelector || !selectedSection} onClose={() => setShowSectionSelector(false)} sections={sections} selectedSection={selectedSection} onSectionSelect={handleSectionSelect} />
+        <SectionSelector show={showSectionSelector } onClose={() => setShowSectionSelector(false)} sections={sections} selectedSection={selectedSection} onSectionSelect={handleSectionSelect} />
       </>
     );
   }
